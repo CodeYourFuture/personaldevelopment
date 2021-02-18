@@ -18,5 +18,5 @@ description: Independent study for after PD Day 1- Learning to Learn
 
 7\) _**\(Do\)**_ Honeycomb feedback - go onto the Honeycomb platform and complete your self assessment of ‘Working With My Team’ cell
 
-8\) _**\(Do\)**_ Github/ Git assignment
+8\) _**\(Do\)**_ Github/ Git preparation assignment - [https://syllabus.codeyourfuture.io/git/preparation](https://syllabus.codeyourfuture.io/git/preparation)
 
