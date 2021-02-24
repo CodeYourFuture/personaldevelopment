@@ -10,7 +10,7 @@ description: >-
 
 All trainees should have completed PD Day 1, 2 and 3
 
-All trainees should have completed PD coursework from weeks 1-
+All trainees should have completed PD coursework from previous weeks
 
 All trainees should have recieved feedback on their Honeycomb cell **'Maximising My Time'** 
 
@@ -29,8 +29,6 @@ Session plan is [here](https://personaldevelopment.codeyourfuture.io/sessions/js
 * To help trainees learn the definition of resilience
 * To help trainees identify their current coping habits
 * To support trainees in developing resilience strategies
-
-{% embed url="https://docs.google.com/presentation/d/1qajHTcBIBGP8vNXVbkKDd9rVJ0U1r75GqV\_Oh0d\_oNc/edit?usp=sharing" %}
 
 
 
