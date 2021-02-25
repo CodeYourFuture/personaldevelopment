@@ -22,29 +22,35 @@ For every step you can use an activity.
    **Your Superpower** \(Use online whiteboard like Miro, or Google Jamboard to post answers\)
 
   
-   Using Superheroes as a theme for your retro, ask the question:. What is your superpower? What skill or competence do you bring with you to the team?  
+   Using Superheroes as a theme for your retro, ask the question:  
   
-   Ask participants to write their superpower on a sticky note and in short explain it when necessary.  
-
-2. **Gather the Data:**  
+   What is your superpower?   
+   What skill or competence do you bring with you to the group?  
   
-   **Superhero** \(This is basically the same activity as for example Liked, Learned, Longed For, but by using different terms and images to challenge participants and keep it fun.\) You can use an online retro board for this like [Metro Retro](https://metroretro.io) or [Easyretro](https://easyretro.io/publicboard/hWBjp6dsAwfq8IR3trAaYhDCcmJ3/4b2b3322-96af-4861-b900-15aad60cc3b6)\) 
-
+   Ask participants to write their superpower on a sticky note and explain why they chose that particular trait or skill.  
   
-   What do you think was super \(use Superman image\)?   
-  
-   What do you think was strange \(use Dr. Strange image\)?   
-  
-   What do you think was bad \(use Batman image\)?   
-  
-   What didn’t you dare to do \(Use daredevil image\)?
-
-
-
   
 
-3. Generate Insights:  Using the data gathered in the Superhero step, discuss what were the causes for why thing went wrong? 
-4. Decide what to do:  
+2. **Gather the Data:**  **Superhero** \(This is basically the same activity as for example Liked, Learned, Longed For, but by using different terms and images to challenge participants and keep it fun.\) You can use an online retro board for this like [Metro Retro](https://metroretro.io) or [Easyretro](https://easyretro.io/publicboard/hWBjp6dsAwfq8IR3trAaYhDCcmJ3/4b2b3322-96af-4861-b900-15aad60cc3b6)\)  
+
+![](../../.gitbook/assets/set-the-stage-your-super-power-1200x1600.jpg)
+
+  
+What do you think was super \(use Superman image\)?   
+  
+What do you think was strange \(use Dr. Strange image\)?   
+  
+What do you think was bad \(use Batman image\)?   
+  
+What didn’t you dare to do \(Use daredevil image\)?
+
+
+
+  
+
+
+1. Generate Insights:  Using the data gathered in the Superhero step, discuss what were the causes for why thing went wrong? 
+2. Decide what to do:  
   
    **SMART Actions \(Use whiteboard Miro or Jamboard\)**   
 
@@ -59,7 +65,7 @@ For every step you can use an activity.
   
    In order to &lt;reach our goal&gt; we will &lt;do an action&gt; before &lt;a point in time&gt;. We will know we are successful when &lt;measure of the result happens&gt;. 
 
-5. Closing:   
+3. Closing:   
    Team Super Powers
 
    Ask the team to write down what they think is the superpower of the team. A positive closing of the retrospective.
