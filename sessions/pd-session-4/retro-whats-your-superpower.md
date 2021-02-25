@@ -16,13 +16,61 @@ In the book [Agile Retrospectives: Making Good Teams Great](https://www.amazon.c
 
 For every step you can use an activity. 
 
-1. You can use the following activity for the Set the Stage step:
+1. **Set the Stage**:
+
+  
+   **Your Superpower** \(Use online whiteboard like Miro, or Google Jamboard to post answers\)
+
+  
+   Using Superheroes as a theme for your retro, ask the question:. What is your superpower? What skill or competence do you bring with you to the team?  
+  
+   Ask participants to write their superpower on a sticky note and in short explain it when necessary.  
+
+2. **Gather the Data:**  
+  
+   **Superhero**This is basically the same activity as for example Liked, Learned, Longed For, but by using different terms and pictures you challenge participants and keep it fun.\) You can use an online retro board for this like Metro Retro or 
+
+  
+   What do you think was super \(use Superman image\)?   
+  
+   What do you think was strange \(use Dr. Strange image\)?   
+  
+   What do you think was bad \(use Batman image\)?   
+  
+   What didn’t you dare to do \(Use daredevil image\)?
+
+
+
+  
+
+3. Generate Insights:  Using the data gathered in the Superhero step, discuss what were the causes for why thing went wrong? 
+4. Decide what to do:  
+  
+   **SMART Actions \(Use whiteboard Miro or Jamboard\)**   
+
+
+   Use this activity to help the group define their actions. Just another format.
+
+   In this case, you can use this template to help the team define SMART actions. 
+
+   It's also a practical way for trainees to learn about SMART goal setting.
+
+  
+  
+   In order to &lt;reach our goal&gt; we will &lt;do an action&gt; before &lt;a point in time&gt;. We will know we are successful when &lt;measure of the result happens&gt;. 
+
+5. Closing:   
+   Team Super Powers
+
+   Ask the team to write down what they think is the superpower of the team. A positive closing of the retrospective.
 
 #### Your Superpower \(Use online whiteboard like Miro, or Google Jamboard or Retro board like Metroretro or 
 
-This is an activity you can use in a retro with Superheroes as a theme. The first question is, what is your superpower? Which skill or competence do you bring with you to the team?
+Using Superheroes as a theme for your retro, ask the question:. What is your superpower? What skill or competence do you bring with you to the team?
 
-Ask the people to write their superpower on a sticky note and in short explain it when necessary.
+Ask participants to write their superpower on a sticky note and in short explain it when necessary.
+
+
 
 2. Then you can use the following activity for the Gather the Data stage:
 
