@@ -28,7 +28,7 @@ For every step you can use an activity.
 
 2. **Gather the Data:**  
   
-   **Superhero** \(This is basically the same activity as for example Liked, Learned, Longed For, but by using different terms and images to challenge participants and keep it fun.\) You can use an online retro board for this like [Metro Retro](https://metroretro.io) or Easyretro\) 
+   **Superhero** \(This is basically the same activity as for example Liked, Learned, Longed For, but by using different terms and images to challenge participants and keep it fun.\) You can use an online retro board for this like [Metro Retro](https://metroretro.io) or [Easyretro](https://easyretro.io/publicboard/hWBjp6dsAwfq8IR3trAaYhDCcmJ3/4b2b3322-96af-4861-b900-15aad60cc3b6)\) 
 
   
    What do you think was super \(use Superman image\)?   
