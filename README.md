@@ -4,7 +4,7 @@
 
 At CodeYourFuture our aim is to empower people to change their lives by giving them the tools to have a successful career in tech.
 
-The problem lies in the fact that the people we work with face massive barriers to employment. Learning tech skills alone are not enough to make them employable. These barriers interfere with students/trainees  being able to fully engage with what we teach and learn effectively. 
+The people we work with face massive barriers to employment. Learning tech skills alone are not enough to make them employable. These barriers interfere with students/trainees  being able to fully engage with what we teach and learn effectively. 
 
 These problems can manifest themselves in a variety of ways related to their 
 
@@ -25,7 +25,7 @@ In this website, you will find practical information about supporting our traine
 
 Depending on your interest and experience you will find a role to suit you.  Some are better for new volunteers whilst others are targeted at experienced volunteers.
 
-This is a living document. Expect it to change and grow over time. If you'd like to suggest an enhancement or change please speak to Candy DeRoy or open a Pull Request \[link\]. 
+This is a living document. Expect it to change and grow over time. If you'd like to suggest an enhancement or change please speak to Candy DeRoy. 
 
 ## Existing Resources
 

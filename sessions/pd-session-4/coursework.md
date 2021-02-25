@@ -53,9 +53,7 @@ In your Learning Journal/Diary answer the following questions:
 
 ## Leadership Compass \(Do, Read, Write\)‌
 
-Need assignment
-
-Go onto the Honeycomb platform and complete your self assessment of **Maximising My Time** cell.  
+Need assignment  
 
 
 
