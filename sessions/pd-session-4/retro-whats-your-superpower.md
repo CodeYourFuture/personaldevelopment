@@ -18,7 +18,7 @@ For every step you can use an activity.
 
 1. You can use the following activity for the Set the Stage step:
 
-#### Your Superpower \(Use online whiteboard like Miro, or Google 
+#### Your Superpower \(Use online whiteboard like Miro, or Google Jamboard or Retro board like Metroretro or 
 
 This is an activity you can use in a retro with Superheroes as a theme. The first question is, what is your superpower? Which skill or competence do you bring with you to the team?
 
