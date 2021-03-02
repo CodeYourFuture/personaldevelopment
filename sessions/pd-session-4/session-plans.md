@@ -78,7 +78,7 @@ Session plan is [here](https://personaldevelopment.codeyourfuture.io/sessions/js
 
 
 
-{% embed url="https://docs.google.com/presentation/d/1g68wLGj9HKdoBWLh0DK4ZWCbEl47U7RU1\_Y6kPviQf4/edit?usp=sharing" %}
+{% embed url="https://docs.google.com/presentation/d/1WqU7yWLsvcIZhaI-PJQgimdIKInPuH7eTxoI3af2jvs/edit?usp=sharing" %}
 
 
 
