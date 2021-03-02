@@ -30,6 +30,8 @@ Session plan is [here](https://personaldevelopment.codeyourfuture.io/sessions/js
 * To help trainees identify their current coping habits
 * To support trainees in developing resilience strategies
 
+{% embed url="https://docs.google.com/presentation/d/1ArKonsnqkM5lFhowF8Eg4mabbs-94rvJoBXovYz4BAU/edit?usp=sharing" %}
+
 
 
 ## Session 3 \(30 mins- 40mins\)
