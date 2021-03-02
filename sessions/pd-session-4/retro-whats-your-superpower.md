@@ -14,7 +14,7 @@ In the book [Agile Retrospectives: Making Good Teams Great](https://www.amazon.c
 * **Decide What To Do**: what are experiments that could help us to improve [1% a day](https://agilestrides.com/blog/113-practices-of-extreme-programming-applied-to-management/)
 * **Closing**: close the retro with an activity
 
-Remeber that your retro is covering the past 4 weeks and should keep the focus on their soft skill development including teamwork, communication, 
+Remeber that your retro is covering the past 4 weeks and should keep the focus on their soft skill development including teamwork, time management and communication, 
 
 ### **Step 1 - Set the Stage**: \(Use online whiteboard like Miro, or Google Jamboard to post answers\)
 
