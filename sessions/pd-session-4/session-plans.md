@@ -53,9 +53,7 @@ Session plan is [here](https://personaldevelopment.codeyourfuture.io/sessions/js
 
 
 
-{% embed url="https://docs.google.com/presentation/d/1Tt73Phkjz3\_WJw42Wy65hp-1vik8zK3p2tCQQfyxW50/edit?usp=sharing" %}
-
-
+{% embed url="https://docs.google.com/presentation/d/1jh\_6PhOjQbHNlZsD6JRLguJgLeiYUH2pIme6XOQZpw8/edit\#slide=id.gbf2ab4de1f\_2\_47" %}
 
 
 
