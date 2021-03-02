@@ -50,7 +50,7 @@
   * [Developer Skills - Resilience](sessions/pd-session-4/developer-skills-resilience.md)
   * [Roles in Tech](sessions/pd-session-4/roles-in-tech.md)
   * [Pitches and Presenting](sessions/pd-session-4/untitled-2.md)
-  * [Leadership Compass / Goal Setting](sessions/pd-session-4/leadership-compass-goal-setting/README.md)
+  * [Leadership Compass](sessions/pd-session-4/leadership-compass-goal-setting/README.md)
     * [Leadership Compass Score Sheet](sessions/pd-session-4/leadership-compass-goal-setting/leadership-compass-score-sheet.md)
   * [Honeycomb - Presenting for Success](sessions/pd-session-4/untitled-3.md)
   * [Coursework](sessions/pd-session-4/coursework.md)
