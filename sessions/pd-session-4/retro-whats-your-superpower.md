@@ -12,7 +12,7 @@ In the book [Agile Retrospectives: Making Good Teams Great](https://www.amazon.c
 * **Gather The Data**: what happened, make sure everyone has the same picture
 * **Generate Insights**: analyze the data to find root causes
 * **Decide What To Do**: what are experiments that could help us to improve [1% a day](https://agilestrides.com/blog/113-practices-of-extreme-programming-applied-to-management/)
-* **Closing**: don’t just walk away but close the retro with an activity
+* **Closing**: close the retro with an activity
 
 Remeber that your retro is covering the past 4 weeks and should keep the focus on their soft skill development including teamwork, communication, 
 
