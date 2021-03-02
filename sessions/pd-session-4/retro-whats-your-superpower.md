@@ -14,14 +14,14 @@ In the book [Agile Retrospectives: Making Good Teams Great](https://www.amazon.c
 * **Decide What To Do**: what are experiments that could help us to improve [1% a day](https://agilestrides.com/blog/113-practices-of-extreme-programming-applied-to-management/)
 * **Closing**: don’t just walk away but close the retro with an activity
 
-Remeber that your retro is covering the past 4 week and should keep the focus on their soft skill development including teamwork, communication, 
+Remeber that your retro is covering the past 4 weeks and should keep the focus on their soft skill development including teamwork, communication, 
 
-**Set the Stage**:
+### **Step 1 - Set the Stage**: \(Use online whiteboard like Miro, or Google Jamboard to post answers\)
 
 ![](../../.gitbook/assets/set-the-stage-your-super-power-1200x1600.jpg)
 
   
-**Your Superpower** \(Use online whiteboard like Miro, or Google Jamboard to post answers\)
+**Your Superpower** 
 
   
 Using Superheroes as a theme for your retro, ask the question:  
@@ -30,37 +30,42 @@ What is your superpower?
 What skill or competence do you bring with you to the group?  
   
 Ask participants to write their superpower on a sticky note or text box and explain why they chose that particular trait or skill.  
-  
-  
 
 
-**Gather the Data:**
+### **Step 2 - Gather the Data: \(**You can use an online retro board for this like [Metro Retro](https://metroretro.io) or [Easyretro](https://easyretro.io/publicboard/hWBjp6dsAwfq8IR3trAaYhDCcmJ3/4b2b3322-96af-4861-b900-15aad60cc3b6)\)
 
 ![](../../.gitbook/assets/gather-the-data-what-went-super-bad-was-strange-and-dare-to-next-sprint-1202x1600.jpg)
 
   
   
-**Superhero** \(This is basically the same activity as for example Liked, Learned, Longed For, but by using different terms and images to challenge participants and keep it fun.\) You can use an online retro board for this like [Metro Retro](https://metroretro.io) or [Easyretro](https://easyretro.io/publicboard/hWBjp6dsAwfq8IR3trAaYhDCcmJ3/4b2b3322-96af-4861-b900-15aad60cc3b6)\)   
+**Superhero** \(This is basically the same activity as for example Liked, Learned, Longed For, but by using different terms and images to challenge participants and keep it fun.\)   
+  
+Also you can use different Superhero names which are not cis white men!  
   
   
-What do you think was super \(use Superman image\)?   
+What do you think was super ?   
   
-What do you think was strange \(use Dr. Strange image\)?   
+What do you think was strange?   
   
-What do you think was bad \(use Batman image\)?   
+What do you think was bad?   
   
-What didn’t you dare to do \(Use daredevil image\)?  
+What didn’t you dare to do? What was scary?   
 
 
-#### **Generate Insights**:  
+Ask participants to write their answers to the following questions on a sticky note or text box.    
+Have them talk about the Super and Strange things they wrote down. Leave the Bad and Scary things to discuss in the next step. 
 
-Using the data gathered in the Superhero step, discuss what were the causes for why things went wrong?  
+### **Step 3 - Generate Insights**: \(Use the same Metro Retro or Easyretro board\) 
 
+Using the data gathered in Step 2, discuss what were the causes for why things were bad and why things were scary..   
+Why did they go wrong? 
 
-**Decide what to do**:  
+Why were you afraid to try something?   
   
-**SMART Actions \(Use whiteboard Miro or Jamboard\)**   
+Invite participants to write their answers in the Write your answers on the retro board.   
 
+
+### **Step 4 - Decide what to do**:  **SMART Actions \(Use whiteboard Miro or Jamboard\)**  
 
 Use this activity to help the group define their actions for the next module. 
 
