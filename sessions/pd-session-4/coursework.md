@@ -18,8 +18,8 @@ description: >-
 
 Spend 10 minutes each day for 7 days on the following exercise:
 
-1. Write down the three of the funniest things you have experienced, seen, or heard that day. Provide detail and note how they made you feel. If you can’t think of anything, do an online search for funny stories or anecdotes. Social media can be a good source for funny material. \
-2. Write down why you found it funny. The more specific you are, the more effective the exercise will be. \
+1. Write down the three of the funniest things you have experienced, seen, or heard that day. Provide detail and note how they made you feel. If you can’t think of anything, do an online search for funny stories or anecdotes. Social media can be a good source for funny material. 
+2. Write down why you found it funny. The more specific you are, the more effective the exercise will be. 
 3. Write these three funny things at the end of your day. Doing so will foster a new [**habit**](https://positivepsychology.com/gratitude-exercises/) and may help you absorb the emotion more as you are going to sleep.
 
 ## Pitches and Presentations \(Read, Write, Hear, Do\)‌
