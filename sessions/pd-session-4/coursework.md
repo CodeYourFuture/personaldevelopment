@@ -6,28 +6,21 @@ description: >-
 
 # Coursework
 
-## Confidence
+## Resilience
 
-Take the [MindTools Self Confidence Assessment](https://www.mindtools.com/pages/article/newTCS_84.htm)
-
-Based on your score do you need to **Build** Your Self Confidence, **Improve** Your Self Confidence or **Nurture** Your Self Confidence? 
-
-Write in your Learning Journal/ Diary what steps you will take to build, improve or nurture your self confidence. 
-
-#### 
-
-In your Learning Journal/Diary answer the following questions:
-
-* What is trust?How important is it in our lives?
-* What did a recent survey by kaplanprofessional say about trust?
-* Why do we need to be confident in the workspace?
-* What do you realise that causes low confidence in you?
-* What is SWOT ?
-* What is the difference between Rational Thinking / Positive Thinking?
-* What does Bernice Moore's Theory says?
-* Follow the steps for SOS \(Stop, Observe, Shift\), the negative self-talk stopping technique. Also explain the concept of impostor syndrome for awareness!
+1. In your Learning Journal, write down achievements that you are most proud of.
 
 
+
+1. **Find Something Funny Activity**
+
+   Laughter has been found to boost resilience. A study evaluating humor induced [**positive psychology interventions**](https://positivepsychology.com/positive-psychology-interventions/) identified the benefits of incorporating daily humor activities to induce laughter reduced depression and increased joy for participants, even months later \(Wellenzohn, et. al., 2016\).
+
+Spend 10 minutes each day for 7 days on the following exercise:
+
+1. Write down the three of the funniest things you have experienced, seen, or heard that day. Provide detail and note how they made you feel. If you can’t think of anything, do an online search for funny stories or anecdotes. Social media can be a good source for funny material. \
+2. Write down why you found it funny. The more specific you are, the more effective the exercise will be. \
+3. Write these three funny things at the end of your day. Doing so will foster a new [**habit**](https://positivepsychology.com/gratitude-exercises/) and may help you absorb the emotion more as you are going to sleep.
 
 ## Pitches and Presentations \(Read, Write, Hear, Do\)‌
 
