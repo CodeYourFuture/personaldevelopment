@@ -60,7 +60,7 @@ Spend 10 minutes each day for 7 days on the following exercise:
   
 
 
-## Leadership Compass
+## Leadership Compass \(Read, Write, Do\)
 
 Write in your Learning Journal a refelctioon on the Leadership Compass activity by answering these questions:
 
