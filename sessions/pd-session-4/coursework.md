@@ -44,9 +44,13 @@ Spend 10 minutes each day for 7 days on the following exercise:
 
 
 
-## Leadership Compass \(Do, Read, Write\)‌
+## Roles in Tech \(Do, Read, Write\)‌
 
-Need assignment  
+1. On your own, choose 3 to 5 roles from the session that sound interesting to you and do some research on Google and YouTube about those roles. Write down a few notes about each role, such as what interests you, what you might like about that role, what questions you have about the role, etc.
+2. Of the roles you researched, choose the top 2 or 3 that really stand out to you. Using LinkedIn, find 2 or 3 people who work in your area doing the jobs you're interested in. Reach out to them and ask for an informational interview using the template we came up with during the Group Practice activity.
+3. Go to 2 to 4 informational interviews within the next 4 weeks and take notes on your conversations.  Be ready to share your notes with the group in your Buddy groups or in our next PD Day.
+
+  
 
 
 
