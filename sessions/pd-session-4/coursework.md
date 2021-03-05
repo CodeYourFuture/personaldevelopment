@@ -58,6 +58,6 @@ Write in your Learning Journal a refelctioon on the Leadership Compass activity 
 
 ## Honeycomb feedback \(Do, Read, Write\)‌
 
-Go onto the Honeycomb platform and complete your self assessment of **Maximising My Time** cell.  
+Go onto the Honeycomb platform and complete your self assessment of **Presenting for Success** cell.  
 
 
