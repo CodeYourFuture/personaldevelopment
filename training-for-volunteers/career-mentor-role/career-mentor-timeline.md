@@ -15,6 +15,11 @@ Once you get started with your mentees you will be added to our \#cyf-career-men
   
 We suggest you have your mentoring sessions in group sessions. This will encourage your mentees to work with each other and support one another. It also helps you use your time more effectively. 
 
-Your mentee will complete their class based learning and progress on to Final Projects. Your mentees will have to demonstrate their employability skills in order to be able to work on a final project. Graduation from CYF is based upon passing both a tech skills and soft skills assessment, completing a team based final project, and presenting the project at a demo day.   
+Your mentee will complete their class based learning and progress on to Final Projects. Your mentees will have to demonstrate their employability skills in order to be able to work on a final project. Graduation from CYF is based upon passing both a tech skills and soft skills assessment, completing a team based final project, and presenting the project at a demo day. 
+
+During the Final Project which lasts 4 weeks, you will need to support your mentees with working in a project team and manage any issues that arise for them. You may also want to help them prepare to demo their product.   
+
+
+After graduation, they will have to apply to join a CYF Tech Project. These a real jobs developed through CodeYourFuture's partnerships with other charities and NGO's.   
 
 
