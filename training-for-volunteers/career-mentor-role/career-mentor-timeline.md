@@ -12,5 +12,7 @@ After the Career Mentor Briefing, we will match you with your two mentees. The t
 A week or so later, we will facilitate your first meeting with your mentees. This will be either during their weekend class \(on Saturday in most cities, but Sunday in London\) or during a weeknight evening.   
   
 Once you get started with your mentees you will be added to our \#cyf-career-mentors  channel on our Slack workspace. This will enable you to connect with all the other mentors in our regions. It is also the primary way we will communicate with all of you. If you prefer email, please do let us know when you apply.   
+  
+We suggest you have your mentoring sessions in group sessions. This will encourage your mentees to work with each other and support one another. it also helps you use your time more effectively.   
 
 
