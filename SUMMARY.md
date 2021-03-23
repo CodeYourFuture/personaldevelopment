@@ -119,6 +119,8 @@
 ## Getting Job Ready
 
 * [Personal Branding Tips and Tricks](getting-job-ready/personal-branding-tips-and-tricks.md)
-* [CV Tips and Tricks](getting-job-ready/cv-tips-and-tricks.md)
+* [Untitled](getting-job-ready/untitled.md)
+* [CV Tips and Tricks](getting-job-ready/cv-tips-and-tricks/README.md)
+  * [CV Template](getting-job-ready/cv-tips-and-tricks/cv-template.md)
 * [Interview Tips and Tricks](getting-job-ready/interview-tips-and-tricks.md)
 
