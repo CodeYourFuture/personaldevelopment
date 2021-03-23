@@ -13,7 +13,7 @@ A week or so later, we will facilitate your first meeting with your mentees. Thi
   
 Once you get started with your mentees you will be added to our \#cyf-career-mentors  channel on our Slack workspace. This will enable you to connect with all the other mentors in our regions. It is also the primary way we will communicate with all of you. If you prefer email, please do let us know when you apply.   
   
-We suggest you have your mentoring sessions in group sessions. This will encourage your mentees to work with each other and support one another. it also helps you use your time more effectively. 
+We suggest you have your mentoring sessions in group sessions. This will encourage your mentees to work with each other and support one another. It also helps you use your time more effectively. 
 
   
 
