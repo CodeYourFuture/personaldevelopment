@@ -15,6 +15,6 @@ Once you get started with your mentees you will be added to our \#cyf-career-men
   
 We suggest you have your mentoring sessions in group sessions. This will encourage your mentees to work with each other and support one another. It also helps you use your time more effectively. 
 
-  
+Your mentee will complete their class based learning and progress on to Final Projects. Your mentees will have to demonstrate their employability skills in order to be able to work on a final project. Graduation from CYF is based upon passing both a tech skills and soft skills assessment, completing a team based final project, and presenting the project at a demo day.   
 
 
