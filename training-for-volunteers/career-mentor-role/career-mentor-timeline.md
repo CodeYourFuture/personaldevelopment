@@ -1,3 +1,7 @@
+---
+description: The timeline below will outline where your mentee should be on their
+---
+
 # Career Mentor Timeline
 
 ### Month 1 - Trainees will be nearing the end of their course based training. They have about 1 month before they should finish and then progress to final projects
@@ -24,7 +28,9 @@ Once you get started with your mentees you will be added to our \#cyf-career-men
   
 We suggest you have your mentoring sessions in group sessions. This will encourage your mentees to work with each other and support one another. It also helps you use your time more effectively. 
 
-### Month 3 - Trainess should complete their Final Projects and prepare to demonstate it at Demo Day
+### Month 3 - Trainess should complete their Final Projects and prepare to demonstate it at Demo Day. 
+
+The 
 
 After graduation, they will have to apply to join a CYF Tech Project. These a real jobs developed through CodeYourFuture's partnerships with other charities and NGO's.   
 
