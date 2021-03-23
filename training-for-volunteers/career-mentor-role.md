@@ -1,8 +1,8 @@
 ---
 description: >-
-  Career mentors give 1 to 1 support to a trainee with their career development.
-  They help them through the process of preparing for the job search to applying
-  for roles  and then moving into employment
+  Career mentors give 1 to 2 support to trainees with their career development.
+  You help them through the process of preparing for the job search to applying
+  for roles  and then moving into employment.
 ---
 
 # Career Mentor Role
@@ -14,24 +14,27 @@ description: >-
 
 **Who will I be supporting?**
 
-* 1 mentee
+* 2 mentees
 
-**What do I need to do with my mentee?**
+**What do I need to do with my mentees?**
 
-* Support one student with help on their career journey 
+* Support two trainees with help on their career journeys 
 * Help with goal setting, identifying the personal and technical skills needed for junior dev roles
 * No support with technical homework or questions 
 
-**How frequently do I need to meet with my mentee?**
+**How frequently do I need to meet with my mentees?**
 
-* Meet with your buddy at least once a month \(1-1.5 hours per month, can meet more frequently if agreed with mentee\)
+* Meet with your mentee at least twice a month \(1-1.5 hours per session, you can meet more frequently if agreed with mentee\)
 
 **What else do I need to do?**
 
-* Attend mentoring induction workshop \(3 hours\) 
+* Help facilitate mock interviews for trainees in CYF cities \(3 hours\)
+
+  Attend mentoring induction workshop \(1-1.5 hours\) 
+
 * Fill in mentoring feedback form \(15 mins once per month\) 
 * Join Career Mentors Slack group for support \(ask questions and contribute suggestions when able\) 
 * Join mentoring feedback call \(once every 3 months for 1 hour\)
-* Review student CVs
-* Help facilitate mock interviews for students in CYF cities \(3 hours\)
+* Review other trainees CVs and give feedback
+* Work as part of project teams during Final projects and post graduation projects to support your mentee soft skills development
 
