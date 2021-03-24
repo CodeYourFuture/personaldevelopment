@@ -6,7 +6,7 @@ description: >-
 
 # Career Mentor Timeline
 
-### Month 1 - Trainees will be nearing the end of their course based learning. They have about 1 month before they should finish and then progress to final projects. They will be working on small teams to develop a product 
+### Month 1 - Trainees will be nearing the end of their course based learning. They have about 1 month before they should finish and then progress to final projects. They will be working on small teams to develop a working product for CYF or an external organisation.
 
 You will start your role as a Career Mentor by conducting competency based mock interviews with 2 trainees from a CYF class.   
   
