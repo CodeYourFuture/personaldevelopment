@@ -1,10 +1,12 @@
 ---
-description: The timeline below will outline where your mentee should be on their
+description: >-
+  The timeline below will outline where your mentee should be on their education
+  journey and how you fit into the process. Some
 ---
 
 # Career Mentor Timeline
 
-### Month 1 - Trainees will be nearing the end of their course based training. They have about 1 month before they should finish and then progress to final projects
+### Month 1 - Trainees will be nearing the end of their course based learning. They have about 1 month before they should finish and then progress to final projects. They will be working on small teams to develop a product 
 
 You will start your role as a Career Mentor by conducting competency based mock interviews with 2 trainees from a CYF class.   
   
