@@ -28,7 +28,7 @@ During the Final Project which lasts 4 weeks, you will need to support your ment
   
 Once you get started with your mentees you will be added to our \#cyf-career-mentors  channel on our Slack workspace. This will enable you to connect with all the other mentors in our regions. It is also the primary way we will communicate with all of you. If you prefer email, please do let us know when you apply.   
   
-We suggest you have your mentoring sessions in group sessions. This will encourage your mentees to work with each other and support one another. It also helps you use your time more effectively. 
+We suggest you have your mentoring sessions as a group. This will encourage your mentees to work with each other and support one another. It also helps you use your time more effectively. 
 
 ### Month 3 - Trainess should complete their Final Projects and prepare to demonstate it at Demo Day. 
 
