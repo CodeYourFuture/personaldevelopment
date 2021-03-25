@@ -122,6 +122,7 @@
 * [English Language Guide for Trainees and Graduates](getting-job-ready/untitled/README.md)
   * [Required English Language Level](getting-job-ready/untitled/required-english-language-level/README.md)
     * [English Language Assessment](getting-job-ready/untitled/required-english-language-level/english-language-assessment.md)
+  * [English Learning Resources](getting-job-ready/untitled/english-learning-resources.md)
 * [CV Tips and Tricks](getting-job-ready/cv-tips-and-tricks/README.md)
   * [CV Workbook](getting-job-ready/cv-tips-and-tricks/cv-workbook.md)
   * [CV Template](getting-job-ready/cv-tips-and-tricks/cv-template.md)
