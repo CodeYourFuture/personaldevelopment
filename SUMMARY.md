@@ -3,7 +3,7 @@
 * [Welcome to Personal Development at CodeYourFuture](README.md)
 * [Who are our trainees?](who-are-our-trainees.md)
 
-## PD Sessions <a id="sessions"></a>
+## Employability Sessions <a id="sessions"></a>
 
 * [Day 1 - Learning to Learn](sessions/induction-week/README.md)
   * [Learning to Learn Session](sessions/induction-week/learning-to-learn-session/README.md)
