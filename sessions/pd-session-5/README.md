@@ -27,7 +27,7 @@ COOPERATIVE COUNTING and GESTURE RELAY
 
 Session plan is [here](https://personaldevelopment.codeyourfuture.io/sessions/react-pd-day-5/engaging-games). 
 
-## Session 3 \(50 mins- 1 hour\)
+## Session 3 \(30 mins- 40mins\)
 
 ### Guest Speaker - Understanding how the CYF job process works
 
@@ -37,15 +37,13 @@ Session plan is [here](https://personaldevelopment.codeyourfuture.io/sessions/re
 
 {% embed url="https://docs.google.com/presentation/d/11d55M1nu1qNCpH2\_9RFb5EDUceS8xxtWqRVJ--pFxVs/edit?usp=sharing" %}
 
-## Session 5 \(30 mins- 40mins\)
+## Session 5 \(50 mins- 1 hour\)
 
 ### Job Application Workshop
 
 * To help trainees learn the steps in the job search process
 * To guide trainees on how to find companies and roles that right for them
 * To support trainees in reading and dissecting a job advert
-
-{% embed url="https://docs.google.com/presentation/d/1LTmp5PBsZ6NMJ50AtHhsDIVRv44fhaP0T49VJ7UY-8M/edit?usp=sharing" %}
 
 ## Session 3 \(30 mins- 40mins\)
 
