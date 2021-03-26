@@ -27,7 +27,7 @@ COOPERATIVE COUNTING and GESTURE RELAY
 
 Session plan is [here](https://personaldevelopment.codeyourfuture.io/sessions/react-pd-day-5/engaging-games). 
 
-## Session 1 \(30 mins- 40mins\)
+## Session 2 \(30 mins- 40mins\)
 
 ### Guest Speaker - Understanding how the CYF job process works
 
