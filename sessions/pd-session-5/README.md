@@ -37,7 +37,17 @@ Session plan is [here](https://personaldevelopment.codeyourfuture.io/sessions/re
 
 {% embed url="https://docs.google.com/presentation/d/11d55M1nu1qNCpH2\_9RFb5EDUceS8xxtWqRVJ--pFxVs/edit?usp=sharing" %}
 
-## Session 4 \(30 mins- 40mins\)
+## Session 5 \(30 mins- 40mins\)
+
+### Job Application Workshop
+
+* To help trainees learn the steps in the job search process
+* To guide trainees on how to find companies and roles that right for them
+* To support trainees in reading and dissecting a job advert
+
+{% embed url="https://docs.google.com/presentation/d/1LTmp5PBsZ6NMJ50AtHhsDIVRv44fhaP0T49VJ7UY-8M/edit?usp=sharing" %}
+
+## Session 3 \(30 mins- 40mins\)
 
 ### Visibility in the job market- Online presence and Self marketing 
 
