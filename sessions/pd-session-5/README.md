@@ -41,8 +41,7 @@ Session plan is [here](https://personaldevelopment.codeyourfuture.io/sessions/re
 
 ### Visibility in the job market- Online presence and Self marketing 
 
-* To help trainees identify social media platforms to search for jobs
-* To help trainees identify techniques to effectively use each platform
+* To help trainees learn how to use social media platforms to search for jobs
 * To support trainees in developing networking techniques
 * To support trainees to develop their social media presence for professional visibility
 
