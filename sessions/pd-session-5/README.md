@@ -69,9 +69,9 @@ Session plan is [here](https://personaldevelopment.codeyourfuture.io/sessions/re
 
 ### Job Application Workshop
 
-* To help trainees learn the steps needed to apply for jobs
+* To help trainees learn the steps in the job search process
+* To guide trainees on how to find companies and roles that right for them
 * To support trainees in reading and dissecting a job advert
-* To guide trainees on how to use their 
 
 {% embed url="https://docs.google.com/presentation/d/1LTmp5PBsZ6NMJ50AtHhsDIVRv44fhaP0T49VJ7UY-8M/edit?usp=sharing" %}
 
