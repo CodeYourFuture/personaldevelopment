@@ -1,2 +1,2 @@
-# CV Workshop
+# Job Advert Workshop
 
