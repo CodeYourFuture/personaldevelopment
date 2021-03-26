@@ -67,22 +67,18 @@ Session plan is [here](https://personaldevelopment.codeyourfuture.io/sessions/re
 * To help trainees identify their current coping habits
 * To support trainees in developing resilience strategies
 
-{% embed url="https://docs.google.com/presentation/d/1GbjJAW7EGfN6h0zJ7cWQlhVRxXwsAC9QcBemh9eWIRc/edit?usp=sharing" %}
 
 
-
-{% embed url="https://docs.google.com/presentation/d/1LTGblFARVRmUljAgiiAlcxa1mHaKVWcplRgeZM2YRFI/edit?usp=sharing" %}
-
+{% embed url="https://docs.google.com/presentation/d/1D40nyLhE7-s\_2VyOHX39ss1F8LJG4jhZJkJYnWZr2-E/edit?usp=sharing" %}
 
 
-{% embed url="https://docs.google.com/presentation/d/1LTmp5PBsZ6NMJ50AtHhsDIVRv44fhaP0T49VJ7UY-8M/edit?usp=sharing" %}
 
 ## Session 6 \(30 mins- 40mins\)
 
 ### Honeycomb Introduction - Learning From Failure cell and feedback <a id="honeycomb-introduction-maximising-my-time-cell-and-feedback"></a>
 
 * To help trainees understand that failure is a learning opportunity
-* To introduce trainnes to the habits that are needed to recover from setbacks
+* To introduce trainees to the habits that are needed to recover from setbacks
 
 
 
