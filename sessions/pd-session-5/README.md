@@ -13,7 +13,7 @@ All trainees should have completed PD Day 1, 2, 3, and 4
 
 All trainees should have completed PD coursework 
 
-All trainees should have recieved feedback on their Honeycomb cell **'Presenting for Success'** 
+All trainees should have received feedback on their Honeycomb cell **'Presenting for Success'** 
 
 ## Session 1 \(20 mins- 25 mins\)
 
@@ -26,10 +26,6 @@ COOPERATIVE COUNTING and GESTURE RELAY
 * To demonstrate the importance of each individual in the group
 
 Session plan is [here](https://personaldevelopment.codeyourfuture.io/sessions/react-pd-day-5/engaging-games). 
-
-
-
-
 
 ## Session 1 \(30 mins- 40mins\)
 
@@ -71,11 +67,11 @@ Session plan is [here](https://personaldevelopment.codeyourfuture.io/sessions/re
 
 ## Session 5 \(30 mins- 40mins\)
 
-### Job Application/ CV Workshop
+### Job Application Workshop
 
-* To help trainees learn about how to make a job application
-* To help trainees learn how to structure their CV
-* To support trainees in improving their CV's
+* To help trainees learn the steps needed to apply for jobs
+* To support trainees in reading and dissecting a job advert
+* To guide trainees on how to use their 
 
 {% embed url="https://docs.google.com/presentation/d/1LTmp5PBsZ6NMJ50AtHhsDIVRv44fhaP0T49VJ7UY-8M/edit?usp=sharing" %}
 
