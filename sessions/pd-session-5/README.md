@@ -73,13 +73,7 @@ Session plan is [here](https://personaldevelopment.codeyourfuture.io/sessions/re
 
 {% embed url="https://docs.google.com/presentation/d/1LTGblFARVRmUljAgiiAlcxa1mHaKVWcplRgeZM2YRFI/edit?usp=sharing" %}
 
-## Session 5 \(30 mins- 40mins\)
 
-### Job Application Workshop
-
-* To help trainees learn the steps in the job search process
-* To guide trainees on how to find companies and roles that right for them
-* To support trainees in reading and dissecting a job advert
 
 {% embed url="https://docs.google.com/presentation/d/1LTmp5PBsZ6NMJ50AtHhsDIVRv44fhaP0T49VJ7UY-8M/edit?usp=sharing" %}
 
