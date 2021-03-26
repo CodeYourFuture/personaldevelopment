@@ -63,7 +63,7 @@ Session plan is [here](https://personaldevelopment.codeyourfuture.io/sessions/re
 
 ### Developer Skills - Agile and Scrum intro
 
-* To help trainees learn about the definition of resilience
+* To help trainees learn about the importance of Agile 
 * To help trainees identify their current coping habits
 * To support trainees in developing resilience strategies
 
