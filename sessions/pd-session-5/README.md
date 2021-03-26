@@ -41,9 +41,10 @@ Session plan is [here](https://personaldevelopment.codeyourfuture.io/sessions/re
 
 ### Visibility in the job market- Online presence and Self marketing 
 
-* To help trainees learn about the definition of resilience
-* To help trainees identify their current coping habits
-* To support trainees in developing resilience strategies
+* To help trainees identify social media platforms to search for jobs
+* To help trainees identify techniques to effectively use each platform
+* To support trainees in developing networking techniques
+* To support trainees to develop their social media presence for professional visibility
 
 {% embed url="https://docs.google.com/presentation/d/1LMkT0dRlcV0q\_x0x1FNt9gnPk86VsZ15lHa-I1z746Y/edit?usp=sharing" %}
 
