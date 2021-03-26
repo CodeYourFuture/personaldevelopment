@@ -123,6 +123,7 @@
     * [English Language Assessment](getting-job-ready/untitled/required-english-language-level/english-language-assessment.md)
   * [English Learning Resources](getting-job-ready/untitled/english-learning-resources/README.md)
     * [English for the Workplace](getting-job-ready/untitled/english-learning-resources/english-for-the-workplace.md)
+* [Applying for jobs](getting-job-ready/applying-for-jobs.md)
 * [CV Tips and Tricks](getting-job-ready/cv-tips-and-tricks/README.md)
   * [CV Template](getting-job-ready/cv-tips-and-tricks/cv-template.md)
   * [CV Workbook](getting-job-ready/cv-tips-and-tricks/cv-workbook.md)
