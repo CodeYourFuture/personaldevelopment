@@ -277,9 +277,11 @@ Decide which 3 SM platform are the most important for you to focus on right now.
 
 Create an account \(if needed\) for the 3 platforms you chose
 
-Decide what content you will need to create for each. 
+Take some time this week to write a blog post on something you learned this week. Before posting to the world, have a fellow trainee review it to see if the information is useful. A typical suggestion is to write a blog about somethign you didn't know 3-6 months ago.
 
-Make a plan 
+Ship it and continue this process at least once a week. Remember to keep the blog post short at first to prevent writers block and anxiety about posting.
+
+Promote your blog on the sites you feel are most important!
 
 #### **Challenge or Additional resources**
 
