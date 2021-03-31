@@ -277,7 +277,11 @@ Decide which 3 SM platform are the most important for you to focus on right now.
 
 Create an account \(if needed\) for the 3 platforms you chose
 
-Take some time this week to write a blog post on something you learned this week. Before posting to the world, have a fellow trainee review it to see if the information is useful. A typical suggestion is to write a blog about somethign you didn't know 3-6 months ago.
+Write a blog post on something you learned this week.  Atypical suggestion is to write a blog about somethign you didn't know 3-6 months ago.
+
+Send your first blog post to a peer and have them review it to see if the information is useful.
+
+Ask them for comments and 2 ways you can improve your post before you post to the world. A
 
 Ship it and continue this process at least once a week. Remember to keep the blog post short at first to prevent writers block and anxiety about posting.
 
