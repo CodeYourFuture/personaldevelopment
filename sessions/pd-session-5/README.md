@@ -49,7 +49,7 @@ Session plan is [here](https://personaldevelopment.codeyourfuture.io/sessions/re
 
 ## Session 3 \(45 mins- 1 hour\)
 
-### Visibility in the job market- Online presence and Self marketing 
+### Visibility in the job market- Social Media and Self marketing 
 
 * To help trainees learn how to use social media platforms to search for jobs
 * To support trainees in developing networking techniques
