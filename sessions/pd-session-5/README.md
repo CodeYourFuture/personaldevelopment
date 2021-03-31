@@ -35,8 +35,6 @@ Session plan is [here](https://personaldevelopment.codeyourfuture.io/sessions/re
 * To highlight CYF's role in the employment journey
 * To highlight trainees role in their employment journey
 
-{% embed url="https://docs.google.com/presentation/d/11d55M1nu1qNCpH2\_9RFb5EDUceS8xxtWqRVJ--pFxVs/edit?usp=sharing" %}
-
 ## Session 5 \(50 mins- 1 hour\)
 
 ### Job Application Workshop
@@ -44,6 +42,10 @@ Session plan is [here](https://personaldevelopment.codeyourfuture.io/sessions/re
 * To help trainees learn the steps in the job search process
 * To guide trainees on how to find companies and roles that right for them
 * To support trainees in reading and dissecting a job advert
+
+{% embed url="https://docs.google.com/presentation/d/1NXPKU6liG-7j1lqoJb4X692eKCQPvcop8oYX2RYLNt4/edit?usp=sharing" %}
+
+
 
 ## Session 3 \(45 mins- 1 hour\)
 
