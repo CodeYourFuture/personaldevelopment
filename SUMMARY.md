@@ -58,7 +58,7 @@
   * [Engaging Games](sessions/pd-session-5/engaging-games.md)
   * [Guest Speaker - Understanding how the CYF job process works](sessions/pd-session-5/untitled-4.md)
   * [Job Advert Workshop](sessions/pd-session-5/untitled-2.md)
-  * [Visibility in the job market - Online Presence  and Self Marketing](sessions/pd-session-5/untitled-3.md)
+  * [Social Media and Self Marketing](sessions/pd-session-5/untitled-3.md)
   * [Developer Skills - Agile and Scrum Intro](sessions/pd-session-5/untitled-5.md)
   * [Honeycomb - Learning From Failure](sessions/pd-session-5/untitled-1.md)
   * [Coursework](sessions/pd-session-5/untitled.md)
