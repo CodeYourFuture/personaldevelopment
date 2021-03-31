@@ -53,11 +53,9 @@ Session plan is [here](https://personaldevelopment.codeyourfuture.io/sessions/re
 * To support trainees in developing networking techniques
 * To support trainees to develop their social media presence for professional visibility
 
-{% embed url="https://docs.google.com/presentation/d/1LMkT0dRlcV0q\_x0x1FNt9gnPk86VsZ15lHa-I1z746Y/edit?usp=sharing" %}
+{% embed url="https://docs.google.com/presentation/d/1Z6SLtGjYTFfCxwFzTLaPnRuOIzUAI7T5VTBztArVsgU/edit?usp=sharing" %}
 
 
-
-{% embed url="https://docs.google.com/presentation/d/1jyD6Chc91Sdg2xvplzYPaVsgXeWtHJfCcEZzp0K4360/edit?usp=sharing" %}
 
 ## Session 2 \(30 mins- 40mins\)
 
