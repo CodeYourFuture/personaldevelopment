@@ -1,2 +1,2 @@
-# Job Advert Workshop
+# Job Application Workshop
 

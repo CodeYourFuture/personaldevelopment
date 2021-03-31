@@ -57,7 +57,7 @@
 * [Day 5 - Preparing for the Job Market](sessions/pd-session-5/README.md)
   * [Engaging Games](sessions/pd-session-5/engaging-games.md)
   * [Guest Speaker - Understanding how the CYF job process works](sessions/pd-session-5/untitled-4.md)
-  * [Job Advert Workshop](sessions/pd-session-5/untitled-2.md)
+  * [Job Application Workshop](sessions/pd-session-5/untitled-2.md)
   * [Social Media and Self Marketing](sessions/pd-session-5/untitled-3.md)
   * [Developer Skills - Agile and Scrum Intro](sessions/pd-session-5/untitled-5.md)
   * [Honeycomb - Learning From Failure](sessions/pd-session-5/untitled-1.md)
