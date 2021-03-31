@@ -83,9 +83,9 @@ Don’t discuss controversial topics on these platforms, or anything that would 
 
 **Slides 4 LinkedIn**
 
-What is LinkedIn?
+Ask What is LinkedIn?
 
-What is it good for and how can trainees use it for their job search.
+What is it good for and how can trainees use it for their job search?
 
 **Activity \(2 mins\) - Do a poll using Zoom to see how many people have a LinkedIn profile already**
 
