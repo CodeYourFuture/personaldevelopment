@@ -85,7 +85,7 @@ Ask What is LinkedIn?
 
 What is it good for and how can trainees use it for their job search?
 
-**Activity \(2 mins\) - Do a poll using Zoom to see how many people have a LinkedIn profile already**
+### **Activity 1 \(2 mins\) - Do a poll using Zoom to see how many people have a LinkedIn profile already**
 
 **Slides 5-7 SM examples** 
 
@@ -111,7 +111,7 @@ Lots of people in tech on Twitter!
 
 Learn lots from how others present themselves
 
-**Activity \(10 mins\): Write great bio under 160 characters remember to use keywords to make yourself searchable for employers**
+### **Activity \(10 mins\): Write great bio under 160 characters remember to use keywords to make yourself searchable for employers**
 
 **Slide 11 Hashtags on Twitter**
 
@@ -179,7 +179,7 @@ The test for substance is a lot like it is for links. Does your comment teach us
 
 So the principle here is: don't say anything you wouldn't say face to face. This doesn't mean you can't disagree. But disagree without calling names. If you're right, your argument will be more convincing without them. 
 
-**Slide 19 Jobsearch exercise - 20 minutes**
+### **Slide 19 Activity 3 Jobsearch exercise - 20 minutes**
 
 * Divide into small groups
   * Each group assigned a SM platform \(LinkedIn, Twitter, Meetup, Hackernews\)
@@ -197,7 +197,7 @@ Can give guidance on how to do search on Twitter for example:  In your breakout 
 
 _You can change the location but know that certain location might not have a lot of options_
 
-**Slide 21-22 Instagram**
+**Slides 21-22 Instagram**
 
 When you think of social media and personal branding you will probably think about Instagram.
 
@@ -211,7 +211,7 @@ You can also research, interact and network with companies
 
 Some examples of people posting about tech on Instagram
 
-**Slide Github**
+**Slides 23-24 Github**
 
 Recruiters use Github to see your code.  They can see everything that you do.  With a final project or a personal website there is no real way to know if you have done the front end or the back end or the design – how many users there are ? Not so good metric vs github - can see everything
 
@@ -219,7 +219,7 @@ Contributing to others code shows your willingness to be part of the global deve
 
 Helps you learn / practice how to write code
 
-**Slide Stack Overflow**
+**Slide 25 Stack Overflow**
 
 Stack Overflow is the largest, most trusted **online community for developers** to learn and share their knowledge
 
@@ -229,7 +229,7 @@ Stack Overflow is a **Q&A site.** More than 50 million unique visitors come to S
 * Recruiters are aware that not everyone is on LinkedIn and they explore other places where they can find great developers
 * Reputation gained in Stack Overflow is more testament than CVs or LinkedIn profile
 
-**Slide Stack Overflow**
+**Slide 26 Stack Overflow Build your rep**
 
 Good answers are voted up and **rise to the top**. _The best answers show up first so that they are always easy to find._
 
@@ -243,9 +243,11 @@ You earn reputation when people vote on your posts. As you earn reputation, you'
 
 Badges are special achievements you earn for participating on the site. They come in three levels: bronze, silver, and gold. You get a specific badge when you perform a task like creating a profile, achieving an accepted answer with a certain score, etc there is a list.
 
-**Slide Stack Overflow Activity**
+**Slide 28 Activity 4 Stack Overflow Questions**
 
-**Podcast on Coursera** [https://blog.coursera.org/in-2019-should-you-learn-python-or-javascript-first/](https://blog.coursera.org/in-2019-should-you-learn-python-or-javascript-first/) Coursera Blog - In 2020, Should You Learn Python or Javascript First?  From minute 18:30 discuss why you should have
+* **5 minutes exercise**
+* **Discuss in small groups, what would be the answer you would post for this question** 
+* **Post your answer on Slack thread**
 
 
 
