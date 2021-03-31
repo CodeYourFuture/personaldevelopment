@@ -269,7 +269,17 @@ Coursera Blog - In 2020, Should You Learn Python or Javascript First?  [https://
 
 What advice do they give about finding a job? What things would be useful for you to do?
 
-‌
+#### ‌Build your profile
+
+At this point in the course building your personal brand and profile should be your aim. 
+
+Decide which 3 SM platform are the most important for you to focus on right now. 
+
+Create an account \(if needed\) for the 3 platforms you chose
+
+Decide what content you will need to create for each. 
+
+Make a plan 
 
 #### **Challenge or Additional resources**
 
