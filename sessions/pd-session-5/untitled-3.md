@@ -166,21 +166,21 @@ Meet people in real life!
 
 **Slide 17-18 Hackernews**
 
-**According to Wikipedia HN is a** [**social news website**](https://en.wikipedia.org/wiki/Social_news_website) **focusing on** [**computer science**](https://en.wikipedia.org/wiki/Computer_science) **and** [**entrepreneurship**](https://en.wikipedia.org/wiki/Startup_company)**. It is part of Y Combinator one of the most influential tech startup incubators in the world.** 
+According to Wikipedia HN is a [social news website](https://en.wikipedia.org/wiki/Social_news_website) focusing on [computer science](https://en.wikipedia.org/wiki/Computer_science) and [entrepreneurship](https://en.wikipedia.org/wiki/Startup_company). It is part of Y Combinator one of the most influential tech startup incubators in the world. 
 
-**Users can post articles and comment on articles** 
+Users can post articles and comment on articles 
 
-**HN says there are two rules: don't post or upvote crap links, and don't be rude or dumb in comment threads.**
+HN says there are two rules: don't post or upvote crap links, and don't be rude or dumb in comment threads.
 
-**Stories on HN don't have to be about hacking, because good hackers aren't only interested in hacking, but they do have to be deeply interesting.**
+Stories on HN don't have to be about hacking, because good hackers aren't only interested in hacking, but they do have to be deeply interesting.
 
-**What does "deeply interesting" mean? It means stuff that teaches you about the world.** 
+What does "deeply interesting" mean? It means stuff that teaches you about the world. 
 
-**Users are asked to make thoughtful comments. Thoughtful in both senses: civil and substantial.**
+Users are asked to make thoughtful comments. Thoughtful in both senses: civil and substantial.
 
-**The test for substance is a lot like it is for links. Does your comment teach us anything? There are two ways to do that: by pointing out some consideration that hadn't previously been mentioned, and by giving more information about the topic, perhaps from personal experience.** 
+The test for substance is a lot like it is for links. Does your comment teach us anything? There are two ways to do that: by pointing out some consideration that hadn't previously been mentioned, and by giving more information about the topic, perhaps from personal experience. 
 
-**So the principle here is: don't say anything you wouldn't say face to face. This doesn't mean you can't disagree. But disagree without calling names. If you're right, your argument will be more convincing without them.** 
+So the principle here is: don't say anything you wouldn't say face to face. This doesn't mean you can't disagree. But disagree without calling names. If you're right, your argument will be more convincing without them. 
 
 **Slide 19 Jobsearch exercise - 20 minutes**
 
@@ -249,4 +249,32 @@ Badges are special achievements you earn for participating on the site. They com
 **Slide Stack Overflow Activity**
 
 **Podcast on Coursera** [https://blog.coursera.org/in-2019-should-you-learn-python-or-javascript-first/](https://blog.coursera.org/in-2019-should-you-learn-python-or-javascript-first/) Coursera Blog - In 2020, Should You Learn Python or Javascript First?  From minute 18:30 discuss why you should have
+
+
+
+#### **Guided Practice**
+
+‌
+
+Questions you ask‌ to start discussion
+
+Instructions you give to start an activity or reflect on an activity
+
+#### **Independent Practice**
+
+‌
+
+**Listen to Podcast on Coursera** 
+
+Coursera Blog - In 2020, Should You Learn Python or Javascript First?  [https://blog.coursera.org/in-2019-should-you-learn-python-or-javascript-first/](https://blog.coursera.org/in-2019-should-you-learn-python-or-javascript-first/)
+
+What advice do they give about finding a job? What things would be useful for you to do?
+
+‌
+
+#### **Challenge or Additional resources**
+
+‌
+
+* [StackOverFLow](https://meta.stackoverflow.com/questions/369343/can-i-find-a-job-on-stack-overflow-as-a-self-taught-programmer-with-no-professio) - how to find a job as self-taught dev
 
