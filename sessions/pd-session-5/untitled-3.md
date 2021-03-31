@@ -50,13 +50,12 @@ Through the use of a presentation, group activities and discussion
 \*\*\*\*
 
 * Link to [slides](https://docs.google.com/presentation/d/1Z6SLtGjYTFfCxwFzTLaPnRuOIzUAI7T5VTBztArVsgU/edit?usp=sharing)
-* Link to videos
 
 ‌
 
 #### **Teaching notes and walkthrough**
 
-#### **Slides 2**
+#### **Slide 2**
 
 Introduce learning outcomes from the session
 
@@ -70,9 +69,9 @@ You can gain insightful ****information that you wouldn’t have access to other
 
 There are some social media platforms that are known for professional networking such as LinkedIn and meetup.   However there are others that are somewhat unconventional but could be potentially as effective as the previous ones if used in the right way.
 
-The purpose of today is to explore these different types of social media platforms and how you can utilise them to enhance your visibility within your chosen area.
+The purpose of today is to explore these different types of social media platforms and how you can utilise them to help your job searc and improve your visibility as a developer.
 
-The content that we will be discussing today will be very useful in your journey however don’t take it as be all end all.
+The content that we will be discussing today will be very useful in your journey but it's just the start. 
 
 We know from experience that people who use these platforms have a higher degree of exposure to hiring people.
 
