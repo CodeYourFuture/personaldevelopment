@@ -249,19 +249,19 @@ Badges are special achievements you earn for participating on the site. They com
 * **Discuss in small groups, what would be the answer you would post for this question** 
 * **Post your answer on Slack thread**
 
+**Slide 29 Recap and Questions**
 
+**Short summary of what each sm platform can be used for**
+
+**There was a lot of information in the session. People should have questions  by the end especially about looking for jobs and what it means to start building their profile now.** 
 
 #### **Guided Practice**
 
-‌
+‌In the session slides 
 
-Questions you ask‌ to start discussion
 
-Instructions you give to start an activity or reflect on an activity
 
-#### **Independent Practice**
-
-‌
+#### **Independent Coursework** 
 
 **Listen to Podcast on Coursera** 
 
