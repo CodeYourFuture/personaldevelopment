@@ -45,7 +45,7 @@ Session plan is [here](https://personaldevelopment.codeyourfuture.io/sessions/re
 * To guide trainees on how to find companies and roles that right for them
 * To support trainees in reading and dissecting a job advert
 
-## Session 3 \(30 mins- 40mins\)
+## Session 3 \(45 mins- 1 hour\)
 
 ### Visibility in the job market- Online presence and Self marketing 
 
