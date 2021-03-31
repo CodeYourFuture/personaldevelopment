@@ -47,8 +47,6 @@ Through the use of a presentation, group activities and discussion
 
 #### **Session**
 
-\*\*\*\*
-
 * Link to [slides](https://docs.google.com/presentation/d/1Z6SLtGjYTFfCxwFzTLaPnRuOIzUAI7T5VTBztArVsgU/edit?usp=sharing)
 
 ‌
