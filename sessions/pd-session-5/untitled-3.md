@@ -8,8 +8,8 @@
 
 ‌
 
-* 20 minutes for Session walkthrough
-* 40 minutes for Guided Practice activites 
+* 25 minutes for Session walkthrough
+* 35 minutes for Guided Practice activites 
 
 #### **Prerequisites**
 
@@ -179,7 +179,7 @@ The test for substance is a lot like it is for links. Does your comment teach us
 
 So the principle here is: don't say anything you wouldn't say face to face. This doesn't mean you can't disagree. But disagree without calling names. If you're right, your argument will be more convincing without them. 
 
-### **Slide 19 Activity 3 Jobsearch exercise - 20 minutes**
+### **Slide 19 \(20 mins\) - Activity 3 Jobsearch exercise** 
 
 * Divide into small groups
   * Each group assigned a SM platform \(LinkedIn, Twitter, Meetup, Hackernews\)
