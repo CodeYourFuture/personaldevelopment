@@ -171,19 +171,19 @@ Allow time for discussion
 
 #### **Guided Practice**
 
-‌
-
 See Session plan - activities are embedded
 
-#### **Independent Practice**
+#### \*\*\*\*
 
-‌
+#### **Independent Practice**
 
 **CV writing workbook**
 
 Start crafting your CV by going through this CV workbook. [https://personaldevelopment.codeyourfuture.io/getting-job-ready/cv-tips-and-tricks/cv-workbook](https://personaldevelopment.codeyourfuture.io/getting-job-ready/cv-tips-and-tricks/cv-workbook)
 
 ‌Most people do not have a good CV the 1st time around. This workbook will break down what you need to think about in order to create a good CV.  You will need to have your draft CV ready for review with you Career mentor when you meet after the next Employability Day.
+
+#### \*\*\*\*
 
 #### **Challenge or Additional resources**
 
