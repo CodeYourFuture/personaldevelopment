@@ -56,8 +56,6 @@ Through the use of a presentation and group discussion
 
 #### **Lesson**
 
-‌
-
 * Link to [slides](https://docs.google.com/presentation/d/1d3_B31nauR9LJLUKaQVSDIObwcZYC0Rr2U9ArgTyb6E/edit?usp=sharing)
 * Link to videos
 
