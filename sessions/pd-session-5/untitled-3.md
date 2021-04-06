@@ -246,18 +246,22 @@ Badges are special achievements you earn for participating on the site. They com
 **Slide 28 Activity 4 Stack Overflow Questions**
 
 * **5 minutes exercise**
-* **Discuss in small groups, what would be the answer you would post for this question** 
-* **Post your answer on Slack thread**
+* **Discuss in small groups, what would be the answer you would post for this question:** 
+  * Whats the difference between using let and var? This is something they have already learned so they should be able to answer. 
+* **Post your answer on Slack thread**. 
+
+Go through the [link](https://stackoverflow.com/questions/762011/whats-the-difference-between-using-let-and-var#:~:text=The%20main%20difference%20is%20the,outside%20the%20loop%20for%20example.&text=let%20allows%20you%20to%20declare,on%20which%20it%20is%20used.) and show how people have answered the questions and how they get points more as people like their answer can vote on. This shows that by providing help to others you can accumulate points which makes you standout in the job market.  
+John Slegers is the guy who wrote the answer on the screenshot from the link \(maybe try ctrl f\) and then go through his profile to show how his profile stands out.
 
 **Slide 29 Recap and Questions**
 
-**Short summary of what each sm platform can be used for**
+Short summary of what each sm platform can be used for
 
-**There was a lot of information in the session. People should have questions  by the end especially about looking for jobs and what it means to start building their profile now.** 
+There was a lot of information in the session. People should have questions  by the end especially about looking for jobs and what it means to start building their profile now. 
 
 #### **Guided Practice**
 
-‌In the session slides 
+‌All activities are in the session slides.
 
 
 
@@ -288,8 +292,6 @@ Ship it and continue this process at least once a week. Remember to keep the blo
 Promote your blog on the sites you feel are most important!
 
 #### **Challenge or Additional resources**
-
-‌
 
 * [StackOverFLow](https://meta.stackoverflow.com/questions/369343/can-i-find-a-job-on-stack-overflow-as-a-self-taught-programmer-with-no-professio) - how to find a job as self-taught dev
 
