@@ -101,7 +101,7 @@ Discussion on what the 'About us', 'Qualifications' and 'Responsibilities parts 
 
 Do you understand the role. Do you know what they are asking for? What does this company  need? What can you help them with?
 
-#### **Slide 10- Activity What is the company? 15 mins**
+### **Slide 10 Activity \(15 mins\)  What is the company?** 
 
 **In small groups read the following ‘About Us’ document an answer the following:**
 
@@ -110,6 +110,8 @@ Do you understand the role. Do you know what they are asking for? What does this
 3. What kind of working environment do you think they have? 
 4. Do you think this company would be a good fit for you in culture and values? 
 5. Why or why not? 
+
+Sample About Us Doc: [https://drive.google.com/file/d/1mp6cviXxKFeZGmMpL-LiYS78Pepsitjd/view?usp=sharing](https://drive.google.com/file/d/1mp6cviXxKFeZGmMpL-LiYS78Pepsitjd/view?usp=sharing)
 
 #### **Slide 11- Activity What is the role? 20 mins**
 
