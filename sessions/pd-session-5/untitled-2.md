@@ -117,13 +117,15 @@ Have the groups feed back to the larger group on their answers.
 
 ### **Slide 11 Activity \(20 mins\)- What is the role?** 
 
-**In small groups read one of the the following job specs and answer the following:**
+Divide into small groups and randomly assign either job role A or job role B to the group to read and analyze. 
+
+They have 15 mins to think about the following questions: 
 
 1. Do you understand all the responsibilities required for this role?
 2. Do you think you would enjoy this work?
 3. Do you have past experiences that match what they are looking for? 
 
-As a group, summarise what the job is:
+Then as a group, present a summary what the job is to the larger group: \(\*If you have 2 or 3 groups doing each of the job specs then each group can present on one of the summary questions\)
 
 What do you have to do?
 
