@@ -43,7 +43,7 @@ Through the use of a presentation and group discussion
 
 ‌
 
-* **Understand how to read and analyze a job advert**
+* **Understand how to read and analyse a job advert**
 * **Know the function of each part of the job advert** 
 
 ‌
@@ -139,9 +139,16 @@ Job Spec Company B: [https://drive.google.com/file/d/1mp6cviXxKFeZGmMpL-LiYS78Pe
 
 When describing your work experience on your CV, always focus on the skillsets and behaviours you have demonstrated or gained.
 
-**Slides 14- 15 Show, don’t tell** 
+**Slides 14- 15 Cv's Show, don’t tell** 
 
-Ideally, include the measurable outcomes of the work you did. Who did your work help? What problems did it solve?
+Many people make the mistake of just listing technologies or languages or skills they have without explaining how they have used them in the past. 
+
+Tell the story of what you did in your project or team.   
+Ideally, include the measurable outcomes of the work you did. 
+
+Who did your work help? 
+
+What problems did it solve?
 
 **Slides 16 Recap** 
 
@@ -151,13 +158,13 @@ Address the common mistakes/ misconception
 
 Allow time for discussion
 
+#### \*\*\*\*
+
 #### **Common Mistakes / Misconceptions**
 
-‌
-
 1. I don’t care what job I get, I just need a job. 
-2. This cycle takes too much time. I don’t have the time to look for a job this way. 
-3. Why do I need a different CV for every job if I’m just applying for a junior developer role? 
+2. This job application cycle will take too much time. I don’t have the time to look for a job this way. 
+3. Why do I need a different CV for every job if I’m just applying for a front end junior developer role? 
 4. I didn’t spend all this time learning to code to not be able to get a job at the end. 
 
 ‌
