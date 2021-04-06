@@ -133,7 +133,9 @@ Job Spec Company B: [https://drive.google.com/file/d/1mp6cviXxKFeZGmMpL-LiYS78Pe
 
 
 
-#### **Slides 12-13 Make it Relevant**
+#### **Slides 12-13 Make Your CV Relevant**
+
+**Discuss the function of a CV. How it is made to answer the specific job advert. That they need to make a new CV for each job they apply for.** 
 
 When describing your work experience on your CV, always focus on the skillsets and behaviours you have demonstrated or gained.
 
