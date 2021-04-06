@@ -6,26 +6,20 @@
 
 #### **Projected Time**
 
-‌
-
 45 minutes - 1 hour
 
-‌
-
-* xx minutes for Lesson Walkthrough
-* xx minutes for Guided Practice
+* 20 minutes for Lesson Walkthrough
+* 35 minutes for Guided Practice
 
 ‌
 
 #### **Prerequisites**
 
-‌
-
 None
 
-#### **Aim** \(Describe the changes you are trying to achieve with the session\)
+#### \*\*\*\*
 
-‌
+#### **Aim** \(Describe the changes you are trying to achieve with the session\)
 
 * To help trainees learn about the steps in the job search process
 * To guide trainees on how to find companies and roles that right for them
@@ -49,8 +43,8 @@ Through the use of a presentation and group discussion
 
 ‌
 
-* Any themes from the lesson 
-* Specific vocabulary
+* **Understand how to read and analyze a job advert**
+* **Know the function of each part of the job advert** 
 
 ‌
 
