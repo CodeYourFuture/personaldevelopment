@@ -111,7 +111,7 @@ Lots of people in tech on Twitter!
 
 Learn lots from how others present themselves
 
-### **Activity \(10 mins\): Write great bio under 160 characters remember to use keywords to make yourself searchable for employers**
+### **Activity \(10 mins\): Write great bio under 160 characters. Remember to use keywords to make yourself searchable for employers.** 
 
 **Slide 11 Hashtags on Twitter**
 
