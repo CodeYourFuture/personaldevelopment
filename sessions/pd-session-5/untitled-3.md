@@ -243,9 +243,8 @@ You earn reputation when people vote on your posts. As you earn reputation, you'
 
 Badges are special achievements you earn for participating on the site. They come in three levels: bronze, silver, and gold. You get a specific badge when you perform a task like creating a profile, achieving an accepted answer with a certain score, etc there is a list.
 
-**Slide 28 Activity 4 Stack Overflow Questions**
+### **Slide 28 Activity 4 Stack Overflow Questions - 5 minutes**
 
-* **5 minutes exercise**
 * **Discuss in small groups, what would be the answer you would post for this question:** 
   * Whats the difference between using let and var? This is something they have already learned so they should be able to answer. 
 * **Post your answer on Slack thread**. 
