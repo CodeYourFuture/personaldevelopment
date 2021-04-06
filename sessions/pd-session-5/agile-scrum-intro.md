@@ -35,9 +35,19 @@
   * Project managers saw large software projects as complex delivery for consumer \(user\) facing products. They borrowed from what worked well elsewhere at the time \(e.g. the car industry\). Mention “Waterfall”. 
   * But: Software is different. It’s immature. It’s not constrained by the same limitations as manufacturing. The tooling isn’t as precise. This leads to problems \(lack of early testing, user ability to articulate\) - focus on time. Length of projects easily 12-24 months. 
 * **Slide 9**
-  * **Enter the Agile Manifesto. Discuss quote. Uncover the ‘hands-on continuous improvement’ ethos. Mention it’s there on the web to go and read.**
+  * Enter the Agile Manifesto. Discuss quote. Uncover the ‘hands-on continuous improvement’ ethos. Mention it’s there on the web to go and read.
 * **Slide 10-11**
-  * **Review the four values. Mention the some/all 12 principles \(Customer satisfaction is P1; Welcome change; Deliver little and often \(hammer home 2 weeks vs 2 years\); teamwork; empowered teams; conversation over documentation \(link to PD skills\); Working Software\(!\); Sustainable development \(links to resilience\); Continuous technical excellent & design agility; Simplicity \(we’ve mentioned this in a number of PD areas\); Reflect \(continuous improvement, coping\)**
+  * Review the four values. Mention the some/all 12 principles 
+    * Customer satisfaction is P1
+    * Welcome change
+    * Deliver little and often \(hammer home 2 weeks vs 2 years\)
+    * teamwork; empowered teams 
+    * conversation over documentation \(link to PD skills\)
+    * Working Software\(!\)
+    * Sustainable development \(links to resilience\)
+    * Continuous technical excellent & design agility
+    * Simplicity \(we’ve mentioned this in a number of PD areas\)
+    * Reflect \(continuous improvement, coping\)
 * **Slide 12**
   * Describe broadly what this will mean in the real-world of job ads \(see slide\). Drumroll into the most popular and today’s deep dive: 
 * Slide 13
