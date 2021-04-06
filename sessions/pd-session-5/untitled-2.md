@@ -113,7 +113,9 @@ Do you understand the role. Do you know what they are asking for? What does this
 
 Sample About Us Doc: [https://drive.google.com/file/d/1mp6cviXxKFeZGmMpL-LiYS78Pepsitjd/view?usp=sharing](https://drive.google.com/file/d/1mp6cviXxKFeZGmMpL-LiYS78Pepsitjd/view?usp=sharing)
 
-#### **Slide 11- Activity What is the role? 20 mins**
+Have the groups feed back to the larger group on their answers.
+
+### **Slide 11 Activity \(20 mins\)- What is the role?** 
 
 **In small groups read one of the the following job specs and answer the following:**
 
@@ -129,9 +131,11 @@ What do you have to know?
 
 What do you have to show?
 
-Job Spec Company A 
+Job Spec Company A:  [https://drive.google.com/file/d/1mp6cviXxKFeZGmMpL-LiYS78Pepsitjd/view?usp=sharing](https://drive.google.com/file/d/1mp6cviXxKFeZGmMpL-LiYS78Pepsitjd/view?usp=sharing)
 
-Job Spec Company B
+Job Spec Company B: [https://drive.google.com/file/d/1mp6cviXxKFeZGmMpL-LiYS78Pepsitjd/view?usp=sharing](https://drive.google.com/file/d/1mp6cviXxKFeZGmMpL-LiYS78Pepsitjd/view?usp=sharing)
+
+
 
 #### **Slides 12-13 Make it Relevant**
 
