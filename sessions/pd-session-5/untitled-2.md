@@ -57,7 +57,6 @@ Through the use of a presentation and group discussion
 #### **Lesson**
 
 * Link to [slides](https://docs.google.com/presentation/d/1d3_B31nauR9LJLUKaQVSDIObwcZYC0Rr2U9ArgTyb6E/edit?usp=sharing)
-* Link to videos
 
 ‌
 
@@ -91,13 +90,16 @@ Asking for feedback after your interview can help you see what they see about yo
 
 Waiting for an answer! Don’t waste your time- keep applying and interviewing. You never know what role will be the best for you.
 
-#### **Slides 4- 5 The company**
+#### **Slides 5-6 The company**
 
 Do your research on the company. Learn about them and connect with their employees who have the job you are currently looking at. Find out from them what it is really like. So you can answer for yourself if you would want to do this job for this company?
 
-#### **Slides 8-9 The Role**
+#### **Slides 7-9 The Role**
 
-Understand the role. Do you know what they are asking for? What is their need? What can you help them with?
+Discussion on what the 'About us', 'Qualifications' and 'Responsibilities parts of the job advert does and how they use that information  
+
+
+Do you understand the role. Do you know what they are asking for? What does this company  need? What can you help them with?
 
 #### **Slide 10- Activity What is the company? 15 mins**
 
