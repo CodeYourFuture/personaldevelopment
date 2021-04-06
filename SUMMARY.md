@@ -59,7 +59,7 @@
   * [Guest Speaker - Understanding how the CYF job process works](sessions/pd-session-5/untitled-4.md)
   * [Job Application Workshop](sessions/pd-session-5/untitled-2.md)
   * [Social Media and Self Marketing](sessions/pd-session-5/untitled-3.md)
-  * [Developer Skills - Agile and Scrum Intro](sessions/pd-session-5/untitled-5.md)
+  * [Developer Skills - Agile and Scrum Intro](sessions/pd-session-5/agile-scrum-intro.md)
   * [Honeycomb - Learning From Failure](sessions/pd-session-5/untitled-1.md)
   * [Coursework](sessions/pd-session-5/untitled.md)
 * [Day 6 - Interview Skills](sessions/pd-session-6/README.md)
