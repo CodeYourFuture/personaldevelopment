@@ -65,7 +65,9 @@ Through the use of a presentation and group discussion
 
 #### **Slides 2**
 
-#### **Slides 3- x**‌
+Intro the session and discuss the session objectives. 
+
+#### **Slides 3- 4**
 
 When you are ready to apply for jobs there is a cycle you will go through for each job.
 
@@ -123,7 +125,7 @@ What do you have to know?
 
 What do you have to show?
 
-Job Spec Company A
+Job Spec Company A 
 
 Job Spec Company B
 
