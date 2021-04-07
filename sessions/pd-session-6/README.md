@@ -62,9 +62,9 @@ Session plan is [here](https://personaldevelopment.codeyourfuture.io/sessions/re
 
 ## Session Session 5 \(40-50mins\) 
 
-### Resilience
+### Mock Interviews 
 
-* To
+* To gain skills in being resilient through the difficult process of interview preparations
 * to
 * to
 
