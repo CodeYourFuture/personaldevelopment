@@ -53,7 +53,8 @@ Session plan is [here](https://personaldevelopment.codeyourfuture.io/sessions/re
 
 ### Mock Interviews
 
-* To
+**To gain confidence through practicing interview techniques**
+
 * to
 * to
 
