@@ -35,6 +35,8 @@ Session plan is [here](https://personaldevelopment.codeyourfuture.io/sessions/re
 * to
 * to
 
+{% embed url="https://docs.google.com/presentation/d/1FucWGhzO-IkUv9mqD0s9\_IyGy1mFS4KPss9mS1q6b-o/edit\#slide=id.g5dc73349d2\_0\_26" %}
+
 
 
 ## Session 3 \(45 mins- 1 hour\)
