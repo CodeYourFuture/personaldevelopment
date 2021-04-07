@@ -31,5 +31,3 @@ Decide which 3 Social Media platforms are the most important for you to focus on
 5. Post it on your chosen Social Media sites and continue this process least once a week. Remember to keep the blog post short at first to prevent writers block and anxiety about posting.
 6. Promote your blog on the sites you feel are most important!
 
-Chris Owen
-
