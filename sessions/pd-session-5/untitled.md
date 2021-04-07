@@ -2,7 +2,7 @@
 
 **CV writing workbook**
 
-Start crafting your CV by going through this CV workbook. [https://personaldevelopment.codeyourfuture.io/getting-job-ready/cv-tips-and-tricks/cv-workbook](https://personaldevelopment.codeyourfuture.io/getting-job-ready/cv-tips-and-tricks/cv-workbook)
+Start crafting your CV by working through this CV workbook. [https://personaldevelopment.codeyourfuture.io/getting-job-ready/cv-tips-and-tricks/cv-workbook](https://personaldevelopment.codeyourfuture.io/getting-job-ready/cv-tips-and-tricks/cv-workbook)
 
 ‌Most people do not have a good CV the 1st time around. This workbook will break down what you need to think about in order to create a good CV.  You will need to have your draft CV ready for review with you Career mentor when you meet after the next Employability Day.
 
@@ -16,7 +16,7 @@ Write in your learning journal what 2 tips you think will be most useful for you
 
 Coursera Blog - In 2020, Should You Learn Python or Javascript First?  [https://blog.coursera.org/in-2019-should-you-learn-python-or-javascript-first/](https://blog.coursera.org/in-2019-should-you-learn-python-or-javascript-first/)
 
-What advice do they give about finding a job? What things would be useful for you to do?
+Write in your learning journal: What advice do they give about finding a job? What things would be useful for you to do?
 
 #### ‌Build your personal profile
 
