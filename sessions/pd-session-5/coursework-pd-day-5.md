@@ -2,7 +2,13 @@
 
 **CV writing workbook**
 
-Start crafting your CV by working through this CV workbook. [https://personaldevelopment.codeyourfuture.io/getting-job-ready/cv-tips-and-tricks/cv-workbook](https://personaldevelopment.codeyourfuture.io/getting-job-ready/cv-tips-and-tricks/cv-workbook)
+Start crafting your CV by working through this CV workbook. You can use one of the job adverts from the Job application session as your example or a job you find on your own. 
+
+Sample Job advert Company A:  [https://drive.google.com/file/d/1mp6cviXxKFeZGmMpL-LiYS78Pepsitjd/view?usp=sharing](https://drive.google.com/file/d/1mp6cviXxKFeZGmMpL-LiYS78Pepsitjd/view?usp=sharing)
+
+Sample Job advert Company B: [https://drive.google.com/file/d/1mp6cviXxKFeZGmMpL-LiYS78Pepsitjd/view?usp=sharing](https://drive.google.com/file/d/1mp6cviXxKFeZGmMpL-LiYS78Pepsitjd/view?usp=sharing)
+
+Cv Workbook: [https://personaldevelopment.codeyourfuture.io/getting-job-ready/cv-tips-and-tricks/cv-workbook](https://personaldevelopment.codeyourfuture.io/getting-job-ready/cv-tips-and-tricks/cv-workbook)
 
 ‌Most people do not have a good CV the 1st time around. This workbook will break down what you need to think about in order to create a good CV.  You will need to have your draft CV ready for review with you Career mentor when you meet after the next Employability Day.
 
