@@ -26,6 +26,8 @@ Write in your learning journal what 2 tips you think will be most useful for you
 
 Post your journal entry on Google Classroom
 
+\*\*\*\*
+
 **Listen to Podcast on Coursera \(Due in 1 week\)**
 
 Coursera Blog - In 2020, Should You Learn Python or Javascript First?  [https://blog.coursera.org/in-2019-should-you-learn-python-or-javascript-first/](https://blog.coursera.org/in-2019-should-you-learn-python-or-javascript-first/)
@@ -34,10 +36,11 @@ Write in your learning journal: What advice do they give about finding a job? Wh
 
 Post your journal entry on Google Classroom
 
+#### 
+
 #### Competencies for progressing from Junior to Mid Level Developer at the FT‌ \(Due in 1 week\)
 
-When you start looking for job you will have to show development and progress over time. Once you get your first role as a Junior you will need to continue to grow and develop in your role.   
-
+When you start looking for job you will have to show development and progress over time. Once you get your first role as a Junior you will need to continue to grow and develop in your role. 
 
 Read the following example from The Financial Times on Engineering competencies. They are used as informatation in discussions about career progression between an engineer and their line manager. They define what an engineer is expected to be doing at a particular level. Engineers are expected to be considering whether they’re meeting competencies from the levels _before_ their current one. 
 
