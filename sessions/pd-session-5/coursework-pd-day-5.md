@@ -18,7 +18,26 @@ Coursera Blog - In 2020, Should You Learn Python or Javascript First?  [https://
 
 Write in your learning journal: What advice do they give about finding a job? What things would be useful for you to do?
 
-#### ‌Build your personal profile
+#### Competencies for progressing from Junior to Mid Level Developer at the FT‌
+
+When you start looking for job you will have to show development and progress over time. Once you get your first role as a Junior you will need to continue to grow and develop in your role.   
+
+
+Read the following example from The Financial Times on Engineering competencies. They are used as informatation in discussions about career progression between an engineer and their line manager. They define what an engineer is expected to be doing at a particular level. Engineers are expected to be considering whether they’re meeting competencies from the levels _before_ their current one. 
+
+In your learning journal write what you notice about the different areas of competencies.
+
+Are they only looking at technical ability or something else? 
+
+Are there any competencies related to what you have been learning on this course? 
+
+Now that you . know the expectations employers have for their staff to develop, what can you take away that you can start doing now? 
+
+{% embed url="https://engineering-progression.ft.com/competencies/junior-to-mid/" %}
+
+
+
+#### Build your personal profile
 
 At this point in the course building your personal brand and profile should be your aim. 
 
