@@ -1,2 +1,2 @@
-# Day 9 - Final Projects
+# Final Projects
 

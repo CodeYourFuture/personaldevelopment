@@ -83,7 +83,7 @@
   * [Structuring and delivering a 15-minute presentation and accompanying pitch deck](em-modules/pd-session-8/structuring-and-delivering-a-15-minute-presentation-and-accompanying-pitch-deck.md)
   * [Next Steps](em-modules/pd-session-8/next-steps-1.md)
   * [Coursework](em-modules/pd-session-8/coursework.md)
-* [Day 9 - Final Projects](em-modules/pd-session-9.md)
+* [Final Projects](em-modules/pd-session-9.md)
 * [PD Coursework Assignments](em-modules/pd-coursework-assignments.md)
 * [Employment Readiness Assessment](em-modules/employment-readiness-assessment.md)
 
