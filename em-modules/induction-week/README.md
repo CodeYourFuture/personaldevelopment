@@ -27,7 +27,7 @@ All trainees should have completed the Fundamentals Module.
 
 Introduce the concept of them progressing from being students on the Intro to Coding and Fundamentals courses to being _**Trainees**_ on the Full stack Course. 
 
-* **During PD days we will be highlighting appropriate professional behaviours and attitudes.** 
+* **During Employability days we will be highlighting appropriate professional behaviours and attitudes.** 
 * **Have the group take 1 minute to think of their definition of a 'student' and that of a 'trainee' \(no Googling!\)** 
 * **Write them on a space set up with two columns on your class Miro board**
 * **Ask them to highlight which word they feel more closely embodies a professional person**
