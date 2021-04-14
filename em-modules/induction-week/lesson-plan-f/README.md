@@ -4,6 +4,10 @@ description: Communication and confidence building sessions
 
 # FindYourVoice - Empowerment Storytelling Workshops
 
+* Use as  icebreaker activity at astart of the day or after lunch
+* Sessions 1 & 2 should have been run during Fundamentals
+* If you didn't, start with session 1 
+
 **1. Why FindYourVoice?**
 
 It was noticed by CYF staff and volunteers the need to get to know students better and in other capacities as well as for the trainees to bond, integrate and feel part of a group.
