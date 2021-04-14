@@ -27,7 +27,7 @@ All trainees should have completed the Fundamentals Module.
 
 ### From Students to Trainees \(20 mins\) 
 
-* Identify the goal\(s\) of being on the CYF course. 
+* Identify the goal\(s\) of being on the Full Stack CYF course. 
 * Introduce the concept of  progressing from students on the Intro to Coding and Fundamentals courses to being _**Trainees**_ on the Full stack Course. 
 * 
 ### Session 3
