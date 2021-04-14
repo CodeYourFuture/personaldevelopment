@@ -66,13 +66,9 @@ In this section we'll explore how a professional behaves and thus how we expect 
 2. Once we have we have a large list, invite them to think about whether they do all those things already
 3. Discuss how to change things so they begin to do more and more of those things highlighting that practice is the way to develop
 
-## Session 3 
+## Session 5 
 
-### Learning to Learn Together \(35 mins\)
-
-Next, we'll be covering the best ways for us to learn together. 
-
-{% embed url="https://docs.google.com/presentation/d/1saIfR6Y7rrDu2KLwIZkTplisnQ2gcwtmsaGBukAaCZg/edit\#slide=id.g8925d822cd\_0\_0" %}
+### Autism Awareness \(45 mins - 1 hour\)
 
 
 
@@ -87,14 +83,7 @@ Next, we'll be covering the best ways for us to learn together.
 
 
 
-### Session 5 
 
-### Find Your Voice \(20 mins - 60 mins\)
-
-* 4 workshops designed to facilitate confidence building through drama activities
-* use as after lunch icebreaker activity
-* should have done sessions 1 & 2 during Fundamentals
-* if you didn't, start with session 1 
 
 ## Session 6
 
