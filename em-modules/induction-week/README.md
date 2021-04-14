@@ -53,7 +53,7 @@ Go through the course calendar and highlight what happens and when.
 * Introduce the roles of the PD and Ed Buddies \(tell them they will meet their buddies next week\)
 * Study groups \(mid week\)
 
-## Session 2 
+## Session 4 
 
 ### What do Developers do?  \(20 mins\)
 
