@@ -1,2 +1,2 @@
-# Why are you here?
+# Goals and Expectations
 

@@ -13,7 +13,7 @@ All trainees should have completed the Fundamentals Module.
 
 ## Session 1
 
-### Find Your Voice \(20 mins - 60 mins\)
+### Find Your Voice \(40 mins - 60 mins\)
 
 * 4 workshops designed to facilitate confidence building through drama activities
 * All trainees have the opportunity to speak at least once
@@ -23,7 +23,7 @@ All trainees should have completed the Fundamentals Module.
 
 ## Session 2 
 
-### Why are you here? 
+### Goals and Expectations 
 
 ### From Students to Trainees \(20 mins\) 
 
