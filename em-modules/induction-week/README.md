@@ -13,6 +13,17 @@ All trainees should have completed the Fundamentals Module.
 
 ## Session 1
 
+### Find Your Voice \(20 mins - 60 mins\)
+
+* 4 workshops designed to facilitate confidence building through drama activities
+* Can use as  icebreaker activity
+* Should have done sessions 1 & 2 during Fundamentals
+* If you didn't, start with session 1 
+
+### 
+
+### Session 5 
+
 ### From Students to Trainees \(10 mins\) 
 
 Introduce the concept of them progressing from being students on the Intro to Coding and Fundamentals courses to being _**Trainees**_ on the Full stack Course. 
