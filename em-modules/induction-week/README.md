@@ -72,7 +72,7 @@ In this section we'll explore how a professional behaves and thus how we expect 
 
 
 
-## Session 4 
+## Session 6 
 
 ### Growth Mindset \(45 minutes\)
 
