@@ -25,16 +25,11 @@ All trainees should have completed the Fundamentals Module.
 
 ### Why are you here? 
 
-### From Students to Trainees \(10 mins\) 
+### From Students to Trainees \(20 mins\) 
 
-Introduce the concept of them progressing from being students on the Intro to Coding and Fundamentals courses to being _**Trainees**_ on the Full stack Course. 
-
-* **During Employability days we will be highlighting appropriate professional behaviours and attitudes.** 
-* **Have the group take 1 minute to think of their definition of a 'student' and that of a 'trainee' \(no Googling!\)** 
-* **Write them on a space set up with two columns on your class Miro board**
-* **Ask them to highlight which word they feel more closely embodies a professional person**
-* **End by saying ‘you are a trainee, that means you are training to be a professional. Thus you should behave in a professional way’.**
-
+* Identify the goal\(s\) of being on the CYF course. 
+* Introduce the concept of  progressing from students on the Intro to Coding and Fundamentals courses to being _**Trainees**_ on the Full stack Course. 
+* 
 ### Session 3
 
 ### What will you learn in this course? \(25 minutes\)
