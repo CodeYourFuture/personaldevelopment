@@ -23,7 +23,7 @@ Some never wrote a line of code before that!
 
 * To facilitate confidence building through drama activities
 * To allow all trainees the opportunity to speak \(find their voice\) at least once during the session
-* To allow 
+* To allow trainees to bond, integrate and feel part of a group
 
 ## Session 2 
 
