@@ -37,7 +37,7 @@ Some never wrote a line of code before that!
 
 
 
-### Session 3
+## Session 3
 
 ### What will you learn on the course? \(25 minutes\)
 
