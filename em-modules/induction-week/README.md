@@ -21,8 +21,8 @@ Some never wrote a line of code before that!
 
 ### Find Your Voice \(40 mins - 60 mins\)
 
-* 4 workshops designed to facilitate confidence building through drama activities
-* All trainees have the opportunity to speak at least once
+* To facilitate confidence building through drama activities
+* To allow all trainees the opportunity to speak \(find their voice\) at least once during the session
 * Can use as  icebreaker activity
 * Should have done sessions 1 & 2 during Fundamentals
 * If you didn't, start with session 1 

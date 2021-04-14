@@ -6,7 +6,7 @@ description: Communication and confidence building sessions
 
 **1. Why FindYourVoice?**
 
-It was noticed by CYF staff and volunteers the need to get to know students better and in other capacities as well as for the students to bond, integrate and feel part of a group.
+It was noticed by CYF staff and volunteers the need to get to know students better and in other capacities as well as for the trainees to bond, integrate and feel part of a group.
 
 **2. What is FindYourVoice?**
 
