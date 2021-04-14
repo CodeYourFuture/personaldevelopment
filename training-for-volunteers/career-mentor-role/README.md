@@ -29,9 +29,7 @@ description: >-
 **What else do I need to do?**
 
 * Help facilitate mock interviews for trainees in CYF cities \(3 hours\)
-
-  Attend mentoring induction workshop \(1-1.5 hours\) 
-
+* Attend mentoring induction workshop \(1-1.5 hours\) 
 * Fill in mentoring feedback form \(15 mins once per month\) 
 * Join Career Mentors Slack group for support \(ask questions and contribute suggestions when able\) 
 * Join mentoring feedback call \(once every 3 months for 1 hour\)
