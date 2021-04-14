@@ -23,6 +23,8 @@ All trainees should have completed the Fundamentals Module.
 
 ## Session 2 
 
+### Whay are you  here? 
+
 ### From Students to Trainees \(10 mins\) 
 
 Introduce the concept of them progressing from being students on the Intro to Coding and Fundamentals courses to being _**Trainees**_ on the Full stack Course. 
