@@ -51,7 +51,7 @@ Go through the course calendar and highlight what happens and when.
 
 * Introduce the roles of the PD and Ed teams 
 * Introduce the roles of the PD and Ed Buddies \(tell them they will meet their buddies next week\)
-* Study groups \(mid week\)
+* Employability and Tech Study groups \(mid week\)
 
 ## Session 4 
 
