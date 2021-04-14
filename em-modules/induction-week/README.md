@@ -23,9 +23,7 @@ Some never wrote a line of code before that!
 
 * To facilitate confidence building through drama activities
 * To allow all trainees the opportunity to speak \(find their voice\) at least once during the session
-* Can use as  icebreaker activity
-* Should have done sessions 1 & 2 during Fundamentals
-* If you didn't, start with session 1 
+* To allow 
 
 ## Session 2 
 
