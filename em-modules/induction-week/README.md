@@ -21,9 +21,7 @@ All trainees should have completed the Fundamentals Module.
 * Should have done sessions 1 & 2 during Fundamentals
 * If you didn't, start with session 1 
 
-### 
-
-### Session 5 
+## Session 2 
 
 ### From Students to Trainees \(10 mins\) 
 
