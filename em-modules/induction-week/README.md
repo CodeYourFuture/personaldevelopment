@@ -85,9 +85,9 @@ In this section we'll explore how a professional behaves and thus how we expect 
 
 
 
-## Session 6
+## Session 7
 
-### Introduction to Honeycomb - CodeYourFuture Habits \(60 minutes\)
+### Introduction to Honeycomb - CodeYourFuture Habits \(45 minutes - 1 hour\)
 
 * How to give and receive feedback \(20 mins\)
 * Intro to the habits 
