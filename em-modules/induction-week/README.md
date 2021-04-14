@@ -1,11 +1,11 @@
 ---
 description: >-
-  This first week of the Full Stack course introduces CodeYourFuture Trainees to
-  the technical skills they will be learning over the next 8 months and ways to
-  optimise their learning process.
+  The first week introduces the expectations we have for CodeYourFuture
+  Trainees, the technical and employability skills they will develop and the
+  support available during the course.
 ---
 
-# Day 1 - Learning to Learn
+# Day 1 - Welcome and Induction
 
 ## Prior Knowledge
 
