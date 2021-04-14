@@ -23,7 +23,7 @@ All trainees should have completed the Fundamentals Module.
 
 ## Session 2 
 
-### Whay are you  here? 
+### Why are you here? 
 
 ### From Students to Trainees \(10 mins\) 
 
