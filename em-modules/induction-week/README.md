@@ -33,6 +33,8 @@ Introduce the concept of them progressing from being students on the Intro to Co
 * **Ask them to highlight which word they feel more closely embodies a professional person**
 * **End by saying ‘you are a trainee, that means you are training to be a professional. Thus you should behave in a professional way’.**
 
+### Session 3
+
 ### What will you learn in this course? \(25 minutes\)
 
 {% embed url="https://docs.google.com/presentation/d/1JaBbNH7SFlfo79PRYOa92RPKC8aX8BAfVXviVIQNPHE/edit\#slide=id.g8925d822cd\_0\_0" caption="https://docs.google.com/presentation/d/1JaBbNH7SFlfo79PRYOa92RPKC8aX8BAfVXviVIQNPHE/edit" %}
