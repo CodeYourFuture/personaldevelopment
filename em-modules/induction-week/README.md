@@ -31,9 +31,12 @@ Some never wrote a line of code before that!
 
 ### From Students to Trainees \(20 mins\) 
 
-* Identify the goal\(s\) of being on the Full Stack CYF course. 
-* Introduce the concept of  progressing from students on the Intro to Coding and Fundamentals courses to being _**Trainees**_ on the Full stack Course. 
-* 
+* To identify trainees goal\(s\) for being on the Full Stack CYF course
+* To highlight the expectations CodeYourFuture has for it's trainees
+* To Introduce the concept of  progressing from students on the Intro to Coding and Fundamentals courses to being _**Trainees**_ on the Full stack Course
+
+
+
 ### Session 3
 
 ### What will you learn in this course? \(25 minutes\)
