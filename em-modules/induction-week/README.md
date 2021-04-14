@@ -33,11 +33,13 @@ Some never wrote a line of code before that!
 * To highlight the expectations CodeYourFuture has for it's trainees
 * To Introduce the concept of  progressing from students on the Intro to Coding and Fundamentals courses to being _**Trainees**_ on the Full stack Course
 
+{% embed url="https://docs.google.com/presentation/d/11vimrefwpHfFByUfgPL-jwhZ2KrE0Li80M\_O\_z2U95I/edit?usp=sharing" %}
+
 
 
 ### Session 3
 
-### What will you learn in this course? \(25 minutes\)
+### What will you learn on the course? \(25 minutes\)
 
 {% embed url="https://docs.google.com/presentation/d/1JaBbNH7SFlfo79PRYOa92RPKC8aX8BAfVXviVIQNPHE/edit\#slide=id.g8925d822cd\_0\_0" caption="https://docs.google.com/presentation/d/1JaBbNH7SFlfo79PRYOa92RPKC8aX8BAfVXviVIQNPHE/edit" %}
 
