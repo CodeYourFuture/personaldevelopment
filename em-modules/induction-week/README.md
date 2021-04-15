@@ -41,7 +41,9 @@ Some never wrote a line of code before that!
 
 ### What will you learn on the course? \(25 minutes\)
 
-{% embed url="https://docs.google.com/presentation/d/1JaBbNH7SFlfo79PRYOa92RPKC8aX8BAfVXviVIQNPHE/edit\#slide=id.g8925d822cd\_0\_0" caption="https://docs.google.com/presentation/d/1JaBbNH7SFlfo79PRYOa92RPKC8aX8BAfVXviVIQNPHE/edit" %}
+{% embed url="https://docs.google.com/presentation/d/1pMcirjphVuKUh6dlD28xwLDAd8bpvF\_Lo4sIFIGhfHU/edit?usp=sharing" caption="https://docs.google.com/presentation/d/1pMcirjphVuKUh6dlD28xwLDAd8bpvF\_Lo4sIFIGhfHU/edit?usp=sharing" %}
+
+
 
 ### Schedule of the year \(10 mins\)
 
