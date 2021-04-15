@@ -5,7 +5,6 @@
 
 ## Employability Modules <a id="em-modules"></a>
 
-* [Untitled](em-modules/untitled.md)
 * [Day 1 - Welcome and Induction](em-modules/induction-week/README.md)
   * [FindYourVoice - Empowerment Storytelling Workshops](em-modules/induction-week/lesson-plan-f/README.md)
     * [How to facilitate FYV sessions](em-modules/induction-week/lesson-plan-f/how-to-facilitate-sessions.md)
