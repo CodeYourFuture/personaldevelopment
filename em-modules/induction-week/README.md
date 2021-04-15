@@ -15,7 +15,7 @@ All trainees should have completed the Fundamentals Module.
 
 Make an effort to mark the achievements of the trainees up to this point.   
 They completed ITC and Fundamentals.   
-Some never wrote a line of code before that! :tada:
+Some never wrote a line of code before that! 
 
 ## Session 1
 
