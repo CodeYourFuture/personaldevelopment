@@ -33,7 +33,9 @@ Some never wrote a line of code before that!
 * To highlight the expectations CodeYourFuture has for it's trainees
 * To Introduce the concept of  progressing from students on the Intro to Coding and Fundamentals courses to being Trainees on the Full stack Course
 
-{% embed url="https://docs.google.com/presentation/d/11vimrefwpHfFByUfgPL-jwhZ2KrE0Li80M\_O\_z2U95I/edit?usp=sharing" %}
+{% embed url="https://docs.google.com/presentation/d/11vimrefwpHfFByUfgPL-jwhZ2KrE0Li80M\_O\_z2U95I/edit?usp=sharing" caption="https://docs.google.com/presentation/d/11vimrefwpHfFByUfgPL-jwhZ2KrE0Li80M\_O\_z2U95I/edit?usp=sharing" %}
+
+
 
 
 
