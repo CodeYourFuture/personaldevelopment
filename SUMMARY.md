@@ -87,23 +87,23 @@
 * [PD Coursework Assignments](em-modules/pd-coursework-assignments.md)
 * [Employment Readiness Assessment](em-modules/employment-readiness-assessment.md)
 
-## Training <a id="training-for-volunteers"></a>
+## Volunteer Roles <a id="volunteer--roles-and-training"></a>
 
-* [Personal Development Buddy Role](training-for-volunteers/personal-development-buddy-role/README.md)
-  * [Example PD Buddy Schedule](training-for-volunteers/personal-development-buddy-role/example-pd-buddy-schedule.md)
-* [PD Buddy Training](training-for-volunteers/buddy-training/README.md)
-  * [How to form Buddy Groups](training-for-volunteers/buddy-training/how-to-form-buddy-groups.md)
-  * [Buddy Session Plan](training-for-volunteers/buddy-training/buddy-session-plan.md)
-  * [Individual Buddy Session](training-for-volunteers/buddy-training/individual-buddy-session.md)
-  * [Coursework Review](training-for-volunteers/buddy-training/coursework-review.md)
-* [Dyslexia Awareness Training](training-for-volunteers/dyslexia-awareness-training.md)
-* [Career Mentor Role](training-for-volunteers/career-mentor-role/README.md)
-  * [Career Mentor Timeline](training-for-volunteers/career-mentor-role/career-mentor-timeline.md)
-* [Career Mentor Training](training-for-volunteers/career-mentors/README.md)
-  * [Career Mentoring- Managing Issues](training-for-volunteers/career-mentors/career-mentoring-managing-issues.md)
-  * [Career Mentoring - Establishing Rapport](training-for-volunteers/career-mentors/career-mentoring-establishing-rapport.md)
-  * [Career Mentoring- Your 1st meeting](training-for-volunteers/career-mentors/career-mentoring-goals-setting.md)
-  * [Career Mentoring - Ending the Relationship](training-for-volunteers/career-mentors/career-mentoring-ending-the-relationship.md)
+* [Personal Development Buddy Role](volunteer--roles-and-training/personal-development-buddy-role/README.md)
+  * [Example PD Buddy Schedule](volunteer--roles-and-training/personal-development-buddy-role/example-pd-buddy-schedule.md)
+* [PD Buddy Training](volunteer--roles-and-training/buddy-training/README.md)
+  * [How to form Buddy Groups](volunteer--roles-and-training/buddy-training/how-to-form-buddy-groups.md)
+  * [Buddy Session Plan](volunteer--roles-and-training/buddy-training/buddy-session-plan.md)
+  * [Individual Buddy Session](volunteer--roles-and-training/buddy-training/individual-buddy-session.md)
+  * [Coursework Review](volunteer--roles-and-training/buddy-training/coursework-review.md)
+* [Dyslexia Awareness Training](volunteer--roles-and-training/dyslexia-awareness-training.md)
+* [Career Mentor Role](volunteer--roles-and-training/career-mentor-role/README.md)
+  * [Career Mentor Timeline](volunteer--roles-and-training/career-mentor-role/career-mentor-timeline.md)
+* [Career Mentor Training](volunteer--roles-and-training/career-mentors/README.md)
+  * [Career Mentoring- Managing Issues](volunteer--roles-and-training/career-mentors/career-mentoring-managing-issues.md)
+  * [Career Mentoring - Establishing Rapport](volunteer--roles-and-training/career-mentors/career-mentoring-establishing-rapport.md)
+  * [Career Mentoring- Your 1st meeting](volunteer--roles-and-training/career-mentors/career-mentoring-goals-setting.md)
+  * [Career Mentoring - Ending the Relationship](volunteer--roles-and-training/career-mentors/career-mentoring-ending-the-relationship.md)
 
 ## Guides for Volunteers
 
