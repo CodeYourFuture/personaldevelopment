@@ -38,7 +38,9 @@ Whenever you complete training please fill out your Learning Log. This allows us
   
 Please make a local copy of the Learning Log and fill in your details.  
 
-{% embed url="https://docs.google.com/document/d/18jvWeMpx-i2VhU-92YBXQqSai9-o0C-\_yhhTKkwHPfs/edit?usp=sharing" %}
+{% embed url="https://docs.google.com/document/d/18jvWeMpx-i2VhU-92YBXQqSai9-o0C-\_yhhTKkwHPfs/edit?usp=sharing" caption="https://docs.google.com/document/d/1hA15MzM9yTxTn7U5u3iGxlfui0V0gftldBkz5FkI2bk/edit?usp=sharing" %}
+
+
 
 
 
