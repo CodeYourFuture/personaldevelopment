@@ -1,7 +1,10 @@
 # Neurodiversity Training
 
-Free Online Course by Cognassist: This course leads to a free accreditation in Nerodiversity   
+At CodeYourFuture we want to create a welcoming learning environment for everyone. We understand that people who train with us may have had challenging educational experiences in the past. We belive that if we positively celebrate neurodiversity in our group, we can enable everyone to feel like valued members able to share their differences.
 
+As a teacher, Buddy, or Career mentor you will encounter a neurodiverse learner as we are all neurodiverse. This course will enable you to understand and better support our neurodiverse learners.
+
+## Free Online Course by Cognassist: This course leads to a free accreditation in Nerodiversity  
 
 {% embed url="https://cognassist.com/masterclass/" caption="https://cognassist.com/masterclass/" %}
 
@@ -25,4 +28,6 @@ Marina Gaze shares her top 5 tips for Ofsted compliance and we discuss how to ma
 
 **\#6 Say goodbye to clawback: ESFA compliance 📝**  
 Karl Bentley shares evidencing best practices and we discuss his rules for avoiding clawback.
+
+We suggest you complete the first 4 modules as those will be most relevant for your roles here at CodeYourFuture. 
 
