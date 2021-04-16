@@ -105,10 +105,10 @@
   * [Career Mentoring- Your 1st meeting](volunteer--roles-and-training/career-mentors/career-mentoring-goals-setting.md)
   * [Career Mentoring - Ending the Relationship](volunteer--roles-and-training/career-mentors/career-mentoring-ending-the-relationship.md)
 
-## Guides for Volunteers
+## Volunteer Resources <a id="resources-for-volunteers"></a>
 
-* [Using the GROWS Model](guides-for-volunteers/using-the-grows-model.md)
-* [42 Best GROWS Model Coaching Questions](guides-for-volunteers/42-best-grows-model-coaching-questions.md)
+* [Using the GROWS Model](resources-for-volunteers/using-the-grows-model.md)
+* [42 Best GROWS Model Coaching Questions](resources-for-volunteers/42-best-grows-model-coaching-questions.md)
 
 ## Additional Resources for Trainees
 
