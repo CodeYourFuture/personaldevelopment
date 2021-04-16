@@ -2,7 +2,7 @@
 description: How to use GROWS model during the goal setting process
 ---
 
-# Using the GROWS Model
+# Using the GROWS Model for coaching
 
 
 
