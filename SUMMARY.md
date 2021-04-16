@@ -96,7 +96,6 @@
   * [Buddy Session Plan](volunteer--roles-and-training/buddy-training/buddy-session-plan.md)
   * [Individual Buddy Session](volunteer--roles-and-training/buddy-training/individual-buddy-session.md)
   * [Coursework Review](volunteer--roles-and-training/buddy-training/coursework-review.md)
-* [Dyslexia Awareness Training](volunteer--roles-and-training/dyslexia-awareness-training.md)
 * [Career Mentor Role](volunteer--roles-and-training/career-mentor-role/README.md)
   * [Career Mentor Timeline](volunteer--roles-and-training/career-mentor-role/career-mentor-timeline.md)
 * [Career Mentor Training](volunteer--roles-and-training/career-mentors/README.md)
@@ -107,6 +106,7 @@
 
 ## Volunteer Resources <a id="resources-for-volunteers"></a>
 
+* [Dyslexia Awareness Training](resources-for-volunteers/dyslexia-awareness-training.md)
 * [Using the GROWS Model for coaching](resources-for-volunteers/using-the-grows-model.md)
 * [42 Best GROWS Model Coaching Questions](resources-for-volunteers/42-best-grows-model-coaching-questions.md)
 
