@@ -106,6 +106,7 @@
 
 ## Volunteer Resources <a id="resources-for-volunteers"></a>
 
+* [Neurodiversity Training](resources-for-volunteers/neurodiversity-training.md)
 * [Dyslexia Awareness Training](resources-for-volunteers/dyslexia-awareness-training.md)
 * [Using the GROWS Model for coaching](resources-for-volunteers/using-the-grows-model.md)
 * [42 Best GROWS Model Coaching Questions](resources-for-volunteers/42-best-grows-model-coaching-questions.md)
