@@ -28,5 +28,21 @@ We do not expect you
 
 {% embed url="https://docs.google.com/presentation/d/1eJXzW0TIyzqZsvvFn63qSkfpB2gRmXQJsT\_KIHbhszU/edit?usp=sharing" %}
 
+### Training Feedback
+
+Please fill in this form to fedback on the training and how useful you found it in preparing you for your role. 
+
+{% embed url="https://forms.gle/7r5Xnf4sWRWYyBpJ7" %}
+
+
+
+### Volunteer Learning Log
+
+Whenever you complete training please fill out your Learning Log. This allows us to track of the support and development opportunities you have had during your time with us.   
+  
+Please make a local copy of the Learning Log and fill in your details.  
+
+{% embed url="https://docs.google.com/document/d/18jvWeMpx-i2VhU-92YBXQqSai9-o0C-\_yhhTKkwHPfs/edit?usp=sharing" caption="https://docs.google.com/document/d/1hA15MzM9yTxTn7U5u3iGxlfui0V0gftldBkz5FkI2bk/edit?usp=sharing" %}
+
 
 
