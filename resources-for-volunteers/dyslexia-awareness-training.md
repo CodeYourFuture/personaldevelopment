@@ -13,7 +13,7 @@ In the UK Dyslexia is classified as a disability under the Equality Act 2010. We
 
 [https://www.bdadyslexia.org.uk/advice/educators/what-do-i-need-to-know/reasonable-adjustments](https://www.bdadyslexia.org.uk/advice/educators/what-do-i-need-to-know/reasonable-adjustments)
 
-## Online courses:
+## Free Online courses:
 
 ### Dyslexia Awareness Part 1, Microsoft and Made By Dyslexia
 
