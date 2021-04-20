@@ -1,8 +1,10 @@
 # FindYourVoice - Empowerment Storytelling Workshop 1
 
-Objectives: to get to know each other, build trust and sense of community and to develop debate and discussion skills.
+### Objectives: 
 
-**Session I**
+To get to know each other, build trust and sense of community and to develop debate and discussion skills.
+
+### **Session I**
 
 Introduce the programme objectives and invite participants to relax, be themselves and have fun. 
 
