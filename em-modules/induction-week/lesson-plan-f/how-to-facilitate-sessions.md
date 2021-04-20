@@ -33,8 +33,9 @@ Plan carefully and thoroughly.
 
   what they liked/disliked about the session. Take their feedback
 
-  in consideration when planning next session.
+  in consideration when planning the next session.
 
+* 
   Structure:
 
   Welcome participants – 5 min
