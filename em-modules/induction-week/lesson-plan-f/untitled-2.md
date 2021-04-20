@@ -96,9 +96,9 @@ Did the narrative/script make sense?
 Would you buy the products your team tried to sell? 
 ```
 
-Closure
+#### Closure
 
 1. Invite them to rename themselves on Zoom with the emotion they felt before the session, after the warm up dance and now  eg. Carolina- Sleepy/Awake/ Hopeful
-2. Invite participants to have a look on people’s feelings
+2. Invite participants to have a look at people’s feelings.
 3. Do they have any observations or comments? 
 
