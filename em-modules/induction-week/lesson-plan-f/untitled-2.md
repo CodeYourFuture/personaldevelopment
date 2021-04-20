@@ -1,12 +1,14 @@
 # FindYourVoice Empowerment Storytelling Workshop 2
 
-Objectives: to get to know each other, build trust and sense of community and to develop debate and discussion skills.
+### Objectives: 
 
-**Session II**
+To get to know each other, build trust and sense of community and to develop debate and discussion skills.
+
+### **Session II**
 
 Introduce the session, invite participants to be themselves and remind them that this is a safe space.
 
-Warm up: \(5- 7 mins\)
+#### Warm up: \(5- 7 mins\)
 
 1. Choose a song from the class playlist created in week 1 of the Fundamentals module \(check your Google Classroom or Slack for the link\) 
 2. Put music on and invite participants to dance to it, ‘oiling the joints’. Play for 1 minute
