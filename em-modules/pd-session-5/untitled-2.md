@@ -50,7 +50,7 @@ Through the use of a presentation and group discussion
 
 #### **Lesson**
 
-* Link to [slides](https://docs.google.com/presentation/d/1d3_B31nauR9LJLUKaQVSDIObwcZYC0Rr2U9ArgTyb6E/edit?usp=sharing)
+* Link to [slides](https://docs.google.com/presentation/d/1NXPKU6liG-7j1lqoJb4X692eKCQPvcop8oYX2RYLNt4/edit?usp=sharing)
 
 ‌
 
