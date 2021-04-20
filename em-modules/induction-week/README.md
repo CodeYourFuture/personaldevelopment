@@ -97,7 +97,9 @@ In this section we'll explore how a professional behaves and thus how we expect 
 * Intro to the habits 
 * How to use the Honeycomb environment \(demo the Honeycomb Platform\)
 
-{% embed url="https://docs.google.com/presentation/d/1mvffmskfPXtW7CQYndCr-XSarjhM7abDBDpsJPOEBjk/edit?usp=sharing" %}
+{% embed url="https://docs.google.com/presentation/d/10SAIvuMS7cY2WlMtD3-AHgc2unXU7suFoBPsjxVMfxQ/edit?usp=sharing" caption="https://docs.google.com/presentation/d/10SAIvuMS7cY2WlMtD3-AHgc2unXU7suFoBPsjxVMfxQ/edit?usp=sharing" %}
+
+
 
 
 
