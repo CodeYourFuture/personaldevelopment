@@ -33,9 +33,9 @@ Introduce the session, invite participants to be themselves and remind them that
 Do you know their name?
 ```
 
-Activity 1 : \(5 - 7 mins\)
+### Activity 1 : \(5 - 7 mins\)
 
-1. In the large group, revisit the activity from Session 1 where participants get a chance to talk about an object they became attached to during the 1st lockdown. \(Be mindful if you are going through another lockdown\) Encourage the group to give support for the ones who have not had a chance to speak.
+1. In the large group, revisit the activity from Session 1 where participants  talked about an object they became attached to during the past year. \(Be mindful if you are going through another lockdown\) Encourage the group to give support for the ones who have not had a chance to speak today.
 
    Offer participants who did not have a go in the previous week, the chance to talk about their object.
 
@@ -44,7 +44,7 @@ Activity 1 : \(5 - 7 mins\)
 4. Why is it important? 
 5. How \(in which circumstances\) did you get attached to it?  
 
-Activity 2 : \(10 - 15 mins\)
+### Activity 2 : \(10 - 15 mins\)
 
 1. Participants are now invited to advertise their object as if they were to sell it on TV.
 
@@ -57,13 +57,13 @@ Here we have this amazing notebook with hundred pages and a colorful art on the 
 Are there any interested buyers for my book?
 
 1. Break into small groups of 3 - each person has a role and they rotate so everyone has had a chance to present.  
-2. 1 person presents for 2 mins
+2. 1 person presents for at least 1 minute and max 2 mins
 3. 1 person is the timekeeper 
-4. 1 reflects back on whether they would buy the item. 
+4. 2 people listening reflect back on whether they would buy the item 
 
-\*students can do this activity on their own without having static volunteer supervision.
+\*trainees can do this activity on their own without having static volunteer supervision.
 
-Volunteers can move between groups to observe:
+#### Volunteers can move between groups to observe the following:
 
 Who is enthusiastic?
 
