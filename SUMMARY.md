@@ -7,7 +7,7 @@
 
 * [Day 1 - Welcome and Induction](em-modules/induction-week/README.md)
   * [FindYourVoice - Empowerment Storytelling Workshops](em-modules/induction-week/lesson-plan-f/README.md)
-    * [How to facilitate FYV sessions](em-modules/induction-week/lesson-plan-f/how-to-facilitate-sessions.md)
+    * [How to facilitate FindYourVoice sessions](em-modules/induction-week/lesson-plan-f/how-to-facilitate-sessions.md)
     * [FindYourVoice - Empowerment Storytelling Workshop 1](em-modules/induction-week/lesson-plan-f/untitled-3.md)
     * [FindYourVoice Empowerment Storytelling Workshop 2](em-modules/induction-week/lesson-plan-f/untitled-2.md)
     * [FindYourVoice Empowerment Storytelling Workshop 3](em-modules/induction-week/lesson-plan-f/untitled-1.md)

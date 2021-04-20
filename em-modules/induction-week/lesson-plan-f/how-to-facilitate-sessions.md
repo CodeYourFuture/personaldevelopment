@@ -1,6 +1,10 @@
-# How to facilitate FYV sessions
+---
+description: Plan carefully and thoroughly.
+---
 
-Plan carefully and thoroughly.
+# How to facilitate FindYourVoice sessions
+
+### Planning
 
 * Pay attention to learner motivation.
 * Activities are not supposed to be confortable: don’t expect
@@ -35,20 +39,21 @@ Plan carefully and thoroughly.
 
   in consideration when planning the next session.
 
-* 
-  Structure:
+  
 
-  Welcome participants – 5 min
+### Structure:
 
-  Warm up / icebreakers – 10 min
+Welcome participants – 5 min
 
-  Activity – 25 min
+Warm up / icebreakers – 10 min
 
-  Closure – 5 min
+Activity – 25 min
 
-  When planning sessions, leave time for each section, do not rush, and
+Closure – 5 min
 
-  find a good balance.
+When planning sessions, leave time for each section, do not rush, and
+
+find a good balance.
 
 
 
