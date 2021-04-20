@@ -23,7 +23,9 @@ Introduce the session, invite participants to be themselves and remind them that
 
 \(Facilitator acknowledges their feelings\)
 
-1. Next, ask the group to guess whose song was it?  Was it a volunteer?
+1. Next, ask the group to guess whose song was it?  
+
+   Was it a volunteer?
 
    Was it a student?
 
