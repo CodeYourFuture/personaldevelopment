@@ -27,7 +27,7 @@ Some never wrote a line of code before that!
 
 ## Session 2 
 
-### Goals and Expectations \(20 mins\) 
+### Goals and Expectations \(20 - 25 mins\) 
 
 * To identify trainees goal\(s\) for being on the Full Stack CYF course
 * To highlight the expectations CodeYourFuture has for it's trainees
