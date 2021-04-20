@@ -1,26 +1,28 @@
 # FindYourVoice Empowerment Storytelling Workshop 3
 
-Objectives: to get to know each other, build trust and sense of community and to develop debate and discussion skills.
+### Objectives: 
 
-**Session III**
+To get to know each other, build trust and sense of community and to develop debate and discussion skills.
 
-Start the session by asking if someone wants to share how the week has been?
+### **Session III**
+
+Start the session by asking if someone wants to share how their week has been?
 
 Did anything exciting happen?
 
 Any challenges?
 
-Warm up \(see Session 1\)
+### Warm up \(see Session 1 for instructions\)
 
 Dance to participants’ songs. Either facilitator or participant can lead a stretching while dancing.
 
-\(Make sure participant has the chance to talk a bit about the chosen song\)
+\(Make sure participants have the chance to talk a bit about the chosen song\)
 
 Reflection: how were you feeling before and how you feel after the dance? Rename \(on zoom\) Sleepy/ Awake
 
 \(Facilitator acknowledges their feelings\)
 
-Activity 1
+### Activity 1
 
 In the large group
 
@@ -42,7 +44,7 @@ Note to facilitator: be positive and highlight how courageous they are for start
 
 Be mindful of creating psychological safety to start sharing.
 
-Activity 2
+### Activity 2
 
 Following their journal reflection, participants are invited to think about and complete the two sentences:
 
