@@ -12,25 +12,23 @@ Make sure you say: this is a non-judgmental space, there is no right or wrong, i
 
 Be mindful that some people will talk a lot and some people won't say anything. You can help this by making it time bound - In 30 describe how you're feeling now. 
 
-
-
-Warm up:
+### Warm up:
 
 Facilitator invites and lead participants to take a deep breath, stretch body: head, neck, shoulders, arms, hands, waist, hips, jaw, tongue and lips.
 
-* pay attention on breathing, feel free to make sounds, laugh and yawn –
+* Pay attention to breathing, feel free to make sounds, laugh and yawn –
+* Reflection: how did you feel before we started and now afterward? 
+  * Have 2 – 3 participants comment.
 
-  Reflection: how did you feel before we started and now afterward? Have 2 – 3 participants comment.
-
-Name Game:
+### Name Game:
 
 Participants are invited to share their names and an interesting face about themselves.  e.g. I am Carolina and I run everyday.
 
-\(Everyone takes a turn- it’s important to hear everyone’s voice\)
+\(Everyone takes a turn- it’s important to hear everyone’s voice. This s why we need such a log time for the session\)
 
 Activity:
 
-Participants are given 30 seconds to fetch an object that became important and/or attached to during 1st or 2nd lockdown.
+Participants are given 30 seconds to fetch an object that became important and/or attached to during the past year.
 
 e.g. instrument, book, pen, notebook, cushion, etc.
 
