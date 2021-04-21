@@ -1,4 +1,4 @@
-# Team Building Session Plan ‌
+# Team Building Session
 
 
 

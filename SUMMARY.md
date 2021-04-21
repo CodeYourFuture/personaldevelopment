@@ -6,7 +6,6 @@
 ## Employability Modules <a id="em-modules"></a>
 
 * [Day 1 - Welcome and Induction](em-modules/induction-week/README.md)
-  * [Team Building Session Plan ‌](em-modules/induction-week/team-building-session-plan.md)
   * [FindYourVoice - Empowerment Storytelling Workshops](em-modules/induction-week/lesson-plan-f/README.md)
     * [How to facilitate FindYourVoice sessions](em-modules/induction-week/lesson-plan-f/how-to-facilitate-sessions.md)
     * [FindYourVoice - Empowerment Storytelling Workshop 1](em-modules/induction-week/lesson-plan-f/untitled-3.md)
@@ -17,6 +16,7 @@
   * [Learning to Learn Session](em-modules/induction-week/learning-to-learn-session/README.md)
     * [Lesson](em-modules/induction-week/learning-to-learn-session/lesson.md)
     * [Instructor Notes](em-modules/induction-week/learning-to-learn-session/instructor-notes.md)
+  * [Team Building Session](em-modules/induction-week/team-building-session-plan.md)
   * [Coursework](em-modules/induction-week/coursework.md)
 * [Day 2 - Effective Communication](em-modules/pd-session-2/README.md)
   * [4 L's Retrospective](em-modules/pd-session-2/4-ls-retrospective.md)
