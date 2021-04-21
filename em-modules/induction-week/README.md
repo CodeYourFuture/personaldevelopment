@@ -72,13 +72,15 @@ In this section we'll explore how a professional behaves and thus how we expect 
 
 ## Session 5 
 
-### Autism Awareness \(45 mins - 1 hour\)
+### Teambuilding \(35 minutes
 
-
+* To allow team members dip their toes into the bonding experience without feeling awkward or insecure
+* To allow team members to step out of their comfort zone, open up a bit more and be vulnerable
+* To help participants build their decision making skills to learn about thinking out of the box
 
 ## Session 6 
 
-### Growth Mindset \(45 minutes\)
+### Growth Mindset \(45 mins - 1 hour\)
 
 * Introduction to Growth Mindset 
 * Learning Journal
