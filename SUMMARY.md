@@ -13,7 +13,7 @@
     * [FindYourVoice Empowerment Storytelling Workshop 3](em-modules/induction-week/lesson-plan-f/untitled-1.md)
     * [FindYourVoice Empowerment Storytelling Workshop 4](em-modules/induction-week/lesson-plan-f/untitled.md)
   * [Goals and Expectations](em-modules/induction-week/untitled-4.md)
-  * [Learning to Learn Session](em-modules/induction-week/learning-to-learn-session/README.md)
+  * [Growth Mindset Session](em-modules/induction-week/learning-to-learn-session/README.md)
     * [Lesson](em-modules/induction-week/learning-to-learn-session/lesson.md)
     * [Instructor Notes](em-modules/induction-week/learning-to-learn-session/instructor-notes.md)
   * [Team Building Session](em-modules/induction-week/team-building-session-plan.md)

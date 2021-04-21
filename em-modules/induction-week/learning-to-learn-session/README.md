@@ -1,2 +1,2 @@
-# Learning to Learn Session
+# Growth Mindset Session
 
