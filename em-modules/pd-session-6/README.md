@@ -15,7 +15,13 @@ All trainees should have completed PD coursework
 
 All trainees should have recieved feedback on their Honeycomb cell **'Learning from Failure'** 
 
-## Session 1 \(20 mins- 25 mins\)
+## Celebration!!!
+
+Make an effort to mark the achievements of the trainees up to this point.   
+They have completed almost all the learning modules.   
+They have made thier CV's and now they are ready to prepare for interviews!!!  
+
+## Session 1 \(20 mins- 25 mins\) \(Only do 1 activity if you have a very full day planned\) 
 
 ### Engaging Games \(No icebreaker needed beforehand\) 
 
@@ -32,8 +38,8 @@ Session plan is [here](https://personaldevelopment.codeyourfuture.io/sessions/re
 ### Developer skills - How to give a good interview
 
 * To
-* to
-* to
+* To
+* To
 
 {% embed url="https://docs.google.com/presentation/d/1FucWGhzO-IkUv9mqD0s9\_IyGy1mFS4KPss9mS1q6b-o/edit\#slide=id.g5dc73349d2\_0\_26" %}
 
