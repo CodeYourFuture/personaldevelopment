@@ -53,17 +53,17 @@ Session plan is [here](https://personaldevelopment.codeyourfuture.io/sessions/re
 
 {% embed url="https://docs.google.com/presentation/d/1iwNCKZI1sUyJoplkWqhfw1cSa7Ta1DGwz6iRP4PDjuU/edit?usp=sharing" caption="https://docs.google.com/presentation/d/1iwNCKZI1sUyJoplkWqhfw1cSa7Ta1DGwz6iRP4PDjuU/edit?usp=sharing" %}
 
-
-
-
+{% embed url="https://docs.google.com/presentation/d/1qAoDrnKUTeQOqdZdL\_jmHX4iVFuSsGaGaZlSposNb9I/edit?usp=sharing" caption="https://docs.google.com/presentation/d/1qAoDrnKUTeQOqdZdL\_jmHX4iVFuSsGaGaZlSposNb9I/edit?usp=sharing" %}
 
 ## Session 3 \(45 mins- 1 hour\)
 
 ### Experience Bank
 
-* To
-* to
-* to
+* To reintroduce the STAR method of answering competency based questions 
+* To examine the common competency based questions asked about communication, teamwork, organisation, and problem solving
+* To allow trainees to practice answering and get feedback on these types of questions
+
+{% embed url="https://docs.google.com/presentation/d/1gTF4EYGFuJCM822KsNu8zhXXBqV1uwTmylG19Etw8RE/edit?usp=sharing" %}
 
 
 
