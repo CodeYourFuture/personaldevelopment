@@ -73,28 +73,22 @@ Session plan is [here](https://personaldevelopment.codeyourfuture.io/sessions/re
 
 **To gain confidence through practicing interview techniques**
 
-* to
-* to
 
 
+## Session Session 5 \(30 mins\) 
 
-## Session Session 5 \(40-50mins\) 
-
-### Mock Interviews 
-
-* To gain skills in being resilient through the difficult process of interview preparations
-* to
-* to
+### Honeycomb- Interview skills
 
 
 
 ## Session Session 6 \(30 mins\) 
 
-### Honeycomb- Interview skills
+### Reflection 
 
-* To
-* to
-* to
+* To allow trainees to reflect on the day and discuss with each other in small groups
+* To  highlight **what interview tips they found were most useful** 
+* **To identify any key takeaways they will use for their group employability program**
+  * refer back to group session document \( 
 
 
 
