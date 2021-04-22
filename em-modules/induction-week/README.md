@@ -35,10 +35,6 @@ Some never wrote a line of code before that!
 
 {% embed url="https://docs.google.com/presentation/d/11vimrefwpHfFByUfgPL-jwhZ2KrE0Li80M\_O\_z2U95I/edit?usp=sharing" caption="https://docs.google.com/presentation/d/11vimrefwpHfFByUfgPL-jwhZ2KrE0Li80M\_O\_z2U95I/edit?usp=sharing" %}
 
-
-
-
-
 ## Session 3
 
 ### What will you learn on the course? \(25 minutes\)
@@ -72,7 +68,7 @@ In this section we'll explore how a professional behaves and thus how we expect 
 
 ## Session 5 
 
-### Teambuilding \(35 minutes
+### Teambuilding \(35 minutes\)
 
 * To allow team members dip their toes into the bonding experience without feeling awkward or insecure
 * To allow team members to step out of their comfort zone, open up a bit more and be vulnerable
@@ -87,10 +83,6 @@ In this section we'll explore how a professional behaves and thus how we expect 
 
 {% embed url="https://docs.google.com/presentation/d/1JdtJsAXm2On3zYxAkPaQa0dyMxsDTx6MEGqg97e8CAs/edit?usp=sharing" %}
 
-
-
-
-
 ## Session 7
 
 ### Introduction to Honeycomb - CodeYourFuture Habits \(45 minutes - 1 hour\)
@@ -101,13 +93,15 @@ In this section we'll explore how a professional behaves and thus how we expect 
 
 {% embed url="https://docs.google.com/presentation/d/10SAIvuMS7cY2WlMtD3-AHgc2unXU7suFoBPsjxVMfxQ/edit?usp=sharing" caption="https://docs.google.com/presentation/d/10SAIvuMS7cY2WlMtD3-AHgc2unXU7suFoBPsjxVMfxQ/edit?usp=sharing" %}
 
-
-
-
-
-## Session 7 
+## Session 8 
 
 ### Independent Practice- Coursework introduction 
 
 There are 2 separate Google Classrooms. 1 for technical coursework and another for PD coursework. There will be PD assignments every week so please check both Google Classrooms. See the coursework [here](https://personaldevelopment.codeyourfuture.io/lessons/induction-week/learning-to-learn-session/coursework). 
+
+###  Feedback form 
+
+Trainees, Session leads and TA's please fill in this feedback form with your views on your experience of the day. It helps us to know what worjked and what can be improved! [https://forms.gle/XQn2JdSkMCdsULkB7](https://forms.gle/XQn2JdSkMCdsULkB7)
+
+
 
