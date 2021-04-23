@@ -86,8 +86,8 @@ Session plan is [here](https://personaldevelopment.codeyourfuture.io/sessions/re
 ### Reflection 
 
 * To allow trainees to reflect on the day and discuss with each other in small groups
-* To  highlight **what interview tips they found were most useful** 
-* **To identify any key takeaways they will use for their group employability program**
+* To  highlight what interview tips they found were most useful 
+* To identify any key takeaways they will use for their group employability program
   * refer back to group session document \( 
 
 
