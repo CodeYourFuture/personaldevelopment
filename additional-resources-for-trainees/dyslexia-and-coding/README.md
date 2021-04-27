@@ -38,7 +38,6 @@ Dyslexia Awareness Part 1: Module 2 - Dyslexic Strengths [https://youtu.be/d4VRj
 
 Dyslexics are more intelligent - Here is why - Hack Dyslexia - [https://youtu.be/ZyMU4cAMT6c](https://youtu.be/ZyMU4cAMT6c)
 
-  
 Dyslexics better engineers, here is why - Hack Dyslexia - The Power Of Material Reasoning [https://youtu.be/-l2ZXdhH9aQ](https://youtu.be/-l2ZXdhH9aQ)
 
 [https://datacarpentry.org/blog/2017/09/coding-and-dyslexia](https://datacarpentry.org/blog/2017/09/coding-and-dyslexia)
