@@ -119,7 +119,7 @@ Let’s break these down one-by-one
 
 Start by **sharing the facts**—use dialogue to add facts to the pool. As you share the facts, re-frame your story in your mind without emotion so you’re responding more positively—you are no longer taking an action the worst possible way. Challenge your assumptions.
 
-It's easy for being upset to impact how you react or communicate. But we shouldn't let emotions cause us to unfairly blame others.We control how we react and respond. As we become emotional, our mind forgets the facts and we start asking ourselves, “What is the worst and most hurtful way I can take this?” This negative spin escalates our emotions and causes us to do the worst when it matters the most.
+It's easy for being upset to impact how you react or communicate. But we shouldn't let emotions cause us to unfairly blame others. We control how we react and respond. As we become emotional, our mind forgets the facts and we start asking ourselves, “What is the worst and most hurtful way I can take this?” This negative spin escalates our emotions and causes us to do the worst when it matters the most.
 
 We must challenge the assumptions we are making and evaluate the facts; to tell the full, objective story. And in order to get all the facts we need to tell the entire story. We have to dialogue with the other people involved in our story and add them to the POOL.
 
