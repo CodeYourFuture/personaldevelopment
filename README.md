@@ -29,8 +29,6 @@ This is a living document. Expect it to change and grow over time. If you'd like
 
 ## Existing Resources
 
-* Global PD Repo
-  * [https://docs.google.com/document/d/1r-JE1vc3QcBO27\_ySArDZWgM3p0O523sHjYv-TTsNck/edit?usp=sharing](https://docs.google.com/document/d/1r-JE1vc3QcBO27_ySArDZWgM3p0O523sHjYv-TTsNck/edit?usp=sharing)
 * Docs
   * [https://docs.codeyourfuture.io](https://docs.codeyourfuture.io)
 * Technical Syllabus
