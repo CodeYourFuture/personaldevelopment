@@ -31,7 +31,7 @@ Trainees can demonstrate they have understood and can apply the 5 Why’s techni
 
 ‌**Lesson**
 
-* [https://docs.google.com/presentation/d/1Pg3cc3cvyHPeTvZM6Z9uSDFR6kGzuM9jGTHkun0bjnQ/edit?usp=sharing](https://docs.google.com/presentation/d/1Pg3cc3cvyHPeTvZM6Z9uSDFR6kGzuM9jGTHkun0bjnQ/edit?usp=sharing)
+* [https://docs.google.com/presentation/d/1xs\_Mis8j7nuEGpNKLItDy8w8Dw-eWDnvNdbis90j\_s0/edit?usp=sharing](https://docs.google.com/presentation/d/1xs_Mis8j7nuEGpNKLItDy8w8Dw-eWDnvNdbis90j_s0/edit?usp=sharing)
 
 ‌**Teaching notes and walkthrough** 
 
