@@ -1,7 +1,6 @@
-# Untitled
+# Ways to run a Futurespective
 
-There are various ways to run a Futurespective  
-
+##  
 
 ### Here are 3 versions you can try [https://metroretro.io/blog/what-is-a-futurespective](https://metroretro.io/blog/what-is-a-futurespective) 
 
