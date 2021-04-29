@@ -178,7 +178,9 @@ Then Debrief with the groups. Then have them switch roles.
 
 **Practice Session 2 \(Slide 10\)**
 
-Talk through each of the do’s and don’ts Now I would like you to stand and face your Brother or Sister. First, I would like you to display to each other an example of closed body language. How do you feel about the communication? Now display an example of open body language and eye contact. How do you feel about that communication? Sample correct responses from the group may include:
+Talk through each of the do’s and don’ts.
+
+Now I would like you to stand and face your Brother or Sister. First, I would like you to display to each other an example of closed body language. How do you feel about the communication? Now display an example of open body language and eye contact. How do you feel about that communication? Sample correct responses from the group may include:
 
 * Open arms vs. closed arms
 * Smiling vs. frowning
@@ -186,7 +188,7 @@ Talk through each of the do’s and don’ts Now I would like you to stand and f
 
 **Practice Session 3 \(Slide 12\)**
 
-Try reading "I can't wait to go to work today" ...out loud like you are excited. Now try nervous. And mad. Isn’t it interesting how the same sentence can take on different meanings just based on the emotions you are using when talking? Now, say the sentence out loud emphasizing the word “I”. Next try emphasizing “work”. And “today”. See how the sentence means different things when you emphasize different words?
+Try reading "I can't wait to go to work today" ...out loud like you are excited. Now try nervous. And angry. Isn’t it interesting how the same sentence can take on different meanings just based on the emotions you are using when talking? Now, say the sentence out loud emphasizing the word “I”. Next try emphasizing “work”. And “today”. See how the sentence means different things when you emphasize different words?
 
 #### Independent Practice
 
