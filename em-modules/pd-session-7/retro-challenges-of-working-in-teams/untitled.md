@@ -1,8 +1,10 @@
+---
+description: 'https://metroretro.io/blog/what-is-a-futurespective'
+---
+
 # Ways to run a Futurespective
 
-##  
-
-### Here are 3 versions you can try [https://metroretro.io/blog/what-is-a-futurespective](https://metroretro.io/blog/what-is-a-futurespective) 
+### Here are 3 versions you can try: 
 
 #### 1. Hopes and Concerns
 
