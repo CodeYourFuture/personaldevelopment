@@ -57,8 +57,9 @@ All trainees should have recieved feedback on their Honeycomb cell **'Learning f
 ### Guest Speaker \(CYF Alumni/ Volunteer\) - Dealing with conflict in teams
 
 * To help trainees recognise that conflict happens in teams
-* To help trainees understand what conflit is and how to deal with it
-* To
+* To help trainees understand what conflit is 
+* To learn about ways to deal with conflict
+* To practice solving conflicts
 
 {% embed url="https://docs.google.com/presentation/d/1G3nWEihdZc-RjZtAuN\_wr7bhClsa3Cib-0fet6IVwgk/edit?usp=sharing" %}
 
