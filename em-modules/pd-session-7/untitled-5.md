@@ -6,9 +6,7 @@ description: 'http://theteamcanvas.com/learn/'
 
 Team Canvas comes in two flavors. Team Canvas Basic is a simple template to kick-off a team project, adjust its course and ensure the team has enough momentum to get things done smoothly. It takes about 25-30 minutes to finish.
 
-{% embed url="https://drive.google.com/file/d/1uckGgoBBOKJe\_9k4onC-zeVsamFlYkeS/view?usp=sharing" %}
-
-
+![Team Canvas Basic How To](../../.gitbook/assets/team-canvas-how-to-.png)
 
 ![](http://theteamcanvas.com/assets/team-canvas-basic-example.png)
 
