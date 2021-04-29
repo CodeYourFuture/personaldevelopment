@@ -44,11 +44,11 @@ All trainees should have recieved feedback on their Honeycomb cell **'Learning f
 
 ### 5 Why's Problem Solving
 
-* To
-* to
-* to
+* To learn what is the 5 Why's technique
+* To learn how to use the 5 Why’s technique to discover the root cause of a problem
+* To be able to apply the 5 Why’s technique when solving problems
 
-{% embed url="https://docs.google.com/presentation/d/1686x0srh4QoZTMiFapsdOaciY26FWhni\_u2NFgQlNFw/edit?usp=sharing" %}
+{% embed url="https://docs.google.com/presentation/d/1xs\_Mis8j7nuEGpNKLItDy8w8Dw-eWDnvNdbis90j\_s0/edit?usp=sharing" %}
 
 
 
