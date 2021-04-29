@@ -4,9 +4,9 @@
 
 At CodeYourFuture our aim is to empower people to change their lives by giving them the tools to have a successful career in tech.
 
-The people we work with face massive barriers to employment. Learning tech skills alone are not enough to make them employable. These barriers interfere with students/trainees  being able to fully engage with what we teach and learn effectively. 
+We choose to work with people facing massive barriers to employment. Learning tech skills alone are not enough to become employable. These barriers can interfere with students/trainees  being able to fully engage with what we teach and learn effectively. 
 
-These problems can manifest themselves in a variety of ways related to their 
+These issues can manifest themselves in a variety of ways related to their 
 
 * Home life
 * Family life
