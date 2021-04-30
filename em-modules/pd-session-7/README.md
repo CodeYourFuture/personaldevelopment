@@ -21,8 +21,8 @@ All trainees should have recieved feedback on their Honeycomb cell **'Learning f
 ### Final Project Teams start Team Canvas
 
 * To prepare trainees for working in their Final Project teams
+* To help trainees learn about each other  
 * To help trainees define their team purpose and goals 
-* To 
 
 {% embed url="https://docs.google.com/presentation/d/1j\_I6\_ql8\_WR9RvkkDPxeYMIRND\_G7XyIKec\_IKMR\_CY/edit?usp=sharing" %}
 
