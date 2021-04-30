@@ -76,7 +76,7 @@
     * [Ways to run a Futurespective](em-modules/pd-session-7/retro-challenges-of-working-in-teams/untitled.md)
   * [Break Into Project Teams - Start Team Canvas](em-modules/pd-session-7/untitled-5.md)
   * [5 Why's Problem Solving](em-modules/pd-session-7/untitled-4.md)
-  * [Dealing with Conflict in Teams](em-modules/pd-session-7/untitled-3.md)
+  * [Developer Skills: Dealing with Conflict in Teams](em-modules/pd-session-7/untitled-3.md)
   * [Honeycomb - Wrap up and Feedback](em-modules/pd-session-7/untitled-2.md)
   * [Coursework](em-modules/pd-session-7/coursework.md)
 * [Day 8 - Presentation Skills - Demo Day Prep](em-modules/pd-session-8/README.md)

@@ -4,7 +4,7 @@ description: >-
   https://github.com/Techtonica/curriculum/blob/main/career/conflict-resolution.md
 ---
 
-# Dealing with Conflict in Teams
+# Developer Skills: Dealing with Conflict in Teams
 
 ## Conflict Resolution
 
