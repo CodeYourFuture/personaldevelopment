@@ -16,19 +16,7 @@ All trainees should have recieved feedback on their Honeycomb cell **'Learning f
 
 
 
-
-
-## Session 2 \(30 mins- 40mins\)
-
-### Developer skills - Setting up a project
-
-* To
-* To
-* To
-
-
-
-## Session 3 \(45 mins- 1 hour\)
+## Session 2 \(45 mins- 1 hour\)
 
 ### Final Project Teams start Team Canvas
 
@@ -40,7 +28,7 @@ All trainees should have recieved feedback on their Honeycomb cell **'Learning f
 
 
 
-## Session 4 \(40- 45 mins\)
+## Session 3 \(40- 45 mins\)
 
 ### 5 Why's Problem Solving
 
@@ -52,7 +40,7 @@ All trainees should have recieved feedback on their Honeycomb cell **'Learning f
 
 
 
-## Session Session 5 \(40-50mins\) 
+## Session Session 4 \(40-50mins\) 
 
 ### Guest Speaker \(CYF Alumni/ Volunteer\) - Dealing with conflict in teams
 
