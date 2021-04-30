@@ -128,6 +128,7 @@
     * [English Language Assessment](getting-job-ready/english-language-guidance/required-english-language-level/english-language-assessment.md)
   * [English Learning Resources](getting-job-ready/english-language-guidance/english-learning-resources/README.md)
     * [English for the Workplace](getting-job-ready/english-language-guidance/english-learning-resources/english-for-the-workplace.md)
+* [LinkedIn Learning for soft skills](getting-job-ready/linkedin-learning-for-soft-skills.md)
 * [Applying for jobs](getting-job-ready/applying-for-jobs.md)
 * [CV Tips and Tricks](getting-job-ready/cv-tips-and-tricks/README.md)
   * [CV Template](getting-job-ready/cv-tips-and-tricks/cv-template.md)
