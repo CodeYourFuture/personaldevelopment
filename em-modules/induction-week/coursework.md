@@ -16,8 +16,6 @@ Mark as done
 
 A TEDx video by **Carol Dweck** in which she explains how mindset can affect brain activity.
 
-3\) _**\(Read\)**_ ****[Learning to Learn by Sarah Drasner](https://css-tricks.com/learning-to-learn/) - It contains some useful tips which will help you learn how to learn like a developer. 
-
 #### Watch[ Learning How to Learn](https://youtu.be/O96fE1E-rf8) by **Barbara Oakley** 
 
 Make notes in your learning journal as you are watching 
@@ -26,7 +24,15 @@ Upload your notes to your student area on Google Classroom
 
 Mark as done
 
-#### [Focused vs Diffuse Thinking: Why Software Developers Need to Master Both Parts of Their Min](https://www.7pace.com/blog/focused-vs-diffuse-thinking)d by **Christina Marfice** __
+#### Read [Learning to Learn by Sarah Drasner](https://css-tricks.com/learning-to-learn/) - It contains some useful tips which will help you learn how to learn like a developer. 
+
+Make notes in your learning journal as you are reading of how she goes about organising her learning. What tips do you think will work for you?
+
+Upload your notes to your student area on Google Classroom 
+
+Mark as done
+
+#### Read [Focused vs Diffuse Thinking: Why Software Developers Need to Master Both Parts of Their Min](https://www.7pace.com/blog/focused-vs-diffuse-thinking)d by **Christina Marfice** __
 
 Make notes in your learning journal as you are reading 
 
