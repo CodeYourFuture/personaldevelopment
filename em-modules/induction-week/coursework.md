@@ -4,19 +4,58 @@ description: Independent study for after PD Day 1- Learning to Learn
 
 # Coursework
 
-1\) _**\(Do\)**_ Take the [Growth Mindset Self-Assessment](https://www.positivityguides.net/test-your-mindset-quiz/)
+#### Take the [Growth Mindset Self-Assessment](https://www.positivityguides.net/test-your-mindset-quiz/)
 
-2\) _**\(Seeing, Listening\)**_ ****Watch [The Power of Believing You Can Improve \(video\)](https://www.youtube.com/watch?v=_X0mgOOSpLU) - A TEDx video by **Carol Dweck** in which she explains how mindset can affect brain activity.
+Take a screenshot of your results 
+
+Add screenshot to your work area on Google Classroom 
+
+Mark as done 
+
+#### Watch [The Power of Believing You Can Improve \(video\)](https://www.youtube.com/watch?v=_X0mgOOSpLU) 
+
+A TEDx video by **Carol Dweck** in which she explains how mindset can affect brain activity.
 
 3\) _**\(Read\)**_ ****[Learning to Learn by Sarah Drasner](https://css-tricks.com/learning-to-learn/) - It contains some useful tips which will help you learn how to learn like a developer. 
 
-4\) _**\(Seeing, Listening\)**_ Watch[ Learning How to Learn](https://youtu.be/O96fE1E-rf8) by **Barbara Oakley** 
+#### Watch[ Learning How to Learn](https://youtu.be/O96fE1E-rf8) by **Barbara Oakley** 
 
-5\) _**\(Read\)**_ [Focused vs Diffuse Thinking: Why Software Developers Need to Master Both Parts of Their Min](https://www.7pace.com/blog/focused-vs-diffuse-thinking)d by **Christina Marfice** 
+Make notes in your learning journal as you are watching 
 
-6\) _**\(Do, Write\)**_ ****Set up your weekly study schedule using the techniques suggested by Sarah Drasner and Christina Marfice.
+Upload your notes to your student area on Google Classroom 
 
-7\) _**\(Do\)**_ Honeycomb feedback - go onto the Honeycomb platform and complete your self assessment of ‘Working With My Team’ cell
+Mark as done
 
-8\) _**\(Do\)**_ Github/ Git preparation assignment - [https://syllabus.codeyourfuture.io/git/preparation](https://syllabus.codeyourfuture.io/git/preparation)
+#### [Focused vs Diffuse Thinking: Why Software Developers Need to Master Both Parts of Their Min](https://www.7pace.com/blog/focused-vs-diffuse-thinking)d by **Christina Marfice** __
+
+Make notes in your learning journal as you are reading 
+
+Upload your notes to your student area on Google Classroom 
+
+Mark as done
+
+#### Set up your weekly study schedule using the techniques suggested by Sarah Drasner and Christina Marfice.
+
+You can use any method to make your schedule.
+
+You need to be specific each week with the time you have alloted for learning and the topic you will be working on. 
+
+You can use this [schedule template](https://drive.google.com/file/d/1emyv7Ygb6x8fmkpcizjSWU_Beqe8xblk/view?usp=sharing) as a starting point:  
+Add an image or the file for your study schedule in your work area on Google Classroom
+
+Mark as done  
+
+
+#### Honeycomb feedback 
+
+Log into the Honeycomb platform and complete your self assessment of ‘Working With My Team’ cell  
+Once you have completed it, take a screenshot before you submit
+
+Add the screenshot to your work area in Google Classroom 
+
+Mark as done
+
+
+
+#### Github/ Git preparation assignment - [https://syllabus.codeyourfuture.io/git/preparation](https://syllabus.codeyourfuture.io/git/preparation)
 
