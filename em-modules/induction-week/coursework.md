@@ -4,6 +4,8 @@ description: Independent study for after PD Day 1- Learning to Learn
 
 # Coursework
 
+#### General Instructions: Please get in the habit of always providing evidence when submitting coursework on Google classroom. Add a screenshot or written summary of what you learned. This will show what you have gained from this piece of coursework. 
+
 #### Take the [Growth Mindset Self-Assessment](https://www.positivityguides.net/test-your-mindset-quiz/)
 
 Take a screenshot of your results 
