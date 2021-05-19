@@ -23,7 +23,7 @@ We do not expect you
 
 * To have experience as a developer or recruiter
 
-{% embed url="https://docs.google.com/presentation/d/14DSSHSNfrV9eBi\_JsDXhXqiGBk-kQcD3l\_bxY-JwPlA/edit?usp=sharing" %}
+{% embed url="https://docs.google.com/presentation/d/1AEdXUlZ30obMC5XcPUZW5prLAHPtw4x-rSX71tAxMDY/edit?usp=sharing" caption="Career Mentor Training" %}
 
 
 
