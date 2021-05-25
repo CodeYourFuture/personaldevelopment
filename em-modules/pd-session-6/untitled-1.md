@@ -1,3 +1,7 @@
+---
+description: Coursework activities for after Interview Prep session
+---
+
 # Coursework
 
 ### Interview Questions 
