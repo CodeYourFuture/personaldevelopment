@@ -441,7 +441,7 @@ Post your journal entry in your student are on Google Classroom.
 
 ### Interviews
 
-"Preparing for Mock Interviews. 
+Preparing for Mock Interviews. 
 
 Record yourself answering three /interview questions.   
 You can use your phone, comuter recorder or online recording app Loom \([https://www.loom.com](https://www.loom.com)\)  
@@ -451,11 +451,12 @@ Practice answering 3 competency based questions using the STAR technique. Make s
 Share at least 1 video with your PD Buddy groupp and ask for feedback on your answers. 
 
 You must give feedback to your other buddies on at least one of their videos.   
+Think about how they did on the following:
 
-
-
-
-
+* Verbal communication skills 
+* Enthusiasm
+* Confidence
+* Professionalism
 
 ## Week 22- PD Day 6 Interview Skills Assignment linked [here](https://personaldevelopment.codeyourfuture.io/sessions/untitled-6/untitled-1)
 
