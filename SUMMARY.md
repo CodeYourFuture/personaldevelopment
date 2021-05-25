@@ -65,6 +65,7 @@
   * [Honeycomb - Learning From Failure](em-modules/pd-session-5/untitled-1.md)
   * [Coursework](em-modules/pd-session-5/coursework-pd-day-5.md)
 * [Day 6 - Interview Skills](em-modules/pd-session-6/README.md)
+  * [Technical Interviews](em-modules/pd-session-6/technical-interviews.md)
   * [Engaging Games](em-modules/pd-session-6/retro-1.md)
   * [Developer skills- How to give a good interview](em-modules/pd-session-6/retro.md)
   * [Experiences Bank](em-modules/pd-session-6/untitled.md)
