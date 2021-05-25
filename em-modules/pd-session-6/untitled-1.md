@@ -12,7 +12,11 @@ Do you love or hate CSS?
 
 What was your favorite technology to learn this cohort? 
 
-What is something you wanted to learn but we didn't cover?
+What is something you wanted to learn but we didn't cover?  
+  
+Write you brinstorm ideas in your learning journal.
+
+Post a photo or screenshot of your brainstorm in your learning area on Google Classroom. 
 
 ### TEAM CANVAS 
 
