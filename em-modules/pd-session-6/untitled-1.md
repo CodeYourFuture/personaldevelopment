@@ -10,8 +10,8 @@ Questions to Ask Yourself
 
 What is your "specialty"? Do you love or hate CSS? What was your favorite technology to learn this cohort? What is something you wanted to learn but we didn't cover?
 
-TEAM CANVAS   
-  
+#### TEAM CANVAS 
+
 To work within your teams to refine your team goal and purpose.   
 You should have a set of clear goals and ONE purpose.   
 You should set a time for the team to work together   
