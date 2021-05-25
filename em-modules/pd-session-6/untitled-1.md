@@ -27,6 +27,14 @@ Post you completed team canvas on your student area on Google Classroom
 Share with your PD Buddy  
 
 
+### Interview Feedback 
+
+Arrange a discussion with your PD buddy to discuss feedback from your practice interviews.   
+What have you learned?   
+What went well?   
+What do you need to work on?   
+How will you do that?
+
 ### Honeycomb feedback
 
 Go onto the Honeycomb platform and complete your self assessment of **Interview skills** cell.
