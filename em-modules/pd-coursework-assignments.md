@@ -444,11 +444,11 @@ Post your journal entry in your student area on Google Classroom.
 Preparing for Mock Interviews. 
 
 Record yourself answering three /interview questions.   
-You can use your phone, comuter recorder or online recording app Loom \([https://www.loom.com](https://www.loom.com)\)  
+You can use your phone, computer recorder or online recording app Loom \([https://www.loom.com](https://www.loom.com)\)  
 
 Practice answering 3 competency based questions using the STAR technique. Make sure your answers are a minimum of a minute and maximum of 2 minutes.   
   
-Share at least 1 video with your PD Buddy groupp and ask for feedback on your answers. 
+Share at least 1 video with your PD Buddy group and ask for feedback on your answers. 
 
 You must give feedback to your other buddies on at least one of their videos.   
 Think about how they did on the following:
