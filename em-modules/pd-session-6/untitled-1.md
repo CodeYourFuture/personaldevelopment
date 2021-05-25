@@ -1,6 +1,6 @@
 # Coursework
 
-#### Project Prep Work
+### Project Prep Work
 
 Before brainstorming ideas, it is helpful to think of your personal aim for the project, what is the most important aspect of it, unrelated to the problem your app solves.
 
