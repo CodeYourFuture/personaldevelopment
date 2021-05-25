@@ -430,7 +430,18 @@ You will find the instructions [here](https://personaldevelopment.codeyourfuture
 When you have finished, mark as complete on Google Classroom. 
 
 You will be taking turns to present your diary entries in your Buddy Group meetings. You will also have enough examples to use in your mock interviews.   
-  
+
+
+### Preparing for getting a job
+
+Read this article: [https://www.freecodecamp.org/news/how-to-get-your-first-software-developer-job-da3ca0de5d2](https://www.freecodecamp.org/news/how-to-get-your-first-software-developer-job-da3ca0de5d2)
+
+In the section on Interviews, 
+
+"Preparing for Interviews Practice three /interview questions via Loom recording ; Students to record a video of themselves answering 3 competency based questions using the STAR technique. Answers to be a minimum of a minute and maximum of 2 minutes. 
+
+
+
 
 
 ## Week 22- PD Day 6 Interview Skills Assignment linked [here](https://personaldevelopment.codeyourfuture.io/sessions/untitled-6/untitled-1)
