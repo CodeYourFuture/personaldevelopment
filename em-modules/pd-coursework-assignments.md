@@ -434,11 +434,19 @@ You will be taking turns to present your diary entries in your Buddy Group meeti
 
 ### Preparing for getting a job
 
-Read this article: [https://www.freecodecamp.org/news/how-to-get-your-first-software-developer-job-da3ca0de5d2](https://www.freecodecamp.org/news/how-to-get-your-first-software-developer-job-da3ca0de5d2)
+Read this article: [https://www.freecodecamp.org/news/how-to-get-your-first-software-developer-job-da3ca0de5d2](https://www.freecodecamp.org/news/how-to-get-your-first-software-developer-job-da3ca0de5d2)  
+  
+In your learning joutnal think about the advice in the article. What things you are doing already to prepare yourself for finding a job? What things you need to start doing? What are you afraid or unsure of starting? What is holding you back?   
+Post your journal entry in your student are on Google Classroom. 
 
-In the section on Interviews, 
+### Interviews
 
-"Preparing for Interviews Practice three /interview questions via Loom recording ; Students to record a video of themselves answering 3 competency based questions using the STAR technique. Answers to be a minimum of a minute and maximum of 2 minutes. 
+"Preparing for Mock Interviews. 
+
+Record yourself answering three /interview questions.   
+You can use your phone, comuter recorder or online recording app Loom \([https://www.loom.com](https://www.loom.com)\)  
+
+Practice answering 3 competency based questions using the STAR technique. Make sure your answers are a minimum of a minute and maximum of 2 minutes. 
 
 
 
