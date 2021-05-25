@@ -37,9 +37,8 @@ Session plan is [here](https://personaldevelopment.codeyourfuture.io/sessions/re
 
 ### Developer skills - How to do a competency based interview
 
-* To
-* To
-* To
+* To introduce trainees to effective interview techniques 
+* To provide opportunities to practice having a remote interview 
 
 {% embed url="https://docs.google.com/presentation/d/1FucWGhzO-IkUv9mqD0s9\_IyGy1mFS4KPss9mS1q6b-o/edit\#slide=id.g5dc73349d2\_0\_26" %}
 
@@ -48,8 +47,8 @@ Session plan is [here](https://personaldevelopment.codeyourfuture.io/sessions/re
 ### Developer skills - How to do a Technical Interview 
 
 * To have trainees understand what employers are looking for in a technical interview
-* To have trinees practice a coding challenge
-* To allow trainees practice in talking through their coding challenge 
+* To have trainees learn about how to approach a coding challenge
+* To allow trainees practice in talking through their coding challenges 
 
 {% embed url="https://docs.google.com/presentation/d/1iwNCKZI1sUyJoplkWqhfw1cSa7Ta1DGwz6iRP4PDjuU/edit?usp=sharing" caption="https://docs.google.com/presentation/d/1iwNCKZI1sUyJoplkWqhfw1cSa7Ta1DGwz6iRP4PDjuU/edit?usp=sharing" %}
 
