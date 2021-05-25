@@ -429,7 +429,9 @@ You will find the instructions [here](https://personaldevelopment.codeyourfuture
 
 When you have finished, mark as complete on Google Classroom. 
 
-You will be taking turns to present your diary entries in your Buddy Group meetings. You will also have enough examples to use in your mock interviews. 
+You will be taking turns to present your diary entries in your Buddy Group meetings. You will also have enough examples to use in your mock interviews.   
+  
+
 
 ## Week 22- PD Day 6 Interview Skills Assignment linked [here](https://personaldevelopment.codeyourfuture.io/sessions/untitled-6/untitled-1)
 
