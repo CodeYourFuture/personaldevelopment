@@ -68,7 +68,6 @@
   * [Engaging Games](em-modules/pd-session-6/retro-1.md)
   * [Developer skills- How to give a good interview](em-modules/pd-session-6/retro.md)
   * [Experiences Bank](em-modules/pd-session-6/untitled.md)
-  * [Resilience](em-modules/pd-session-6/coursework.md)
   * [Honeycomb - Interview skills](em-modules/pd-session-6/developer-skills-how-to-give-a-good-interview.md)
   * [Coursework](em-modules/pd-session-6/untitled-1.md)
 * [Day 7 - Working in Teams](em-modules/pd-session-7/README.md)
