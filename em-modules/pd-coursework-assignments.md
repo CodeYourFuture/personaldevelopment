@@ -446,7 +446,12 @@ Post your journal entry in your student are on Google Classroom.
 Record yourself answering three /interview questions.   
 You can use your phone, comuter recorder or online recording app Loom \([https://www.loom.com](https://www.loom.com)\)  
 
-Practice answering 3 competency based questions using the STAR technique. Make sure your answers are a minimum of a minute and maximum of 2 minutes. 
+Practice answering 3 competency based questions using the STAR technique. Make sure your answers are a minimum of a minute and maximum of 2 minutes.   
+  
+Share at least 1 video with your PD Buddy groupp and ask for feedback on your answers. 
+
+You must give feedback to your other buddies on at least one of their videos.   
+
 
 
 
