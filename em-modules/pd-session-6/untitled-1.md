@@ -8,7 +8,9 @@ Now, expand on what you’ve done so far and create a STAR answer for each quest
 
 Here’s the spreadsheet, if you haven’t already made a copy.
 
-DO NOT edit the spreadsheet directly. See instructions on first tab.[https://docs.google.com/spreadsheets/d/1JvPFFewdrVP7nY7sL7l13TeGUxLos7h3NxWb0itxm84/edit\#gid=682286418](https://docs.google.com/spreadsheets/d/1JvPFFewdrVP7nY7sL7l13TeGUxLos7h3NxWb0itxm84/edit#gid=682286418)
+DO NOT edit the spreadsheet directly. See instructions on first tab.
+
+[https://docs.google.com/spreadsheets/d/1JvPFFewdrVP7nY7sL7l13TeGUxLos7h3NxWb0itxm84/edit\#gid=682286418](https://docs.google.com/spreadsheets/d/1JvPFFewdrVP7nY7sL7l13TeGUxLos7h3NxWb0itxm84/edit#gid=682286418)
 
 Instructions are on the first tab, questions are on the second tab.
 
