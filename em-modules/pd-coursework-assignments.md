@@ -437,7 +437,7 @@ You will be taking turns to present your diary entries in your Buddy Group meeti
 Read this article: [https://www.freecodecamp.org/news/how-to-get-your-first-software-developer-job-da3ca0de5d2](https://www.freecodecamp.org/news/how-to-get-your-first-software-developer-job-da3ca0de5d2)  
   
 In your learning joutnal think about the advice in the article. What things you are doing already to prepare yourself for finding a job? What things you need to start doing? What are you afraid or unsure of starting? What is holding you back?   
-Post your journal entry in your student are on Google Classroom. 
+Post your journal entry in your student area on Google Classroom. 
 
 ### Interviews
 
