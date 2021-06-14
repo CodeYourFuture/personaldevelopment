@@ -46,7 +46,7 @@ Twitter
 
 Read this article by By [James Titcomb](http://preview.telegraph.co.uk/journalists/james-titcomb/)/ Telegraph
 
-#### \_\_[_This online tool reveals your personality based on Facebook 'likes'_ ](https://personaldevelopment.codeyourfuture.io/sessions/pd-session-2/coursework/this-online-tool-reveals-your-personality-based-on-facebook-likes)\_\_
+#### \_\_[_This online tool reveals your personality based on Facebook 'likes'_ ](https://personaldevelopment.codeyourfuture.io/em-modules/pd-session-2/coursework/this-online-tool-reveals-your-personality-based-on-facebook-likes)\_\_
 
 Based on the information in the article, which of the following statements are true or false? 
 
