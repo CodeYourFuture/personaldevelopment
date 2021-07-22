@@ -38,7 +38,7 @@ The first meeting is all about getting your relationship off to a good start by 
 * discussing and agreeing how you will work together
 * confidentiality
 * responsibility
-* how you will record progress and issues/targets for further development \(**both mentor and mentee** please use the [Career Mentoring Feedback Form](https://forms.gle/z1BXaXstS3SHL1My8)\)
+* how you will record progress and issues/targets for further development 
 
 **KEY PRINCIPLES IN BUILDING TRUST**
 
