@@ -42,7 +42,7 @@ The first meeting is all about getting your relationship off to a good start by 
 
 **KEY PRINCIPLES IN BUILDING TRUST**
 
-* **Get to know your mentee.**  Talk about their studies at CYF and their life outside it.  Try to understand what they think and why.  Value their viewpoint.
+* **Get to know your trainees.**  Talk about their studies at CYF and their life outside it.  Try to understand what they think and why.  Value their viewpoint.
 * **Do what you say you are going to do.**  Agree what you are aiming to achieve through your mentoring sessions.  Be reliable and always do what you say you are going to do.
 * **Communicate openly and honestly.**  Discuss issues as soon as they arise.  Ask for and give feedback.
 * **Don’t be afraid to challenge.**  Your open, honest relationship will allow you to challenge your Buddies constructively to explore a wider viewpoint.
