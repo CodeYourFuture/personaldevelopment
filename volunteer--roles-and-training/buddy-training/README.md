@@ -32,9 +32,7 @@ We do not expect you
 
 Please fill in this form to fedback on the training and how useful you found it in preparing you for your role. 
 
-{% embed url="https://forms.gle/7r5Xnf4sWRWYyBpJ7" %}
-
-
+{% embed url="https://forms.gle/7r5Xnf4sWRWYyBpJ7" caption="Buddy training feedback form" %}
 
 ### Volunteer Learning Log
 
