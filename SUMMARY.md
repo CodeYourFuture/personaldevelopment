@@ -81,7 +81,6 @@
   * [Coursework](em-modules/pd-session-7/coursework.md)
 * [Day 8 - Presentation Skills - Demo Day Prep](em-modules/pd-session-8/README.md)
   * [Retro - How Satisfied Are We About Teamwork](em-modules/pd-session-8/retro-how-satisfied-are-we-about-teamwork.md)
-  * [Structuring and delivering a 15-minute presentation and accompanying pitch deck](em-modules/pd-session-8/structuring-and-delivering-a-15-minute-presentation-and-accompanying-pitch-deck.md)
   * [Next Steps](em-modules/pd-session-8/next-steps-1.md)
   * [Coursework](em-modules/pd-session-8/coursework.md)
 * [Final Projects](em-modules/pd-session-9.md)
