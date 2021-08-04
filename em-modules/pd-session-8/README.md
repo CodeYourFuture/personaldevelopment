@@ -22,8 +22,10 @@ Session plan [here](https://personaldevelopment.codeyourfuture.io/sessions/final
 
 * To help trainees understand the plan for Demo Day
 * To enable trainees to structure a 15-minute presentation and accompanying pitch deck
-* 
+
 [https://docs.google.com/presentation/d/1ee2TJGSMicqyyanzldV5os9hegeRW2DgruHuIqOjMV0/edit?usp=sharing](https://docs.google.com/presentation/d/1ee2TJGSMicqyyanzldV5os9hegeRW2DgruHuIqOjMV0/edit?usp=sharing)
+
+
 
 ## Session 3 \(45 mins- 1 hour\)
 
