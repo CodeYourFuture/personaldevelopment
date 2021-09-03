@@ -46,7 +46,7 @@ description: This coursework flows on from the Preparing for the Workplace PD da
 
 ## Diversity and Inclusion \| \(Read, Write, Speak, Watch\)
 
-1. Watch this video on Unconscious Bias [https://youtu.be/dloCJq8shZE](https://youtu.be/dloCJq8shZE) 
+1. Watch this video on Unconscious Bias [https://youtu.be/dloCJq8shZE ](https://www.youtube.com/watch?v=vX_Vzl-r8NY)
 2. Watch this Video on Microaggressions [https://youtu.be/bjzWENcW6NQ](https://youtu.be/bjzWENcW6NQ)
 3. Write a reflection in your Learning Journal answering the following questions: \(do not copy any answers from the presentation or online searches. Write what is your interpretation and understanding\)
    1. What do you mean by diversity and inclusion?
