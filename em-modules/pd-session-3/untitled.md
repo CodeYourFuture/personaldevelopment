@@ -55,47 +55,49 @@ description: This coursework flows on from the Preparing for the Workplace PD da
 4. Post your reflective journal in your work area on Google Classroom
 5. Mark as done 
 
-In order to be successful in a diverse space, it's important to know and understand why you behave in certain ways or say certain things.   
-The **Implicit Association Test \(IAT\)** developed by Harvard University researchers can help you raise awareness of your unconscious biases. And you can use the results to encourage your self-reflection about particular groups of people. 
+~~In order to be successful in a diverse space, it's important to know and understand why you behave in certain ways or say certain things.   
+The **Implicit Association Test \(IAT\)** developed by Harvard University researchers can help you raise awareness of your unconscious biases. And you can use the results to encourage your self-reflection about particular groups of people.~~ 
 
-1. Read about the IAT here: [https://implicit.harvard.edu/implicit/education.html](https://implicit.harvard.edu/implicit/education.html)
+1. ~~Read about the IAT here:~~ [~~https://implicit.harvard.edu/implicit/education.html~~](https://implicit.harvard.edu/implicit/education.html)~~~~
 
-**You can either choose to do Part A or Part B:**
+~~**You can either choose to do Part A or Part B:**~~
 
-* **Part A- Take the Implicit Association Test**
+* ~~**Part A- Take the Implicit Association Test**~~
 
-  1. Decide if you want to participate by taking one of the **Implicit Assocaition Tests**. By taking the test you are contributing to scientific research.  You do not have to share the results with anyone else. 
+  1. ~~Decide if you want to participate by taking one of the **Implicit Assocaition Tests**. By taking the test you are contributing to scientific research.  You do not have to share the results with anyone else.~~ 
 
-     The purpose of the IAT is to uncover biases that you may not be aware of. The results of the test may be upsetting to some people.  
+     ~~The purpose of the IAT is to uncover biases that you may not be aware of. The results of the test may be upsetting to some people.~~  
 
-  2. If you do want to participate, click on '**Take a test**' and read all the Preliminary Information: https://implicit.harvard.edu/implicit/takeatest.html
-  3. After reading, if you want to continue then click the words '**I wish to proceed**' at the bottom of the page.
-  4. On the next page you have a list of 14 IAT tests.  
+  2. ~~If you do want to participate, click on '**Take a test**' and read all the Preliminary Information: https://implicit.harvard.edu/implicit/takeatest.html~~
+  3. ~~After reading, if you want to continue then click the words '**I wish to proceed**' at the bottom of the page.~~
+  4. ~~On the next page you have a list of 14 IAT tests.~~  
 
-     Start with the '**Gender- Career IAT**'
+     ~~Start with the '**Gender- Career IAT**'~~
 
-     You can do as many IAT's as you like. 
+     ~~You can do as many IAT's as you like.~~ 
 
-  5. Read the instructions carefully \(more information about how to do the test is here\): [https://implicit.harvard.edu/implicit/iatdetails.html](https://implicit.harvard.edu/implicit/iatdetails.html)\)
-  6. After you have taken the IAT:
+  5. ~~Read the instructions carefully \(more information about how to do the test is here\):~~ [~~https://implicit.harvard.edu/implicit/iatdetails.html~~](https://implicit.harvard.edu/implicit/iatdetails.html)~~\)~~
+  6. ~~After you have taken the IAT:~~
 
-     Take a screenshot of the confirmation you have taken the IAT. You do not have to show your result. Upload to your student area in Google Classroom. 
+     ~~Take a screenshot of the confirmation you have taken the IAT. You do not have to show your result. Upload to your student area in Google Classroom.~~ 
 
-  7. Note down in your learning journal any group or groups you may have a bias toward.
-     * Getting to know people and having positive interactions will help you could start to rethink how you view this group.
-     * Write how you would want start a conversation with a member of this group.
-  8. Mark as done in Google Classroom
-  9. **Extend your learning**: If you like you can also discuss with another trainee or your buddy group.
+  7. ~~Note down in your learning journal any group or groups you may have a bias toward.~~
+     * ~~Getting to know people and having positive interactions will help you could start to rethink how you view this group.~~
+     * ~~Write how you would want start a conversation with a member of this group.~~
+  8. ~~Mark as done in Google Classroom~~
+  9. ~~**Extend your learning**: If you like you can also discuss with another trainee or your buddy group.~~
 
-* **Part B- Research Implicit Bias**  
-  * Read and summarise a scientific or popular press article about implicit bias
-    * Find an article on Implict Bias.
-    * It should be from either a scientific or popular press article.  
-    * Make sure you are getting your information from a reliable source. 
-    * Write a summary of the article in your Learning Journal. 
-    * Then write what you learned from the article.
-    * Post your reflective summary in your work area in Google Classroom
-    * Mark as done
+  ~~~~
+
+* ~~**Part B- Research Implicit Bias**~~  
+  * ~~Read and summarise a scientific or popular press article about implicit bias~~
+    * ~~Find an article on Implict Bias.~~
+    * ~~It should be from either a scientific or popular press article.~~  
+    * ~~Make sure you are getting your information from a reliable source.~~ 
+    * ~~Write a summary of the article in your Learning Journal.~~ 
+    * ~~Then write what you learned from the article.~~
+    * ~~Post your reflective summary in your work area in Google Classroom~~
+    * ~~Mark as done~~
 
 ## Honeycomb feedback - 
 
