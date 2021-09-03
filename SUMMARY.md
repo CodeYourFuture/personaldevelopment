@@ -44,7 +44,6 @@
     * [Brag Diary Template](em-modules/pd-session-3/brag-diary-reflective-journalling/brag-diary-template.md)
     * [Brag Diary Presentations in Buddy Groups](em-modules/pd-session-3/brag-diary-reflective-journalling/brag-diary-presentations-in-buddy-groups.md)
   * [Diversity and Inclusion](em-modules/pd-session-3/untitled-37.md)
-  * [Honeycomb Session-Maximising My Time](em-modules/pd-session-3/untitled-4.md)
   * [Coursework](em-modules/pd-session-3/untitled.md)
 * [Day 4 - Presentation Skills](em-modules/pd-session-4/README.md)
   * [Session plans](em-modules/pd-session-4/session-plans.md)
