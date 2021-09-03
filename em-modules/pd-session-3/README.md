@@ -70,7 +70,7 @@ In a futurespective, we imagine that we’re in the future, and we look back to 
 ### Brag Diary
 
 * To introduce the idea of knowing your strengths and achievements 
-* To show how useful keping a Brag Diary will be when doing job interviews and ansering competency questions
+* To show how useful keping a Brag Diary will be when doing job interviews and answering competency questions
 * To further develop self reflection skills
 
 ## Session 6 
@@ -78,7 +78,7 @@ In a futurespective, we imagine that we’re in the future, and we look back to 
 ### Diversity and Inclusion 
 
 * To raise awareness of trainee's biases 
-* To help help trainees uncover behaviours which limit oppotunitites for themselves or others
+* To help help trainees uncover behaviours which limit opportunities for themselves or others
 * To help create an inclusive community at CYF 
 
 {% embed url="https://docs.google.com/presentation/d/1gk-mLW\_XpOYaEgDQX\_s9NPulyuu6Fnd0szZc9Sv4WRY/edit?usp=sharing\\" %}
