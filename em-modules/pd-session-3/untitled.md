@@ -4,17 +4,17 @@ description: This coursework flows on from the Preparing for the Workplace PD da
 
 # Coursework
 
-## Professionalism Coursework \| \(Read, Write\)
+## ~~Professionalism Coursework \| \(Read, Write\)~~
 
-1. Write your reflections about this lesson in your Learning Diary. 
-2. What, if any, of the concepts presented were new to you? 
-3. Is there anything you disagree with? 
-4. Think about the the role plays presented during the session:
-   1. If you were in that situation, what would it feel like to have to tell your manager or your team mate potentially bad news? What would be your worries or concerns? 
-   2. What would it feel like to receive the bad news? What would you be thinking now about your colleague and their level of professionalism?
-5. Feel free to share any other thoughts you have.
-6. When you have completed your reflection, post it to your your work area in Google Classroom
-7. Mark as done
+1. ~~Write your reflections about this lesson in your Learning Diary.~~ 
+2. ~~What, if any, of the concepts presented were new to you?~~ 
+3. ~~Is there anything you disagree with?~~ 
+4. ~~Think about the the role plays presented during the session:~~
+   1. ~~If you were in that situation, what would it feel like to have to tell your manager or your team mate potentially bad news? What would be your worries or concerns?~~ 
+   2. ~~What would it feel like to receive the bad news? What would you be thinking now about your colleague and their level of professionalism?~~
+5. ~~Feel free to share any other thoughts you have.~~
+6. ~~When you have completed your reflection, post it to your your work area in Google Classroom~~
+7. ~~Mark as done~~
 
 ## Brag Diary Coursework \|  \(Watch, Listen, Read, Write\)
 
