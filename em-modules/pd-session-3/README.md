@@ -89,7 +89,9 @@ In a futurespective, we imagine that we’re in the future, and we look back to 
 
 ### Honeycomb Introduction - Maximising my time cell and feedback
 
-
+* To introduce the benefits and barrier to managing time effectively
+* To identify techniques to manage time effectively
+* To identify and reflect on maximising my time habits 
 
 {% embed url="https://docs.google.com/presentation/d/1Om4wMe1QpqHGJrpDH4i2L\_WWENiEa\_-8ApVo8YlbaMQ/edit?usp=sharing" %}
 
