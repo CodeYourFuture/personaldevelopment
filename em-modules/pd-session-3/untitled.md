@@ -107,5 +107,17 @@ The **Implicit Association Test \(IAT\)** developed by Harvard University resear
 4. ~~Post a screenshot in your student area on Goolge Classroom showing your self assessment has been completed.~~ 
 5. ~~Mark as done~~
 
-~~~~
+## Managing Your Time 
+
+You have already had a go at creating a study schedule. How many of you are still using it?   
+  
+We know it takes practice to form a habit so here is another opportunity for you.   
+This activity will give you practice using Google sheets to create and maintain a schedule.   
+  
+Go to the link and do the course on Google Applied Digital Skills. [https://applieddigitalskills.withgoogle.com/c/middle-and-high-school/en/create-a-study-schedule-to-meet-your-goals/overview.html](https://applieddigitalskills.withgoogle.com/c/middle-and-high-school/en/create-a-study-schedule-to-meet-your-goals/overview.html)  
+  
+Completed the quiz at the end of the course. We will be able to see your responses.   
+  
+**Extensions:**   
+Choose one or more of the extensions to further enhance your study schedule.
 
