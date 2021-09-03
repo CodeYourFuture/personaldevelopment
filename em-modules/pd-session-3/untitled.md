@@ -99,13 +99,13 @@ The **Implicit Association Test \(IAT\)** developed by Harvard University resear
     * ~~Post your reflective summary in your work area in Google Classroom~~
     * ~~Mark as done~~
 
-## Honeycomb feedback - 
+## ~~Honeycomb feedback -~~ 
 
-1. Go onto the Honeycomb platform and select the Maximising My Time’ cell
-2. Review the learning content for the essential habits by clicking on - View Learning Content
-3. After reviewing the learning content complete your self assessment
-4. Post a screenshot in your student area on Goolge Classroom showing your self assessment has been completed. 
-5. Mark as done
+1. ~~Go onto the Honeycomb platform and select the Maximising My Time’ cell~~
+2. ~~Review the learning content for the essential habits by clicking on - View Learning Content~~
+3. ~~After reviewing the learning content complete your self assessment~~
+4. ~~Post a screenshot in your student area on Goolge Classroom showing your self assessment has been completed.~~ 
+5. ~~Mark as done~~
 
-
+~~~~
 
