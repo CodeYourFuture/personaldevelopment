@@ -40,7 +40,7 @@ Importance to professionalism in workplace:
 **Participants will be able to:**:
 
 * Understand what is meant by "professionalism"
-* Understand why professionalism is important both at Techtonica and in a work setting
+* Understand why professionalism is important both at CYF and in a work setting
 * Understand what behaviors are expected of a professional
 * Understand what accepted standards of professionalism are
 
