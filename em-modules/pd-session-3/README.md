@@ -53,15 +53,13 @@ In a futurespective, we imagine that we’re in the future, and we look back to 
 
 #### Importance of PD and relevance to getting a job/graduating
 
-## Session 4 
+## ~~Session 4~~ 
 
-### Professionalism
+### ~~Professionalism~~
 
-* To introduce what is meant by "professionalism"
-* To show why professionalism is important both at CYF and in a work setting
-* To convey what behaviors are expected of a professional
-
-{% embed url="https://docs.google.com/presentation/d/1Y\_OOZrMD-XxlBpb4fdqY22hSQtopQRYWqj7cq25JO5w/edit?usp=sharing" %}
+* ~~To introduce what is meant by "professionalism"~~
+* ~~To show why professionalism is important both at CYF and in a work setting~~
+* ~~To convey what behaviors are expected o~~f a professional
 
 
 
