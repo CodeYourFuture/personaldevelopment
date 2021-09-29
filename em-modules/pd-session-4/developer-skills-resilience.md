@@ -43,7 +43,9 @@ Trainees developing resilience strategies
 
 #### **Session**
 
-* Link to Resilience slides - [https://docs.google.com/presentation/d/1WxPmQ7hWP79geIqXUCGT7l1AKULhzAYRxpRSHK64e9w/edit?usp=sharing](https://docs.google.com/presentation/d/1WxPmQ7hWP79geIqXUCGT7l1AKULhzAYRxpRSHK64e9w/edit?usp=sharing)
+* Link to Resilience slides - [https://docs.google.com/presentation/d/1ArKonsnqkM5lFhowF8Eg4mabbs-94rvJoBXovYz4BAU/edit?usp=sharing](https://docs.google.com/presentation/d/1ArKonsnqkM5lFhowF8Eg4mabbs-94rvJoBXovYz4BAU/edit?usp=sharing)
+
+
 
 ‌
 
