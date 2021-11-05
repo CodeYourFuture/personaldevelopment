@@ -1,6 +1,6 @@
 # FindYourVoice Empowerment Storytelling Workshop 3
 
-### Objectives: 
+### Objectives:&#x20;
 
 To get to know each other, build trust and sense of community and to develop debate and discussion skills.
 
@@ -12,21 +12,21 @@ Did anything exciting happen?
 
 Any challenges?
 
-### Warm up \(see Session 1 for instructions\)
+### Warm up (see Session 1 for instructions)
 
 Dance to participants’ songs. Either facilitator or participant can lead a stretching while dancing.
 
-\(Make sure participants have the chance to talk a bit about the chosen song\)
+(Make sure participants have the chance to talk a bit about the chosen song)
 
-Reflection: how were you feeling before and how you feel after the dance? Rename \(on zoom\) Sleepy/ Awake
+Reflection: how were you feeling before and how you feel after the dance? Rename (on zoom) Sleepy/ Awake
 
-\(Facilitator acknowledges their feelings\)
+(Facilitator acknowledges their feelings)
 
 ### Activity 1
 
 In the large group
 
-\(materials needed: pen and paper/ reflective journal\)
+(materials needed: pen and paper/ reflective journal)
 
 Participants are invited to write a reflection in their journals on their journey as migrants, daily lives, challenges, future plans and big and small achievements.
 
@@ -48,7 +48,7 @@ Be mindful of creating psychological safety to start sharing.
 
 Following their journal reflection, participants are invited to think about and complete the two sentences:
 
-\(Write on paper\)
+(Write on paper)
 
 When I want to escape I…
 
@@ -64,5 +64,4 @@ Closure
 
 Rename themselves to how they are feeling right now.
 
-\(Invite participants to have a look on people’s feelings\)
-
+(Invite participants to have a look on people’s feelings)
