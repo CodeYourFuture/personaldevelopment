@@ -20,20 +20,19 @@
 * **Arguing:** Disagreeing with instead of encouraging the mentee.
 * **Preaching:** Telling the mentee what to do in a self-righteous way.
 * **Storytelling:** Relating long-winded personal narratives that are not relevant or helpful to the mentee.
-* **Blocking communication:** Speaking without listening to the mentee’s responses, using an aggressive voice, showing impatience, showing annoyance when interrupted, or having an authoritative manner. 
+* **Blocking communication:** Speaking without listening to the mentee’s responses, using an aggressive voice, showing impatience, showing annoyance when interrupted, or having an authoritative manner.&#x20;
   * These behaviors often lead to the mentee feeling down, humiliated, scared, and insecure. As a result, the mentee may remain passive and refrain from asking questions, or distrust the mentor and disregard his or her recommendations.
-* **Talking too much:** Talking so much that the mentee does not have time to express themselves. As a mentor, it is important not to dominate the interaction.
+* **Talking too much: **Talking so much that the mentee does not have time to express themselves. As a mentor, it is important not to dominate the interaction.
 
 **Challenges facing your mentee may include:**
 
 * Being more time efficient
-* Lacking confidence in their tech skills or English 
+* Lacking confidence in their tech skills or English&#x20;
 * Having low self esteem
-* Having little or no work experience in UK 
+* Having little or no work experience in UK&#x20;
 * Having little knowledge of tech work culture
 * Low level of English reading, writing and speaking
 
-We can help you to overcome any barriers you may encounter. 
+We can help you to overcome any barriers you may encounter.&#x20;
 
-Speak with your City Coordinator or the Head of Personal Development as soon as any issues arise. 
-
+Speak with your City Coordinator or the Head of Personal Development as soon as any issues arise.&#x20;

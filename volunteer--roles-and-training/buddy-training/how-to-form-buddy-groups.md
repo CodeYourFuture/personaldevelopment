@@ -1,21 +1,21 @@
 # How to form Buddy Groups
 
-### **Setting up your PD Buddy Groups** 
+### **Setting up your PD Buddy Groups **
 
-* Ideally you should only be volunteering in the PD team. 
+* Ideally you should only be volunteering in the PD team.&#x20;
 * You can support a maximum of 3 students in your PD Buddy Groups.
-* Buddy groups should meet at least once per module \(every 3 weeks\). 
-* You can structure your support any way you feel will be most effective. \(1-1, group or mixture\). 
+* Buddy groups should meet at least once per module (every 3 weeks).&#x20;
+* You can structure your support any way you feel will be most effective. (1-1, group or mixture).&#x20;
 
 #### **Starting your Buddy relationship:**
 
 To get started, you can:
 
 * **Have a group meeting**
-* **Tell your Buddies something about yourself:** this could include why you have gotten involved as a PD Buddy. 
-* **Establish how you will be working together:** explain the kind of support you are able to provide. Highlight how and when you expect them to connect with you, use the Buddy group on Slack for communication, etc.  If you will have group or individual sessions, the frequency etc. 
+* **Tell your Buddies something about yourself:** this could include why you have gotten involved as a PD Buddy.&#x20;
+* **Establish how you will be working together: **explain the kind of support you are able to provide. Highlight how and when you expect them to connect with you, use the Buddy group on Slack for communication, etc.  If you will have group or individual sessions, the frequency etc.&#x20;
 
-**Remember:** if you don’t hit it off straight away, don’t panic. It takes time to build any relationship and it will get easier the more you meet because you’ll build up trust and get used to each other.
+**Remember: **if you don’t hit it off straight away, don’t panic. It takes time to build any relationship and it will get easier the more you meet because you’ll build up trust and get used to each other.
 
 **What is the first meeting for?**
 
@@ -23,9 +23,9 @@ The first meeting is all about getting your relationship off to a good start by 
 
 **We recommend you get a sense of your Buddy’s personal circumstances in relation to:**
 
-* their English speaking, reading and writing skills 
+* their English speaking, reading and writing skills&#x20;
 * employment/ financial situation
-* housing situation 
+* housing situation&#x20;
 * family including any childcare needs
 * legal situation if they are asylum seekers, refugee, or other
 * any other needs
@@ -33,23 +33,23 @@ The first meeting is all about getting your relationship off to a good start by 
 **You should also cover a few basic essentials:**
 
 * when you would like to meet – how often and for how long
-* vehicle for follow-up meetings \(Zoom, Hangouts, Slack, phone call\)
-* how you will keep in touch \(by email and or Slack\) and how you will remind each other of future meetings.
+* vehicle for follow-up meetings (Zoom, Hangouts, Slack, phone call)
+* how you will keep in touch (by email and or Slack) and how you will remind each other of future meetings.
 * discussing and agreeing how you will work together
 * confidentiality
 * responsibility
-* how you will record progress and issues/targets for further development 
+* how you will record progress and issues/targets for further development&#x20;
 
 **KEY PRINCIPLES IN BUILDING TRUST**
 
-* **Get to know your buddies.**  Talk about their studies at CYF and their life outside it.  Try to understand what they think and why.  Value their viewpoint.
-* **Do what you say you are going to do.**  Agree what you are aiming to achieve through your mentoring sessions.  Be reliable and always do what you say you are going to do.
+* **Get to know your buddies.  **Talk about their studies at CYF and their life outside it.  Try to understand what they think and why.  Value their viewpoint.
+* **Do what you say you are going to do.  **Agree what you are aiming to achieve through your mentoring sessions.  Be reliable and always do what you say you are going to do.
 * **Communicate openly and honestly.**  Discuss issues as soon as they arise.  Ask for and give feedback.
 * **Don’t be afraid to challenge.**  Your open, honest relationship will allow you to challenge your Buddies constructively to explore a wider viewpoint.
 
 #### **Building rapport with your Buddies**
 
-Taking time to build rapport with your Buddies will help you to get the most from the relationship. Rapport comes from shared values or experiences, and sometimes from a ‘chemistry’ that is hard to define. One sign that there is comfort or rapport between two people is that they have similar tone of voice, body language, movements and so on. Next time you are in company, watch other people talking together. Look for examples of similarities or ‘synchronicity’ between them. 
+Taking time to build rapport with your Buddies will help you to get the most from the relationship. Rapport comes from shared values or experiences, and sometimes from a ‘chemistry’ that is hard to define. One sign that there is comfort or rapport between two people is that they have similar tone of voice, body language, movements and so on. Next time you are in company, watch other people talking together. Look for examples of similarities or ‘synchronicity’ between them.&#x20;
 
 Ask yourself:
 
@@ -80,7 +80,7 @@ We can help you to overcome any barriers you may encounter.
 * Being more time efficient
 * Having confidence
 * Having low self esteem
-* Having little or no work experience in UK 
+* Having little or no work experience in UK&#x20;
 * Having little knowledge of tech work culture
 * Low level of English reading, writing and speaking
 
@@ -90,9 +90,9 @@ It’s really important that you establish a trusting relationship so that your 
 
 **Four things to think about are:**
 
-1. **Concerns**. If you’ve got any, chat with your the PD team, your city coordinator or escalate to Head of PD. 
+1. **Concerns**. If you’ve got any, chat with your the PD team, your city coordinator or escalate to Head of PD.&#x20;
 2. **Secrets.** Don’t promise to keep any secrets.  Make that clear from the beginning and remember to ask your mentee if they mind you sharing confidential information with anyone else.
-3. **Information.** Keep information about your mentee \(like their phone number\) somewhere secure.  
+3. **Information.** Keep information about your mentee (like their phone number) somewhere secure. &#x20;
 4. **You.**  Confidentiality works both ways.  Be aware of those personal areas of your life you’re happy to share with your mentee and those you are not.
 
 
@@ -111,11 +111,10 @@ Don’t forget, goals are most useful when they are **SMART**:
 
 **Specific** – for example, rather than ‘get a website’, say ‘choose a suitable domain name for my business’.
 
-**Measureable –** Decide how you’ll know when you’ve achieved it.
+**Measureable – **Decide how you’ll know when you’ve achieved it.
 
 **Achievable** – Can you do it?
 
 **Realistic** – Do you think you have a real prospect of reaching your goal?
 
 **Timed** – Is this a long-term or short-
-

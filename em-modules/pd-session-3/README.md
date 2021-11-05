@@ -6,32 +6,32 @@ description: >-
 
 # Day 3 - Preparing for the Workplace
 
-## Prior Knowledge 
+## Prior Knowledge&#x20;
 
-All trainees should have signed the [Student Agreement](https://docs.codeyourfuture.io/organisation/agreements-and-rules/student-agreement). 
+All trainees should have signed the [Student Agreement](https://docs.codeyourfuture.io/organisation/agreements-and-rules/student-agreement).&#x20;
 
 All trainees should have completed PD Day 1 and 2
 
-All trainees should have completed PD coursework 
+All trainees should have completed PD coursework&#x20;
 
-All trainees should have recieved feedback on their Honeycomb cell **'Working With My Team'** 
+All trainees should have recieved feedback on their Honeycomb cell **'Working With My Team' **
 
-## Session 1 \(40 mins- 1 hour\)
+## Session 1 (40 mins- 1 hour)
 
 ### Futurespective
 
 In a futurespective, we imagine that we’re in the future, and we look back to past events.
 
-* To look into the future your upcoming work, projects or events 
+* To look into the future your upcoming work, projects or events&#x20;
 * To decide what your goals are
 * To imagine what success will look like
 * To figure out what could cause them problems
 
-{% embed url="https://docs.google.com/presentation/d/16LZe0Qnn5Ml0BXnViBy\_zCKQrO0cjJBMro7XXSiST1I/edit?usp=sharing" %}
+{% embed url="https://docs.google.com/presentation/d/16LZe0Qnn5Ml0BXnViBy_zCKQrO0cjJBMro7XXSiST1I/edit?usp=sharing" %}
 
 
 
-## Session 2 \(30 mins- 40mins\)
+## Session 2 (30 mins- 40mins)
 
 ### Developer skills - Asking good questions and getting the right help
 
@@ -47,13 +47,13 @@ In a futurespective, we imagine that we’re in the future, and we look back to 
 
 
 
-## Session 3 \(30 mins- 45mins\)
+## Session 3 (30 mins- 45mins)
 
 ### Guest speakers- CYF Graduate and Employer:
 
 #### Importance of PD and relevance to getting a job/graduating
 
-## ~~Session 4~~ 
+## ~~Session 4 ~~
 
 ### ~~Professionalism~~
 
@@ -63,23 +63,23 @@ In a futurespective, we imagine that we’re in the future, and we look back to 
 
 
 
-## Session 5 
+## Session 5&#x20;
 
 ### Brag Diary
 
-* To introduce the idea of knowing your strengths and achievements 
+* To introduce the idea of knowing your strengths and achievements&#x20;
 * To show how useful keping a Brag Diary will be when doing job interviews and answering competency questions
 * To further develop self reflection skills
 
-## Session 6 
+## Session 6&#x20;
 
-### Diversity and Inclusion 
+### Diversity and Inclusion&#x20;
 
-* To raise awareness of trainee's biases 
+* To raise awareness of trainee's biases&#x20;
 * To help help trainees uncover behaviours which limit opportunities for themselves or others
-* To help create an inclusive community at CYF 
+* To help create an inclusive community at CYF&#x20;
 
-{% embed url="https://docs.google.com/presentation/d/1gk-mLW\_XpOYaEgDQX\_s9NPulyuu6Fnd0szZc9Sv4WRY/edit?usp=sharing\\" %}
+{% embed url="https://docs.google.com/presentation/d/1gk-mLW_XpOYaEgDQX_s9NPulyuu6Fnd0szZc9Sv4WRY/edit?usp=sharing\" %}
 
 
 
@@ -89,17 +89,16 @@ In a futurespective, we imagine that we’re in the future, and we look back to 
 
 * To introduce the benefits and barrier to managing time effectively
 * To identify techniques to manage time effectively
-* To identify and reflect on maximising my time habits 
+* To identify and reflect on maximising my time habits&#x20;
 
-{% embed url="https://docs.google.com/presentation/d/1Om4wMe1QpqHGJrpDH4i2L\_WWENiEa\_-8ApVo8YlbaMQ/edit?usp=sharing" %}
-
-
+{% embed url="https://docs.google.com/presentation/d/1Om4wMe1QpqHGJrpDH4i2L_WWENiEa_-8ApVo8YlbaMQ/edit?usp=sharing" %}
 
 
 
 
 
-## Independent Practice- Coursework introduction 
 
-There are 2 separate Google Classrooms. 1 for technical coursework and another for PD coursework. There will be PD assignments every week so please check both Google Classrooms. See the coursework [here](https://personaldevelopment.codeyourfuture.io/sessions/js-1-pd-day-3/untitled). 
 
+## Independent Practice- Coursework introduction&#x20;
+
+There are 2 separate Google Classrooms. 1 for technical coursework and another for PD coursework. There will be PD assignments every week so please check both Google Classrooms. See the coursework [here](https://personaldevelopment.codeyourfuture.io/sessions/js-1-pd-day-3/untitled).&#x20;

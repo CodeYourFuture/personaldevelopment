@@ -32,7 +32,7 @@ Being aware of biases can help uncover whether you have been limiting yourself w
 
 #### Lesson
 
-* [Diversity & Inclusion Slides](https://docs.google.com/presentation/d/1gk-mLW_XpOYaEgDQX_s9NPulyuu6Fnd0szZc9Sv4WRY/edit?usp=sharing)
+* [Diversity & Inclusion Slides](https://docs.google.com/presentation/d/1gk-mLW\_XpOYaEgDQX\_s9NPulyuu6Fnd0szZc9Sv4WRY/edit?usp=sharing)
 
 #### Slides 1- 5
 
@@ -42,17 +42,17 @@ Does it matter? Yes! Diverse voices = increased creativity, new ideas, greater v
 
 #### Slides 6- 8
 
-Unconscious bias \(also known as implicit bias\) - a social stereotype about certain groups of people that individuals form outside their own conscious awareness. These biases may include that instinctive categorisation of others such as age, weight, skin color, gender, educational level, disability, sexuality, accent, social status, and job title.
+Unconscious bias (also known as implicit bias) - a social stereotype about certain groups of people that individuals form outside their own conscious awareness. These biases may include that instinctive categorisation of others such as age, weight, skin color, gender, educational level, disability, sexuality, accent, social status, and job title.
 
 * Example: Name on a CV or resume sets the first impression, affecting the likelihood of getting hired
 
 **Slides 9-11**
 
-In Groups / Outgroups 
+In Groups / Outgroups&#x20;
 
-**Slides 12- 15** 
+**Slides 12- 15 **
 
-Privilege - generally "unearned" social advantage \(born with, given\). Social advantages include education, mental health, child care, race, religion, family structure, access to transportation.
+Privilege - generally "unearned" social advantage (born with, given). Social advantages include education, mental health, child care, race, religion, family structure, access to transportation.
 
 * Example: Christian privilege means that holidays such as Christmas are recognised and practiced in December.
 
@@ -71,32 +71,32 @@ Strategies to combat - Understand the context and evaluate your options; address
 
 Covering
 
-Staff from diverse backgrounds may try to assimilate into the company culture. They trying to fit in. They may do this in response to frequently experiencing microaggressions.   
-  
+Staff from diverse backgrounds may try to assimilate into the company culture. They trying to fit in. They may do this in response to frequently experiencing microaggressions. \
+\
 This can happen in the following ways:
 
-* **Appearance**- trying to blend into the mainstream through how you present yourself  including how you dress, how you cut or style your hair. 
-  * Example: A staff member with natural hair might start straightening it. 
-* **Affiliation**- avoiding behaviors widely associated with their identity, culture, or group. 
+* **Appearance**- trying to blend into the mainstream through how you present yourself  including how you dress, how you cut or style your hair.&#x20;
+  * Example: A staff member with natural hair might start straightening it.&#x20;
+* **Affiliation**- avoiding behaviors widely associated with their identity, culture, or group.&#x20;
   * A staff member might avoid bringing food from their home country to eat for lunch.
-* **Advocacy**-  avoid sticking up for their group.  
+* **Advocacy**-  avoid sticking up for their group. &#x20;
   * Example: A LGBT staff member might not speak up for trans rights
-* **Association**- Avoiding people who are in the groups you are trying to cover. 
+* **Association**- Avoiding people who are in the groups you are trying to cover.&#x20;
   * Example: A staff member might avoid the support staff of the company like cleaners or cooks who are in the same group.
 
-Companies need to work to make a culture where people’s differences are celebrated and staff don’t feel ashamed to show they are part of a particular group. 
+Companies need to work to make a culture where people’s differences are celebrated and staff don’t feel ashamed to show they are part of a particular group.&#x20;
 
 #### Slides 24-27
 
 Allyship - a member of a social group that enjoys some privilege that is working to end oppression and understand their own privilege. In other words, an ally is anyone who supports or empowers another marginalised person or group
 
-* Good practices: 
+* Good practices:&#x20;
   * know the issues
-  * know yourself \(and your biases\)
+  * know yourself (and your biases)
   * understand that you can make mistakes too
   * listen more and speak less
-  * do not expect to be educated by others \(do the research yourself\); 
-  * be accountable for mistakes 
+  * do not expect to be educated by others (do the research yourself);&#x20;
+  * be accountable for mistakes&#x20;
   * your needs are secondary to the group that you seek to work with
 * Examples: Ensuring inclusivity on lunch/dinner invitations; stopping an inappropriate joke; encouraging broad participation in team discussion
 
@@ -104,7 +104,7 @@ Allyship - a member of a social group that enjoys some privilege that is working
 
 Empathy - a person's ability to recognise and share emotions of another; involves, first, seeing someone else’s situation from their perspective, and, second, sharing their emotions, including, if any, their distress
 
-vi\) Strategies to combat - Understand the context and evaluate your options; address the inappropriate comment; take care of yourself.
+vi) Strategies to combat - Understand the context and evaluate your options; address the inappropriate comment; take care of yourself.
 
 #### Common Mistakes / Misconceptions
 
@@ -113,19 +113,18 @@ vi\) Strategies to combat - Understand the context and evaluate your options; ad
 
 #### Guided Practice
 
-From each of the concepts from the lesson, break into small groups and imagine where you stand \(can be the concept itself or an action, behavior, or situation\). 
+From each of the concepts from the lesson, break into small groups and imagine where you stand (can be the concept itself or an action, behavior, or situation).&#x20;
 
 Think of ways a company can be more inclusive at the workplace.
 
 #### Independent Practice
 
-Think of when you are stressed, feeling tired, rushed, as these situations tend to activate our biases. How may these feelings influence your behavior when working with a group? 
+Think of when you are stressed, feeling tired, rushed, as these situations tend to activate our biases. How may these feelings influence your behavior when working with a group?&#x20;
 
 #### Challenge
 
-Take an Implicit Association Test \(IAT\) here \([https://implicit.harvard.edu/implicit/takeatest.html](https://implicit.harvard.edu/implicit/takeatest.html)\) to identify what your unconscious biases are!
+Take an Implicit Association Test (IAT) here ([https://implicit.harvard.edu/implicit/takeatest.html](https://implicit.harvard.edu/implicit/takeatest.html)) to identify what your unconscious biases are!
 
 There are multiple topics to choose from: Age, Gender, Sexuality, Skin-tone, Ethnicity, etc.
 
 Remember: Awareness is the first step to combatting bias.
-

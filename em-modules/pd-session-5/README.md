@@ -7,27 +7,27 @@ description: >-
 
 # Day 5 - Preparing for the Job Market
 
-## Prior Knowledge 
+## Prior Knowledge&#x20;
 
 All trainees should have completed PD Day 1, 2, 3, and 4
 
-All trainees should have completed PD coursework 
+All trainees should have completed PD coursework&#x20;
 
-All trainees should have received feedback on their Honeycomb cell **'Presenting for Success'** 
+All trainees should have received feedback on their Honeycomb cell **'Presenting for Success' **
 
-## Session 1 \(20 mins- 25 mins\)
+## Session 1 (20 mins- 25 mins)
 
-### Engaging Games \(No icebreaker needed beforehand\) 
+### Engaging Games (No icebreaker needed beforehand)&#x20;
 
-COOPERATIVE COUNTING and GESTURE RELAY 
+COOPERATIVE COUNTING and GESTURE RELAY&#x20;
 
 * To build group cooperation, focus, and concentration
-* To encourage active participation 
+* To encourage active participation&#x20;
 * To demonstrate the importance of each individual in the group
 
-Session plan is [here](https://personaldevelopment.codeyourfuture.io/sessions/react-pd-day-5/engaging-games). 
+Session plan is [here](https://personaldevelopment.codeyourfuture.io/sessions/react-pd-day-5/engaging-games).&#x20;
 
-## Session 2 \(30 mins- 40mins\)
+## Session 2 (30 mins- 40mins)
 
 ### Guest Speaker - Understanding how the CYF job process works
 
@@ -35,11 +35,11 @@ Session plan is [here](https://personaldevelopment.codeyourfuture.io/sessions/re
 * To highlight CYF's role in the employment journey
 * To highlight trainees role in their employment journey
 
-{% embed url="https://docs.google.com/presentation/d/1d3\_B31nauR9LJLUKaQVSDIObwcZYC0Rr2U9ArgTyb6E/edit?usp=sharing" %}
+{% embed url="https://docs.google.com/presentation/d/1d3_B31nauR9LJLUKaQVSDIObwcZYC0Rr2U9ArgTyb6E/edit?usp=sharing" %}
 
 
 
-## Session 3 \(50 mins- 1 hour\)
+## Session 3 (50 mins- 1 hour)
 
 ### Job Application Workshop
 
@@ -51,9 +51,9 @@ Session plan is [here](https://personaldevelopment.codeyourfuture.io/sessions/re
 
 
 
-## Session 4 \(45 mins- 1 hour\)
+## Session 4 (45 mins- 1 hour)
 
-### Visibility in the job market- Social Media and Self marketing 
+### Visibility in the job market- Social Media and Self marketing&#x20;
 
 * To help trainees learn how to use social media platforms to search for jobs
 * To support trainees in developing networking techniques
@@ -63,32 +63,31 @@ Session plan is [here](https://personaldevelopment.codeyourfuture.io/sessions/re
 
 
 
-## Session 5 \(30 mins- 40mins\)
+## Session 5 (30 mins- 40mins)
 
 ### Developer Skills - Agile and Scrum intro
 
-* To help trainees learn about the importance of Agile 
+* To help trainees learn about the importance of Agile&#x20;
 * To help trainees identify their current coping habits
 * To support trainees in developing resilience strategies
 
 
 
-{% embed url="https://docs.google.com/presentation/d/1D40nyLhE7-s\_2VyOHX39ss1F8LJG4jhZJkJYnWZr2-E/edit?usp=sharing" %}
+{% embed url="https://docs.google.com/presentation/d/1D40nyLhE7-s_2VyOHX39ss1F8LJG4jhZJkJYnWZr2-E/edit?usp=sharing" %}
 
 
 
-## Session 6 \(30 mins- 40mins\)
+## Session 6 (30 mins- 40mins)
 
-### Honeycomb Introduction - Learning From Failure cell and feedback <a id="honeycomb-introduction-maximising-my-time-cell-and-feedback"></a>
+### Honeycomb Introduction - Learning From Failure cell and feedback <a href="honeycomb-introduction-maximising-my-time-cell-and-feedback" id="honeycomb-introduction-maximising-my-time-cell-and-feedback"></a>
 
 * To help trainees understand that failure is a learning opportunity
 * To introduce trainees to the habits that are needed to recover from setbacks
 
 
 
-## Independent Practice- Coursework introduction ‌ <a id="independent-practice-coursework-introduction"></a>
+## Independent Practice- Coursework introduction ‌ <a href="independent-practice-coursework-introduction" id="independent-practice-coursework-introduction"></a>
 
 See the coursework [here](https://personaldevelopment.codeyourfuture.io/sessions/js2-pd-day-4/coursework).
 
-### 
-
+###

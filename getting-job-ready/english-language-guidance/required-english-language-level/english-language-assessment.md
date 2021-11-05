@@ -12,15 +12,15 @@ Applicant interview stage English Assessment:
 
 When the student is accepted onto the Fundamentals course they may be asked to complete further English assessments:
 
-\*\*\*\*[https://learnenglish.britishcouncil.org/online-english-level-test](https://learnenglish.britishcouncil.org/online-english-level-test)
+****[https://learnenglish.britishcouncil.org/online-english-level-test](https://learnenglish.britishcouncil.org/online-english-level-test)
 
 [https://www.cambridgeenglish.org/test-your-english/for-schools/](https://www.cambridgeenglish.org/test-your-english/for-schools/)
 
 The student should share their results of these assessments with their PD Buddy at the start of the Full Stack Course. This will help the PD Buddies know which trainees need further support with their English reading and writing, speaking and listening skills.
 
-### **Other English Language Assessments:** 
+### **Other English Language Assessments: **
 
-#### **Can be used to assess language skills at any time. They should only be used once.** 
+#### **Can be used to assess language skills at any time. They should only be used once. **
 
 Cambridge General English Assessment: [https://www.cambridgeenglish.org/test-your-english/general-english/](https://www.cambridgeenglish.org/test-your-english/general-english/)
 
@@ -33,4 +33,3 @@ Oxford English Vocabulary Assessment: [https://www.oxfordonlineenglish.com/engli
 Oxford English Grammar Assessment: [https://www.oxfordonlineenglish.com/english-level-test/grammar](https://www.oxfordonlineenglish.com/english-level-test/grammar)
 
 Oxford English Reading Assessment: [https://www.oxfordonlineenglish.com/english-level-test/reading](https://www.oxfordonlineenglish.com/english-level-test/reading)
-

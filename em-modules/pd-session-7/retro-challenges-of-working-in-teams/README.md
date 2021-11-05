@@ -5,7 +5,7 @@ description: >-
 
 # Retro - Challenges of Working in Teams Futurepective
 
-As the trainees will be going into Final Projects, we will use the futurespective technique to help the teams to find ways to reach their goals, agree upon their way of working and define a Definition of Done.  
+As the trainees will be going into Final Projects, we will use the futurespective technique to help the teams to find ways to reach their goals, agree upon their way of working and define a Definition of Done. &#x20;
 
 **How to do a futurespective**
 
@@ -22,7 +22,7 @@ Optionally teams can also discuss:
 
 * What did we learn as team along the way towards reaching our goal?
 
-Teams can use sticky notes, flip-overs and/or white boards to capture the results from the discussions. When you do the [exercise with remote teams](https://www.benlinders.com/2014/retrospectives-in-remote-teams/) you can use a Google Doc or tools like [Lino](http://en.linoit.com/) or [Groupmap](http://www.groupmap.com/).
+Teams can use sticky notes, flip-overs and/or white boards to capture the results from the discussions. When you do the [exercise with remote teams](https://www.benlinders.com/2014/retrospectives-in-remote-teams/) you can use a Google Doc or tools like [Lino](http://en.linoit.com) or [Groupmap](http://www.groupmap.com).
 
 Now the teams go back to the present. The results from exploring the past are used to agree how to work together in teams to reach the goal. This can for example be done by:
 
@@ -50,7 +50,5 @@ These are some ways that facilitators can stimulate creative thinking and help t
 
 **Retrospectives help teams to grow and improve**
 
-A futurespectives is on of the [many exercises](https://www.benlinders.com/2013/have-a-toolbox-of-retrospective-techniques/) that you can use to [spice up your agile retrospectives](https://www.benlinders.com/2014/spice-up-your-agile-retrospectives/).  Retrospective deliver many benefits: They give [power to teams](https://www.benlinders.com/2013/retrospective-benefits-power-to-the-team/), enable [teams to do their own actions](https://www.benlinders.com/2013/retrospective-benefits-action-by-the-team/) and to do [sustainable improvement](https://www.benlinders.com/2014/retrospective-benefits-changes-that-stick/).  
-  
-
-
+A futurespectives is on of the [many exercises](https://www.benlinders.com/2013/have-a-toolbox-of-retrospective-techniques/) that you can use to [spice up your agile retrospectives](https://www.benlinders.com/2014/spice-up-your-agile-retrospectives/).  Retrospective deliver many benefits: They give [power to teams](https://www.benlinders.com/2013/retrospective-benefits-power-to-the-team/), enable [teams to do their own actions](https://www.benlinders.com/2013/retrospective-benefits-action-by-the-team/) and to do [sustainable improvement](https://www.benlinders.com/2014/retrospective-benefits-changes-that-stick/).\
+\

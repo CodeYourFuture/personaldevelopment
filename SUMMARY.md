@@ -3,22 +3,22 @@
 * [Welcome to Personal Development at CodeYourFuture](README.md)
 * [Who are our trainees?](who-are-our-trainees.md)
 
-## Employability Modules <a id="em-modules"></a>
+## Employability Modules <a href="em-modules" id="em-modules"></a>
 
-* [Day 1 - Welcome and Induction](em-modules/induction-week/README.md)
-  * [FindYourVoice - Empowerment Storytelling Workshops](em-modules/induction-week/lesson-plan-f/README.md)
-    * [How to facilitate FindYourVoice sessions](em-modules/induction-week/lesson-plan-f/how-to-facilitate-sessions.md)
-    * [FindYourVoice - Empowerment Storytelling Workshop 1](em-modules/induction-week/lesson-plan-f/untitled-3.md)
-    * [FindYourVoice Empowerment Storytelling Workshop 2](em-modules/induction-week/lesson-plan-f/untitled-2.md)
-    * [FindYourVoice Empowerment Storytelling Workshop 3](em-modules/induction-week/lesson-plan-f/untitled-1.md)
-    * [FindYourVoice Empowerment Storytelling Workshop 4](em-modules/induction-week/lesson-plan-f/untitled.md)
-  * [Goals and Expectations](em-modules/induction-week/untitled-4.md)
-  * [Growth Mindset Session](em-modules/induction-week/learning-to-learn-session/README.md)
-    * [Lesson](em-modules/induction-week/learning-to-learn-session/lesson.md)
-    * [Instructor Notes](em-modules/induction-week/learning-to-learn-session/instructor-notes.md)
-  * [Team Building Session](em-modules/induction-week/team-building-session-plan.md)
-  * [Coursework](em-modules/induction-week/coursework.md)
-* [Day 2 - Effective Communication](em-modules/pd-session-2/README.md)
+* [Welcome and Induction](em-modules/induction-git-week/README.md)
+  * [🛑 Don't Use!!!! FindYourVoice - Empowerment Storytelling Workshops](em-modules/induction-git-week/lesson-plan-f/README.md)
+    * [How to facilitate FindYourVoice sessions](em-modules/induction-git-week/lesson-plan-f/how-to-facilitate-sessions.md)
+    * [FindYourVoice - Empowerment Storytelling Workshop 1](em-modules/induction-git-week/lesson-plan-f/untitled-3.md)
+    * [FindYourVoice Empowerment Storytelling Workshop 2](em-modules/induction-git-week/lesson-plan-f/untitled-2.md)
+    * [FindYourVoice Empowerment Storytelling Workshop 3](em-modules/induction-git-week/lesson-plan-f/untitled-1.md)
+    * [FindYourVoice Empowerment Storytelling Workshop 4](em-modules/induction-git-week/lesson-plan-f/untitled.md)
+  * [Goals and Expectations](em-modules/induction-git-week/untitled-4.md)
+  * [🛑 Don't Use Growth Mindset Session](em-modules/induction-git-week/learning-to-learn-session/README.md)
+    * [Lesson](em-modules/induction-git-week/learning-to-learn-session/lesson.md)
+    * [Instructor Notes](em-modules/induction-git-week/learning-to-learn-session/instructor-notes.md)
+  * [Team Building Session](em-modules/induction-git-week/team-building-session-plan.md)
+  * [Coursework](em-modules/induction-git-week/coursework.md)
+* [HTML/CSS - Effective Communication](em-modules/pd-session-2/README.md)
   * [4 L's Retrospective](em-modules/pd-session-2/4-ls-retrospective.md)
   * [Critical Thinking](em-modules/pd-session-2/critical-thinking-lesson-plan/README.md)
     * [Critical Thinking Worksheet- Trainees](em-modules/pd-session-2/critical-thinking-lesson-plan/critical-thinking-worksheet.md)
@@ -86,7 +86,7 @@
 * [PD Coursework Assignments](em-modules/pd-coursework-assignments.md)
 * [Employment Readiness Assessment](em-modules/employment-readiness-assessment.md)
 
-## Volunteer Roles <a id="volunteer--roles-and-training"></a>
+## Volunteer Roles <a href="volunteer--roles-and-training" id="volunteer--roles-and-training"></a>
 
 * [Personal Development Buddy Role](volunteer--roles-and-training/personal-development-buddy-role/README.md)
   * [Example PD Buddy Schedule](volunteer--roles-and-training/personal-development-buddy-role/example-pd-buddy-schedule.md)
@@ -103,7 +103,7 @@
   * [Career Mentoring- Your 1st meeting](volunteer--roles-and-training/career-mentors/career-mentoring-goals-setting.md)
   * [Career Mentoring - Ending the Relationship](volunteer--roles-and-training/career-mentors/career-mentoring-ending-the-relationship.md)
 
-## Volunteer Resources <a id="resources-for-volunteers"></a>
+## Volunteer Resources <a href="resources-for-volunteers" id="resources-for-volunteers"></a>
 
 * [Dyslexia Awareness Training](resources-for-volunteers/dyslexia-awareness-training.md)
 * [Neurodiversity Training](resources-for-volunteers/neurodiversity-training.md)
@@ -133,4 +133,3 @@
   * [CV Workbook](getting-job-ready/cv-tips-and-tricks/cv-workbook.md)
   * [Personal Branding Tips and Tricks](getting-job-ready/cv-tips-and-tricks/personal-branding-tips-and-tricks.md)
 * [Interview Tips and Tricks](getting-job-ready/interview-tips-and-tricks.md)
-

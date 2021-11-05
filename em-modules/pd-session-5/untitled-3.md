@@ -9,15 +9,15 @@
 ‌
 
 * 25 minutes for Session walkthrough
-* 35 minutes for Guided Practice activites 
+* 35 minutes for Guided Practice activites&#x20;
 
 #### **Prerequisites**
 
 None
 
-#### \*\*\*\*
+#### ****
 
-#### **Aim** \(Describe the changes you are trying to achieve with the session\)
+#### **Aim **(Describe the changes you are trying to achieve with the session)
 
 * To help trainees learn about the steps to employment
 * To highlight CYF's role in the employment journey
@@ -25,11 +25,11 @@ None
 
 ‌
 
-#### **Objectives** \(How you are going to do this -the activity\)‌
+#### **Objectives **(How you are going to do this -the activity)‌
 
 Through the use of a presentation, group activities and discussion
 
-**Outcomes** \(The changes you will have caused due to the project\)
+**Outcomes **(The changes you will have caused due to the project)
 
 * Trainees can dentify different social media platforms you can use to accelerate your jobsearch
 * Demonstrate effective ways to utilise each platform
@@ -39,7 +39,7 @@ Through the use of a presentation, group activities and discussion
 
 #### **Specific Things to Learn**
 
-* Specific vocabulary **-**  
+* Specific vocabulary** -  **
   * **hashtag**
   * **startup incubator**
 
@@ -63,13 +63,13 @@ Using social media platforms for job search can increase your visibility for you
 
 It gives you the opportunity to network with others in your chosen field.
 
-You can gain insightful ****information that you wouldn’t have access to otherwise.
+You can gain insightful** **information that you wouldn’t have access to otherwise.
 
 There are some social media platforms that are known for professional networking such as LinkedIn and meetup.   However there are others that are somewhat unconventional but could be potentially as effective as the previous ones if used in the right way.
 
 The purpose of today is to explore these different types of social media platforms and how you can utilise them to help your job searc and improve your visibility as a developer.
 
-The content that we will be discussing today will be very useful in your journey but it's just the start. 
+The content that we will be discussing today will be very useful in your journey but it's just the start.&#x20;
 
 We know from experience that people who use these platforms have a higher degree of exposure to hiring people.
 
@@ -85,9 +85,9 @@ Ask What is LinkedIn?
 
 What is it good for and how can trainees use it for their job search?
 
-### **Activity 1 \(2 mins\) - Do a poll using Zoom to see how many people have a LinkedIn profile already**
+### **Activity 1 (2 mins) - Do a poll using Zoom to see how many people have a LinkedIn profile already**
 
-**Slides 5-7 SM examples** 
+**Slides 5-7 SM examples **
 
 ‌‌Some examples of LinkedIn profiles and posts
 
@@ -105,13 +105,13 @@ Link to other sites like your LinkedIn profile or your personal website
 
 Change your DM settings so that anyone can contact you
 
-**Slide 10 People on Twitter** 
+**Slide 10 People on Twitter **
 
 Lots of people in tech on Twitter!
 
 Learn lots from how others present themselves
 
-### **Activity \(10 mins\): Write great bio under 160 characters. Remember to use keywords to make yourself searchable for employers.** 
+### **Activity (10 mins): Write great bio under 160 characters. Remember to use keywords to make yourself searchable for employers. **
 
 **Slide 11 Hashtags on Twitter**
 
@@ -131,7 +131,7 @@ Useful for networking as well as learning!
 
 Meet people in real life!
 
-**Slide 14 Meetup London \(only share your city\)**
+**Slide 14 Meetup London (only share your city)**
 
 [**https://www.meetup.com/ukblacktech/**](https://www.meetup.com/ukblacktech/)
 
@@ -141,7 +141,7 @@ Meet people in real life!
 
 [**https://www.meetup.com/Parent-Tech-meetup/**](https://www.meetup.com/Parent-Tech-meetup/)
 
-**Slide 15 Meetup West Mids \(only share your city\)**
+**Slide 15 Meetup West Mids (only share your city)**
 
 [**https://www.meetup.com/Women-In-Tech-Birmingham/**](https://www.meetup.com/Women-In-Tech-Birmingham/)
 
@@ -151,7 +151,7 @@ Meet people in real life!
 
 [**https://www.meetup.com/You-Equal-Tech-Midlands/**](https://www.meetup.com/You-Equal-Tech-Midlands/)
 
-  **Slide 16 Meetup Cape Town \(only share your city\)**
+**  Slide 16 Meetup Cape Town (only share your city)**
 
 [**https://www.meetup.com/Deep-South-Devs/**](https://www.meetup.com/Deep-South-Devs/)
 
@@ -163,37 +163,37 @@ Meet people in real life!
 
 **Slide 17-18 Hackernews**
 
-According to Wikipedia HN is a [social news website](https://en.wikipedia.org/wiki/Social_news_website) focusing on [computer science](https://en.wikipedia.org/wiki/Computer_science) and [entrepreneurship](https://en.wikipedia.org/wiki/Startup_company). It is part of Y Combinator one of the most influential tech startup incubators in the world. 
+According to Wikipedia HN is a [social news website](https://en.wikipedia.org/wiki/Social\_news\_website) focusing on [computer science](https://en.wikipedia.org/wiki/Computer\_science) and [entrepreneurship](https://en.wikipedia.org/wiki/Startup\_company). It is part of Y Combinator one of the most influential tech startup incubators in the world.&#x20;
 
-Users can post articles and comment on articles 
+Users can post articles and comment on articles&#x20;
 
 HN says there are two rules: don't post or upvote crap links, and don't be rude or dumb in comment threads.
 
 Stories on HN don't have to be about hacking, because good hackers aren't only interested in hacking, but they do have to be deeply interesting.
 
-What does "deeply interesting" mean? It means stuff that teaches you about the world. 
+What does "deeply interesting" mean? It means stuff that teaches you about the world.&#x20;
 
 Users are asked to make thoughtful comments. Thoughtful in both senses: civil and substantial.
 
-The test for substance is a lot like it is for links. Does your comment teach us anything? There are two ways to do that: by pointing out some consideration that hadn't previously been mentioned, and by giving more information about the topic, perhaps from personal experience. 
+The test for substance is a lot like it is for links. Does your comment teach us anything? There are two ways to do that: by pointing out some consideration that hadn't previously been mentioned, and by giving more information about the topic, perhaps from personal experience.&#x20;
 
-So the principle here is: don't say anything you wouldn't say face to face. This doesn't mean you can't disagree. But disagree without calling names. If you're right, your argument will be more convincing without them. 
+So the principle here is: don't say anything you wouldn't say face to face. This doesn't mean you can't disagree. But disagree without calling names. If you're right, your argument will be more convincing without them.&#x20;
 
-### **Slide 19 \(20 mins\) - Activity 3 Jobsearch exercise** 
+### **Slide 19 (20 mins) - Activity 3 Jobsearch exercise **
 
 * Divide into small groups
-  * Each group assigned a SM platform \(LinkedIn, Twitter, Meetup, Hackernews\)
+  * Each group assigned a SM platform (LinkedIn, Twitter, Meetup, Hackernews)
   * Decide on the search terms you will use
-  * Search for jobs 
+  * Search for jobs&#x20;
   * Find 2 unique jobs per team member
   * Post the job posts on thread in Slack
 * Feed back on
   * How did you decide which search terms to use?
-  * How effective were your searches? 
+  * How effective were your searches?&#x20;
   * How many jobs did you find?
   * What would you do differently?
 
-Can give guidance on how to do search on Twitter for example:  In your breakout room search for job posts on twitter using this search criteria ⇒ _\(developer OR Engineer\) AND \(job OR role\) lang:en near:"London" within:30mi_ 
+Can give guidance on how to do search on Twitter for example:  In your breakout room search for job posts on twitter using this search criteria ⇒ _(developer OR Engineer) AND (job OR role) lang:en near:"London" within:30mi _
 
 _You can change the location but know that certain location might not have a lot of options_
 
@@ -223,7 +223,7 @@ Helps you learn / practice how to write code
 
 Stack Overflow is the largest, most trusted **online community for developers** to learn and share their knowledge
 
-Stack Overflow is a **Q&A site.** More than 50 million unique visitors come to Stack Overflow every month. It is part of a larger group called Stack Exchange Network
+Stack Overflow is a **Q\&A site. **More than 50 million unique visitors come to Stack Overflow every month. It is part of a larger group called Stack Exchange Network
 
 * Share knowledge which shows how well you understand tech concepts
 * Recruiters are aware that not everyone is on LinkedIn and they explore other places where they can find great developers
@@ -235,9 +235,9 @@ Good answers are voted up and **rise to the top**. _The best answers show up fir
 
 Strict rules of how write a question and answer
 
-Good question =&gt; Specific programming problems
+Good question => Specific programming problems
 
-Bad Questions =&gt; Questions you haven't _tried_ to find an answer for \(show your work!\)
+Bad Questions => Questions you haven't _tried_ to find an answer for (show your work!)
 
 You earn reputation when people vote on your posts. As you earn reputation, you'll [unlock new privileges like](https://stackoverflow.com/help/privileges) the ability to vote, comment, and even edit other people's posts.
 
@@ -245,18 +245,18 @@ Badges are special achievements you earn for participating on the site. They com
 
 ### **Slide 28 Activity 4 Stack Overflow Questions - 5 minutes**
 
-* **Discuss in small groups, what would be the answer you would post for this question:** 
-  * Whats the difference between using let and var? This is something they have already learned so they should be able to answer. 
-* **Post your answer on Slack thread**. 
+* **Discuss in small groups, what would be the answer you would post for this question: **
+  * Whats the difference between using let and var? This is something they have already learned so they should be able to answer.&#x20;
+* **Post your answer on Slack thread**.&#x20;
 
-Go through the [link](https://stackoverflow.com/questions/762011/whats-the-difference-between-using-let-and-var#:~:text=The%20main%20difference%20is%20the,outside%20the%20loop%20for%20example.&text=let%20allows%20you%20to%20declare,on%20which%20it%20is%20used.) and show how people have answered the questions and how they get points more as people like their answer can vote on. This shows that by providing help to others you can accumulate points which makes you standout in the job market.  
-John Slegers is the guy who wrote the answer on the screenshot from the link \(maybe try ctrl f\) and then go through his profile to show how his profile stands out.
+Go through the [link](https://stackoverflow.com/questions/762011/whats-the-difference-between-using-let-and-var#:\~:text=The%20main%20difference%20is%20the,outside%20the%20loop%20for%20example.\&text=let%20allows%20you%20to%20declare,on%20which%20it%20is%20used.) and show how people have answered the questions and how they get points more as people like their answer can vote on. This shows that by providing help to others you can accumulate points which makes you standout in the job market.\
+John Slegers is the guy who wrote the answer on the screenshot from the link (maybe try ctrl f) and then go through his profile to show how his profile stands out.
 
 **Slide 29 Recap and Questions**
 
 Short summary of what each sm platform can be used for
 
-There was a lot of information in the session. People should have questions  by the end especially about looking for jobs and what it means to start building their profile now. 
+There was a lot of information in the session. People should have questions  by the end especially about looking for jobs and what it means to start building their profile now.&#x20;
 
 #### **Guided Practice**
 
@@ -264,9 +264,9 @@ There was a lot of information in the session. People should have questions  by 
 
 
 
-#### **Independent Coursework** 
+#### **Independent Coursework **
 
-**Listen to Podcast on Coursera** 
+**Listen to Podcast on Coursera **
 
 Coursera Blog - In 2020, Should You Learn Python or Javascript First?  [https://blog.coursera.org/in-2019-should-you-learn-python-or-javascript-first/](https://blog.coursera.org/in-2019-should-you-learn-python-or-javascript-first/)
 
@@ -274,11 +274,11 @@ What advice do they give about finding a job? What things would be useful for yo
 
 #### ‌Build your profile
 
-At this point in the course building your personal brand and profile should be your aim. 
+At this point in the course building your personal brand and profile should be your aim.&#x20;
 
-Decide which 3 SM platform are the most important for you to focus on right now. 
+Decide which 3 SM platform are the most important for you to focus on right now.&#x20;
 
-Create an account \(if needed\) for the 3 platforms you chose
+Create an account (if needed) for the 3 platforms you chose
 
 Write a blog post on something you learned this week.  One suggestion is to write a blog for the person you were 3-6 months ago. make sure that person can understand wha you are writing about.
 
@@ -293,4 +293,3 @@ Promote your blog on the sites you feel are most important!
 #### **Challenge or Additional resources**
 
 * [StackOverFLow](https://meta.stackoverflow.com/questions/369343/can-i-find-a-job-on-stack-overflow-as-a-self-taught-programmer-with-no-professio) - how to find a job as self-taught dev
-

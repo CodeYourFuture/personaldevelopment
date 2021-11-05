@@ -23,24 +23,24 @@ Learning to Learn lesson
 
 #### Learning styles represented
 
-* See \(videos and slides\)
-* Hear \(videos\)
-* Write \(Independent Practice\)
-* Do \(Group Practice, Check for Understanding\)
+* See (videos and slides)
+* Hear (videos)
+* Write (Independent Practice)
+* Do (Group Practice, Check for Understanding)
 
 #### Motivation
 
-The ability to ask questions that lead to useful answers is a must-have skill for developers because they are constantly solving problems.   
-Asking the right questions helps developers arrive at solutions more quickly and make faster progress. It enables you to be better at your job. Particularly in today’s fast-moving and rapidly-changing workplace, it’s critical to keep asking questions about the evolving nature of the work you do.   
-  
-In effect, today we must all continuously ask some version of the questions, How is my job changing? and How might I do it better?   
-  
-One way to demonstrate that you are open to change, and willing to learn and adapt, is by asking questions --   
-about how your industry or   
-about how your specific job may be evolving over time,   
-about what is expected of you and how those expectations may also be changing.   
-  
-Most bosses who are trying to manage change are likely to appreciate and even reward that kind of questioning, not punish it. \(See more info about questioning in the blog: amorebeautifulquestion.com\)
+The ability to ask questions that lead to useful answers is a must-have skill for developers because they are constantly solving problems. \
+Asking the right questions helps developers arrive at solutions more quickly and make faster progress. It enables you to be better at your job. Particularly in today’s fast-moving and rapidly-changing workplace, it’s critical to keep asking questions about the evolving nature of the work you do. \
+\
+In effect, today we must all continuously ask some version of the questions, How is my job changing? and How might I do it better? \
+\
+One way to demonstrate that you are open to change, and willing to learn and adapt, is by asking questions -- \
+about how your industry or \
+about how your specific job may be evolving over time, \
+about what is expected of you and how those expectations may also be changing. \
+\
+Most bosses who are trying to manage change are likely to appreciate and even reward that kind of questioning, not punish it. (See more info about questioning in the blog: amorebeautifulquestion.com)
 
 #### Objectives
 
@@ -87,5 +87,4 @@ Here's a template for asking questions: "I could use some help. I’m using this
 2. Role play the template for asking questions sample script with a partner.
 3. Create a note on your computer which contains a prioritized list of all the problem solving resources you have at your disposal.
 
-#### 
-
+####

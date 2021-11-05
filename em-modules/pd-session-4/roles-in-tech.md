@@ -24,7 +24,7 @@ About 1 hour
 * As you think through the different options to pursue, consider your work style, your interests and other factors that can make a difference in your work environment. Do you like working with people? Consider a customer-facing role such as Customer Success or Sales Engineering. Do you enjoy travel? A solutions consultant may work for several different clients all over a geographic region over the course of a year. Are you motivated by social causes? Consider applying for developer roles at non-profits or other mission-driven organizations.
 * This lesson presents a wide variety of jobs that can utilize the skills of a Techtonica graduate.
 
-**Read this blog post about a bootcamp student who discovered the field of** [**Sales Engineering**](https://medium.com/hackbright-capstone/day-10-twilio-and-the-fourth-wall-f41980265a0b)
+**Read this blog post about a bootcamp student who discovered the field of **[**Sales Engineering**](https://medium.com/hackbright-capstone/day-10-twilio-and-the-fourth-wall-f41980265a0b)
 
 #### Objectives
 
@@ -45,7 +45,7 @@ About 1 hour
 
 #### Materials
 
-* Roles in Tech \([slides](https://docs.google.com/presentation/d/1_a2cINS59aj93scDX5PFgPqWR_m8gZ8pyctgpPE8U8Y/edit?usp=sharing)\)
+* Roles in Tech ([slides](https://docs.google.com/presentation/d/1\_a2cINS59aj93scDX5PFgPqWR\_m8gZ8pyctgpPE8U8Y/edit?usp=sharing))
 
 #### Common Mistakes / Misconceptions
 
@@ -68,5 +68,4 @@ Collaborate to come up with an email template that can be used to ask for inform
 
 On their own, participants can look up job ads for roles they are interested in and make a list of the common skills and job responsibilities needed in order to qualify.
 
-#### 
-
+####

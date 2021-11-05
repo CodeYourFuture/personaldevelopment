@@ -17,9 +17,9 @@
 
 None
 
-#### \*\*\*\*
+#### ****
 
-#### **Aim** \(Describe the changes you are trying to achieve with the session\)
+#### **Aim **(Describe the changes you are trying to achieve with the session)
 
 * To help trainees learn about the steps in the job search process
 * To guide trainees on how to find companies and roles that right for them
@@ -27,11 +27,11 @@ None
 
 ‌
 
-#### **Objectives** \(How you are going to do this -the activity\)‌
+#### **Objectives **(How you are going to do this -the activity)‌
 
 Through the use of a presentation and group discussion
 
-**Outcomes** \(The changes you will have caused due to the project\)
+**Outcomes **(The changes you will have caused due to the project)
 
 * Trainees know about the steps to take when apply for a job
 * Trainees know how to research companies and find appropriate roles to apply
@@ -44,7 +44,7 @@ Through the use of a presentation and group discussion
 ‌
 
 * **Understand how to read and analyse a job advert**
-* **Know the function of each part of the job advert** 
+* **Know the function of each part of the job advert **
 
 ‌
 
@@ -58,7 +58,7 @@ Through the use of a presentation and group discussion
 
 #### **Slides 2**
 
-Intro the session and discuss the session objectives. 
+Intro the session and discuss the session objectives.&#x20;
 
 #### **Slides 3- 4**
 
@@ -90,36 +90,36 @@ Do your research on the company. Learn about them and connect with their employe
 
 #### **Slides 7-9 The Role**
 
-Discussion on what the 'About us', 'Qualifications' and 'Responsibilities parts of the job advert does and how they use that information  
+Discussion on what the 'About us', 'Qualifications' and 'Responsibilities parts of the job advert does and how they use that information\
 
 
 Do you understand the role. Do you know what they are asking for? What does this company  need? What can you help them with?
 
-### **Slide 10 Activity \(15 mins\)  What is the company?** 
+### **Slide 10 Activity (15 mins)  What is the company? **
 
 **In small groups read the following ‘About Us’ document an answer the following:**
 
 1. What is interesting about this company?
 2. What do you want to know more about?
-3. What kind of working environment do you think they have? 
-4. Do you think this company would be a good fit for you in culture and values? 
-5. Why or why not? 
+3. What kind of working environment do you think they have?&#x20;
+4. Do you think this company would be a good fit for you in culture and values?&#x20;
+5. Why or why not?&#x20;
 
 Sample About Us Doc: [https://drive.google.com/file/d/1mp6cviXxKFeZGmMpL-LiYS78Pepsitjd/view?usp=sharing](https://drive.google.com/file/d/1mp6cviXxKFeZGmMpL-LiYS78Pepsitjd/view?usp=sharing)
 
 Have the groups feed back to the larger group on their answers.
 
-### **Slide 11 Activity \(20 mins\)- What is the role?** 
+### **Slide 11 Activity (20 mins)- What is the role? **
 
-Divide into small groups and randomly assign either job role A or job role B to the group to read and analyze. 
+Divide into small groups and randomly assign either job role A or job role B to the group to read and analyze.&#x20;
 
-They have 15 mins to think about the following questions: 
+They have 15 mins to think about the following questions:&#x20;
 
 1. Do you understand all the responsibilities required for this role?
 2. Do you think you would enjoy this work?
-3. Do you have past experiences that match what they are looking for? 
+3. Do you have past experiences that match what they are looking for?&#x20;
 
-Then as a group, present a summary what the job is to the larger group: \(\*If you have 2 or 3 groups doing each of the job specs then each group can present on one of the summary questions\)
+Then as a group, present a summary what the job is to the larger group: (\*If you have 2 or 3 groups doing each of the job specs then each group can present on one of the summary questions)
 
 What do you have to do?
 
@@ -135,22 +135,22 @@ Job Spec Company B: [https://drive.google.com/file/d/1mp6cviXxKFeZGmMpL-LiYS78Pe
 
 #### **Slides 12-13 Make Your CV Relevant**
 
-**Discuss the function of a CV. How it is made to answer the specific job advert. That they need to make a new CV for each job they apply for.** 
+**Discuss the function of a CV. How it is made to answer the specific job advert. That they need to make a new CV for each job they apply for. **
 
 When describing your work experience on your CV, always focus on the skillsets and behaviours you have demonstrated or gained.
 
-**Slides 14- 15 Cv's Show, don’t tell** 
+**Slides 14- 15 Cv's Show, don’t tell **
 
-Many people make the mistake of just listing technologies or languages or skills they have without explaining how they have used them in the past. 
+Many people make the mistake of just listing technologies or languages or skills they have without explaining how they have used them in the past.&#x20;
 
-Tell the story of what you did in your project or team.   
-Ideally, include the measurable outcomes of the work you did. 
+Tell the story of what you did in your project or team. \
+Ideally, include the measurable outcomes of the work you did.&#x20;
 
-Who did your work help? 
+Who did your work help?&#x20;
 
 What problems did it solve?
 
-**Slides 16 Recap** 
+**Slides 16 Recap **
 
 Recap the steps to the job application cycle.
 
@@ -158,14 +158,14 @@ Address the common mistakes/ misconception
 
 Allow time for discussion
 
-#### \*\*\*\*
+#### ****
 
 #### **Common Mistakes / Misconceptions**
 
-1. I don’t care what job I get, I just need a job. 
-2. This job application cycle will take too much time. I don’t have the time to look for a job this way. 
-3. Why do I need a different CV for every job if I’m just applying for a front end junior developer role? 
-4. I didn’t spend all this time learning to code to not be able to get a job at the end. 
+1. I don’t care what job I get, I just need a job.&#x20;
+2. This job application cycle will take too much time. I don’t have the time to look for a job this way.&#x20;
+3. Why do I need a different CV for every job if I’m just applying for a front end junior developer role?&#x20;
+4. I didn’t spend all this time learning to code to not be able to get a job at the end.&#x20;
 
 ‌
 
@@ -173,7 +173,7 @@ Allow time for discussion
 
 See Session plan - activities are embedded
 
-#### \*\*\*\*
+#### ****
 
 #### **Independent Practice**
 
@@ -183,7 +183,7 @@ Start crafting your CV by going through this CV workbook. [https://personaldevel
 
 ‌Most people do not have a good CV the 1st time around. This workbook will break down what you need to think about in order to create a good CV.  You will need to have your draft CV ready for review with you Career mentor when you meet after the next Employability Day.
 
-#### \*\*\*\*
+#### ****
 
 #### **Challenge or Additional resources**
 
@@ -192,4 +192,3 @@ Start crafting your CV by going through this CV workbook. [https://personaldevel
 Put the links to the materials you referenced in the lesson
 
 Give activities they could do to deepen their understanding
-

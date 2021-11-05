@@ -17,23 +17,23 @@ In the UK Dyslexia is classified as a disability under the Equality Act 2010. We
 
 ### Dyslexia Awareness Part 1, Microsoft and Made By Dyslexia
 
-This course will provide essential insights into dyslexia, which we believe all educators and parents should have. \(1 hour\)
+This course will provide essential insights into dyslexia, which we believe all educators and parents should have. (1 hour)
 
 {% embed url="https://education.microsoft.com/en-us/course/30a7b5e8/overview" %}
 
-### Dyslexia Awareness Part 2, Microsoft and Made By Dyslexia 
+### Dyslexia Awareness Part 2, Microsoft and Made By Dyslexia&#x20;
 
-This course will provide an overview of ways teachers can elevate their practice to scaffold support for students in any content area. \(1 hour\) 
+This course will provide an overview of ways teachers can elevate their practice to scaffold support for students in any content area. (1 hour)&#x20;
 
 {% embed url="https://education.microsoft.com/en-us/course/4acb190d/overview" %}
 
 ### Volunteer Learning Log
 
-Whenever you complete training please fill out your Learning Log. This allows us to track of the support and development opportunities you have had during your time with us.   
-  
-Please make a local copy of the Learning Log and fill in your details.  
+Whenever you complete training please fill out your Learning Log. This allows us to track of the support and development opportunities you have had during your time with us. \
+\
+Please make a local copy of the Learning Log and fill in your details. &#x20;
 
-{% embed url="https://docs.google.com/document/d/18jvWeMpx-i2VhU-92YBXQqSai9-o0C-\_yhhTKkwHPfs/edit?usp=sharing" caption="https://docs.google.com/document/d/1hA15MzM9yTxTn7U5u3iGxlfui0V0gftldBkz5FkI2bk/edit?usp=sharing" %}
-
-
+{% embed url="https://docs.google.com/document/d/18jvWeMpx-i2VhU-92YBXQqSai9-o0C-_yhhTKkwHPfs/edit?usp=sharing" %}
+https://docs.google.com/document/d/1hA15MzM9yTxTn7U5u3iGxlfui0V0gftldBkz5FkI2bk/edit?usp=sharing
+{% endembed %}
 

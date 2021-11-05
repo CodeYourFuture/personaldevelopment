@@ -10,15 +10,15 @@ Warm up:
 
 Facilitator invite and lead participants to take a deep breath, stretch body: head, neck, shoulders, arms, hands, waist, hips, jaw, tongue and lips.
 
-* pay attention on breathing, feel free to make sounds, laugh and yawn –
+*   pay attention on breathing, feel free to make sounds, laugh and yawn –
 
-  Reflection: how did you feel before we started and now afterward? Have 2 – 3 participants comment.
+    Reflection: how did you feel before we started and now afterward? Have 2 – 3 participants comment.
 
 Name game:
 
 Participants are invited to share their names and an interesting face about themselves.  e.g. I am Carolina and I run everyday.
 
-\(Everyone takes a turn- it’s important to hear everyone’s voice\)
+(Everyone takes a turn- it’s important to hear everyone’s voice)
 
 Activity:
 
@@ -28,23 +28,21 @@ e.g. instrument, book, pen, notebook, cushion, etc.
 
 Reflection: Participants are invited to open the mic and tell the story of the object.
 
-* What is it? 
+*   What is it?&#x20;
 
-  Where did you get it? 
+    Where did you get it?&#x20;
 
-  Why is it important? 
+    Why is it important?&#x20;
 
-  How did you get attached to it? 
+    How did you get attached to it?&#x20;
 
-\(Participants are asked to keep the object for next FYV session\)
+(Participants are asked to keep the object for next FYV session)
 
 Closure:
 
-Facilitator asks participants to rename themselves \(on zoom\) to how they are feeling right now. E.g. Carolina/ Excited
+Facilitator asks participants to rename themselves (on zoom) to how they are feeling right now. E.g. Carolina/ Excited
 
 Offer space for few participants to comment on the feeling they will take from the session.
 
-{% embed url="https://docs.google.com/presentation/d/1hqwJfWt7PI9Ga1m8iJOCg5ZN5gjjn3frKIrzrPm\_r\_k/edit\#slide=id.p" %}
-
-
+{% embed url="https://docs.google.com/presentation/d/1hqwJfWt7PI9Ga1m8iJOCg5ZN5gjjn3frKIrzrPm_r_k/edit#slide=id.p" %}
 

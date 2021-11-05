@@ -10,13 +10,13 @@ This training will take roughly 90 minutes to complete.
 
 ## Prior Knowledge
 
-To take part in this training you are expected to 
+To take part in this training you are expected to&#x20;
 
 * Have some understanding of the challenges faced by our students
-* Be a good listener 
-* Be able to empower 
+* Be a good listener&#x20;
+* Be able to empower&#x20;
 
-You may also 
+You may also&#x20;
 
 * Have taught on the tech stack with CodeYourFuture in the past
 * Be a graduate of CodeYourFuture
@@ -26,21 +26,23 @@ We do not expect you
 
 * To have any professional background in mental health, immigration, finace, housing, social services or employment.
 
-{% embed url="https://docs.google.com/presentation/d/1eJXzW0TIyzqZsvvFn63qSkfpB2gRmXQJsT\_KIHbhszU/edit?usp=sharing" %}
+{% embed url="https://docs.google.com/presentation/d/1eJXzW0TIyzqZsvvFn63qSkfpB2gRmXQJsT_KIHbhszU/edit?usp=sharing" %}
 
 ### Training Feedback
 
-Please fill in this form to fedback on the training and how useful you found it in preparing you for your role. 
+Please fill in this form to fedback on the training and how useful you found it in preparing you for your role.&#x20;
 
-{% embed url="https://forms.gle/7r5Xnf4sWRWYyBpJ7" caption="Buddy training feedback form" %}
+{% embed url="https://forms.gle/7r5Xnf4sWRWYyBpJ7" %}
+Buddy training feedback form
+{% endembed %}
 
 ### Volunteer Learning Log
 
-Whenever you complete training please fill out your Learning Log. This allows us to track of the support and development opportunities you have had during your time with us.   
-  
-Please make a local copy of the Learning Log and fill in your details.  
+Whenever you complete training please fill out your Learning Log. This allows us to track of the support and development opportunities you have had during your time with us. \
+\
+Please make a local copy of the Learning Log and fill in your details. &#x20;
 
-{% embed url="https://docs.google.com/document/d/18jvWeMpx-i2VhU-92YBXQqSai9-o0C-\_yhhTKkwHPfs/edit?usp=sharing" caption="https://docs.google.com/document/d/1hA15MzM9yTxTn7U5u3iGxlfui0V0gftldBkz5FkI2bk/edit?usp=sharing" %}
-
-
+{% embed url="https://docs.google.com/document/d/18jvWeMpx-i2VhU-92YBXQqSai9-o0C-_yhhTKkwHPfs/edit?usp=sharing" %}
+https://docs.google.com/document/d/1hA15MzM9yTxTn7U5u3iGxlfui0V0gftldBkz5FkI2bk/edit?usp=sharing
+{% endembed %}
 

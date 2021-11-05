@@ -6,34 +6,34 @@ description: >-
 
 # Dyslexia and Coding
 
-## Yay! You have started your journey with coding! 
+## Yay! You have started your journey with coding!&#x20;
 
-  
-It might be fun now but at some point it may become hard. 
+\
+It might be fun now but at some point it may become hard.&#x20;
 
-You might belive that dyslexia makes coding is difficult and you're not smart enough.   
-  
-But the way a dyslexics brain works actually makes you better able to code! 
+You might belive that dyslexia makes coding is difficult and you're not smart enough. \
+\
+But the way a dyslexics brain works actually makes you better able to code!&#x20;
 
 ### Some inspiring innovators with dyslexia:
 
-Remember [Steve Jobs](https://www.theguardian.com/commentisfree/2013/jun/24/dyslexia-not-a-disability-gift), the co-founder of Apple? 
+Remember [Steve Jobs](https://www.theguardian.com/commentisfree/2013/jun/24/dyslexia-not-a-disability-gift), the co-founder of Apple?&#x20;
 
-What about [Ingvar Kamprad](https://youtu.be/y9csIXmtJW0)? Don't know his name? He's the founder of IKEA. 
+What about [Ingvar Kamprad](https://youtu.be/y9csIXmtJW0)? Don't know his name? He's the founder of IKEA.&#x20;
 
-British chef Jamie Oliver 
+British chef Jamie Oliver&#x20;
 
-Virgin group founder and Made By Dislexia co-founder [Richard Branson](https://www.virgin.com/branson-family/richard-branson-blog/dyslexia-and-imagination) 
+Virgin group founder and Made By Dislexia co-founder [Richard Branson](https://www.virgin.com/branson-family/richard-branson-blog/dyslexia-and-imagination)&#x20;
 
-Film director [Stephen Speilberg](https://youtu.be/4N6RKHOHMJQ)  
-  
-[Princess Beatrice](https://youtu.be/JrSV-rLaVCA), Keira Knightly, Woopi Goldberg, Agatha Critistie,    
+Film director [Stephen Speilberg](https://youtu.be/4N6RKHOHMJQ)\
+\
+[Princess Beatrice](https://youtu.be/JrSV-rLaVCA), Keira Knightly, Woopi Goldberg, Agatha Critistie,  \
 
 
 ## How dyslexic brain works:
 
-Dyslexia Awareness Part 1: Module 1 - About Dyslexia [https://youtu.be/DgHDQeZ5QuA](https://youtu.be/DgHDQeZ5QuA)  
-  
+Dyslexia Awareness Part 1: Module 1 - About Dyslexia [https://youtu.be/DgHDQeZ5QuA](https://youtu.be/DgHDQeZ5QuA)\
+\
 Dyslexia Awareness Part 1: Module 2 - Dyslexic Strengths [https://youtu.be/d4VRjQnBoWM](https://youtu.be/d4VRjQnBoWM)
 
 Dyslexics are more intelligent - Here is why - Hack Dyslexia - [https://youtu.be/ZyMU4cAMT6c](https://youtu.be/ZyMU4cAMT6c)
@@ -42,11 +42,10 @@ Dyslexics better engineers, here is why - Hack Dyslexia - The Power Of Material 
 
 [https://datacarpentry.org/blog/2017/09/coding-and-dyslexia](https://datacarpentry.org/blog/2017/09/coding-and-dyslexia)
 
-[https://www.bcs.org/content-hub/why-dyslexics-make-good-coders/](https://www.bcs.org/content-hub/why-dyslexics-make-good-coders/)  
-  
+[https://www.bcs.org/content-hub/why-dyslexics-make-good-coders/](https://www.bcs.org/content-hub/why-dyslexics-make-good-coders/)\
+\
 [https://softwareengineering.stackexchange.com/questions/9657/programming-with-dyslexia](https://softwareengineering.stackexchange.com/questions/9657/programming-with-dyslexia)
 
 
 
-## How to support your learning 
-
+## How to support your learning&#x20;

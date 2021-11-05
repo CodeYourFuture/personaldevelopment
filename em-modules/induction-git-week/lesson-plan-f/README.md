@@ -2,11 +2,11 @@
 description: Communication and confidence building sessions
 ---
 
-# FindYourVoice - Empowerment Storytelling Workshops
+# 🛑 Don't Use!!!! FindYourVoice - Empowerment Storytelling Workshops
 
 * Use as  icebreaker activity at astart of the day or after lunch
 * Sessions 1 & 2 should have been run during Fundamentals
-* If you didn't, start with session 1 
+* If you didn't, start with session 1&#x20;
 
 **1. Why FindYourVoice?**
 
@@ -39,9 +39,9 @@ Pedagogy of the oppressed is a methodology created by the Brazilian educator Pau
 
 b. Method
 
-**Theatre of the oppressed** 
+**Theatre of the oppressed **
 
-Theatre of the oppressed is a method created by the Brazilian theatre director, Augusto Boal aiming for peripheral groups \(the oppressed\) to be in charge of their own stories, cultural production, knowledge and the ‘right to be oneself’. Boal also created a series of drama games that allows actors and/or non-actors to dialog, exchange experiences and discuss actions for social change.
+Theatre of the oppressed is a method created by the Brazilian theatre director, Augusto Boal aiming for peripheral groups (the oppressed) to be in charge of their own stories, cultural production, knowledge and the ‘right to be oneself’. Boal also created a series of drama games that allows actors and/or non-actors to dialog, exchange experiences and discuss actions for social change.
 
 c. Theory
 
@@ -60,13 +60,13 @@ d. Concept
 
 **Decolonisation**
 
-Decoloniality or decolonization is a concept developed by a collective of primarily Latin American scholars aiming at liberation of \(ex -\) colonized people from global coloniality. Decolonization is also considered a way of thinking, knowing and doing.
+Decoloniality or decolonization is a concept developed by a collective of primarily Latin American scholars aiming at liberation of (ex -) colonized people from global coloniality. Decolonization is also considered a way of thinking, knowing and doing.
 
 In order to understand the concept of decoloniality, it is essential to understand the concept of coloniality first. Coloniality of power describes a set of interrelated practices, whose origins trace to the project of European colonialism. It is constituted through the co-presence of three fundamental elements: domination, exploitation and conflict. Furthermore, a system of racial hierarchy is recognized as the foundation upon which the modern world is structured. Within this hierarchy, the European subject is posited as superior to all others; conversely, other subjects — those colonized, those enslaved — were posited as expendable. Concurrently, a system of knowledge which postulates European culture as superior is enforced and maintained, as a relation between ‘subject’ and ‘object’”.
 
 Having said that, decoloniality focuses on untangling the production of knowledge from a primarily Eurocentric episteme. In other words, decolonization is the process of unlearning the social constructs imposed on us and valuing non-western knowledge and wisdom.
 
-**4. Implementation** 
+**4. Implementation **
 
 Having defined the framework that will serve as a support and guide the work we are going to be doing with CYF students,  here is how the above will be implemented.
 
@@ -74,8 +74,7 @@ The idea is that this programme functions under the Personal Development umbrell
 
 Programme is divided in four modules following CYF academic year:
 
-* Fundamentals: 4 weekly sessions 
+* Fundamentals: 4 weekly sessions&#x20;
 * Full stack course: 4 weekly sessions
-* Optional: once a month – 4 sessions? 
+* Optional: once a month – 4 sessions?&#x20;
 * Preparing for final presentation: 4 weekly sessions
-

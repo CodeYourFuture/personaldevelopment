@@ -4,13 +4,15 @@ description: A Futurespective is another way for a team to plan
 
 # Futurespective
 
-## There are various ways to run a Futurespective 
+There are various ways to run a Futurespective\
+
+
 
 ### Here are 3 versions you can try [https://metroretro.io/blog/what-is-a-futurespective](https://metroretro.io/blog/what-is-a-futurespective) 
 
 #### 1. Hopes and Concerns
 
-![](https://uploads-ssl.webflow.com/5ef3109807a3938491cecdfd/5f31712663b9d18f7a7f3a6a_Hopes%20and%20Concerns%20retro.PNG)
+![](https://uploads-ssl.webflow.com/5ef3109807a3938491cecdfd/5f31712663b9d18f7a7f3a6a\_Hopes%20and%20Concerns%20retro.PNG)
 
 Hopes and Concerns is a lightweight futurespective template
 
@@ -20,17 +22,17 @@ The Hopes and Concerns exercise asks team members to open up and communicate wha
 
 #### 2. The sailboat futurespective
 
-![](https://uploads-ssl.webflow.com/5ef3109807a3938491cecdfd/5f3170dfe0a2e4670f2b58eb_Sailboat%20futurespective.PNG)
+![](https://uploads-ssl.webflow.com/5ef3109807a3938491cecdfd/5f3170dfe0a2e4670f2b58eb\_Sailboat%20futurespective.PNG)
 
 The Sailboat - how does your team get to their tropical island?
 
-Get the team to work from the goal backwards \(in this case the tropical island is your goal\), then focus on the things that help and prevent the team’s boat from reaching the island.
+Get the team to work from the goal backwards (in this case the tropical island is your goal), then focus on the things that help and prevent the team’s boat from reaching the island.
 
 
 
 #### 3. The newspaper headline futurespective
 
-![](https://uploads-ssl.webflow.com/5ef3109807a3938491cecdfd/5f3a9dd24fdb90af0aece398_Newspaper.jpg)
+![](https://uploads-ssl.webflow.com/5ef3109807a3938491cecdfd/5f3a9dd24fdb90af0aece398\_Newspaper.jpg)
 
 The ‘News Headline’ is a creative futurespective - imagine a future where a newspaper is reporting the team’s success on their front page. To run this futurespective, split the group into small teams and have them create:
 
@@ -42,15 +44,13 @@ The ‘News Headline’ is a creative futurespective - imagine a future where a 
 
 How to Run a Futurespective by Liz Keogh- [https://lizkeogh.com/2018/09/12/how-to-run-a-futurespective/](https://lizkeogh.com/2018/09/12/how-to-run-a-futurespective/)
 
-* Set the Scene and Create a Timeline: group agrees on a set timeline to focus on 
-* No Safety Check: encourage creativity rather than making sure everyone feels safe 
-* Step into the Future: traverse the timeline and fill in with events 
-* Look back at the past negatively \(skip to positive if short on time\):
+* Set the Scene and Create a Timeline: group agrees on a set timeline to focus on&#x20;
+* No Safety Check: encourage creativity rather than making sure everyone feels safe&#x20;
+* Step into the Future: traverse the timeline and fill in with events&#x20;
+* Look back at the past negatively (skip to positive if short on time):
 * State interrupt – break the mood!
 * Step forward into the future again
 * Look back at the past positively
 * Dot-vote
 * Create actions
-
-
 
